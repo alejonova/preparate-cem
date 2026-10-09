@@ -1,4 +1,4 @@
-# Aplicación de práctica de exámenes — Versión 1.3
+# Aplicación de práctica de exámenes
 
 Django + SQLite + Docker para práctica privada de exámenes.
 
@@ -20,7 +20,6 @@ Django + SQLite + Docker para práctica privada de exámenes.
 
 ## Datos persistentes
 El volumen `./data:/app/data` conserva SQLite, bancos y guías PDF.
-No reemplazar `/docker/examenes/data/db.sqlite3` ni `.env` durante una actualización.
 
 ## Mi Cuenta
 La ruta `/mi-cuenta/` requiere autenticación y queda integrada en la navegación principal para usuarios con acceso a la plataforma. El cambio de correo exige verificar la contraseña actual; además se valida que el nuevo correo no pertenezca a otra cuenta. El cambio de contraseña conserva la sesión activa actual. El QR y la clave manual se generan a partir del secreto OTP existente del usuario, sin crear uno nuevo.
