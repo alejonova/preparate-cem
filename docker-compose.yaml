@@ -1,0 +1,11 @@
+services:
+  web:
+    build: .
+    container_name: cem_2027_1_5
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "7123:8000"
+    volumes:
+      - ./data:/app/data
