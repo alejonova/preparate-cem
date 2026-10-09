@@ -1,0 +1,907 @@
+{
+  "subject": "Historia de Colombia",
+  "description": "Banco de preguntas Historia de Colombia — CEM 2027.",
+  "total_questions": 100,
+  "questions": [
+    {
+      "number": 1,
+      "text": "Según la guía, ¿cómo se llamaba el cuerpo especial de guerreros caribes que defendía la línea de retaguardia lanzando vasijas de barro con una sustancia tóxica?",
+      "option_a": "Los turbacos",
+      "option_b": "Los ditaynos",
+      "option_c": "Los pantágoras",
+      "option_d": "Los mapurites",
+      "correct_option": "D"
+    },
+    {
+      "number": 2,
+      "text": "De acuerdo con la guía, ¿cuál era la sede de gobierno del cacicazgo de Bogotá, el más extenso y poblado del territorio muisca?",
+      "option_a": "Suba",
+      "option_b": "Funza",
+      "option_c": "Ubaque",
+      "option_d": "Hunza",
+      "correct_option": "B"
+    },
+    {
+      "number": 3,
+      "text": "¿Quién fundó Santa Marta, según la guía, y en qué año?",
+      "option_a": "Rodrigo de Bastidas, en 1525",
+      "option_b": "Pedro de Heredia, en 1525",
+      "option_c": "Rodrigo de Bastidas, en 1538",
+      "option_d": "Alonso de Ojeda, en 1509",
+      "correct_option": "A"
+    },
+    {
+      "number": 4,
+      "text": "¿En qué fecha fue fundada por Gonzalo Jiménez de Quesada la ciudad de Santafé?",
+      "option_a": "El 6 de agosto de 1538",
+      "option_b": "El 7 de agosto de 1538",
+      "option_c": "El 27 de noviembre de 1718",
+      "option_d": "El 6 de agosto de 1525",
+      "correct_option": "A"
+    },
+    {
+      "number": 5,
+      "text": "Tras la fundación de Timaná, ¿bajo el mando de qué cacique se coligaron los yalcones y paeces contra los españoles?",
+      "option_a": "Nutibara",
+      "option_b": "Titamo",
+      "option_c": "Pigoanza",
+      "option_d": "Calarcá",
+      "correct_option": "C"
+    },
+    {
+      "number": 6,
+      "text": "¿Qué presidente \"de capa y espada\", con vasta experiencia militar, llegó a Santafé en 1605 para someter a los pijaos?",
+      "option_a": "Don Domingo Erazo",
+      "option_b": "Don Pedro de Ursúa",
+      "option_c": "Don Juan de Borja",
+      "option_d": "Don Andrés Díaz Venero de Leiva",
+      "correct_option": "C"
+    },
+    {
+      "number": 7,
+      "text": "¿Quién tomó posesión como primer virrey del Nuevo Reino de Granada el 27 de noviembre de 1718?",
+      "option_a": "El teniente general Pedro Messía de la Cerda",
+      "option_b": "El teniente general Jorge de Villalonga",
+      "option_c": "El teniente general Sebastián de Eslava",
+      "option_d": "El teniente general José Alfonso Pizarro",
+      "correct_option": "B"
+    },
+    {
+      "number": 8,
+      "text": "¿Quiénes fueron los autores del primer programa oficial del Partido Conservador, publicado en 1848 en el periódico La Civilización?",
+      "option_a": "José Eusebio Caro y Mariano Ospina Rodríguez",
+      "option_b": "José Eusebio Caro y Miguel Antonio Caro",
+      "option_c": "Mariano Ospina Rodríguez y Rafael Núñez",
+      "option_d": "Ezequiel Rojas y Mariano Ospina Rodríguez",
+      "correct_option": "A"
+    },
+    {
+      "number": 9,
+      "text": "En el ataque peruano a La Pedrera (1911), ¿quién comandaba a los 70 colombianos, la mayoría enfermos, que resistieron heroicamente por tres días?",
+      "option_a": "El coronel Oscar Benavides",
+      "option_b": "El general Alfredo Vásquez Cobo",
+      "option_c": "El general Isaías Gamboa",
+      "option_d": "El general Esteban Huertas",
+      "correct_option": "C"
+    },
+    {
+      "number": 10,
+      "text": "¿Qué evento, que presidiría el general Marshall, se iba a celebrar en Bogotá en abril de 1948 y con qué objeto principal?",
+      "option_a": "La IX Conferencia Panamericana, para establecer un bloque continental contra la penetración del comunismo",
+      "option_b": "La Conferencia de las Naciones Unidas, presidida por Marshall, para coordinar el envío de contingentes latinoamericanos a Corea",
+      "option_c": "El Congreso Obrero Nacional, para fundar el Partido Comunista Colombiano en la capital",
+      "option_d": "La IX Conferencia Panamericana, para negociar una fuerza multinacional de paz para el continente",
+      "correct_option": "A"
+    },
+    {
+      "number": 11,
+      "text": "En la Nueva Granada, ¿quién elaboró el Memorial de Agravios, que protestaba contra la discriminación de que eran objeto los criollos?",
+      "option_a": "Francisco José de Caldas",
+      "option_b": "Antonio Nariño",
+      "option_c": "Joaquín Camacho",
+      "option_d": "El abogado Camilo Torres",
+      "correct_option": "D"
+    },
+    {
+      "number": 12,
+      "text": "Según la guía, ¿quién fue el primer granadino que rigió los destinos del país al ocupar la presidencia de la junta en ausencia de Amar y Borbón?",
+      "option_a": "Camilo Torres",
+      "option_b": "José Miguel Pey",
+      "option_c": "Antonio Nariño",
+      "option_d": "José Acevedo y Gómez",
+      "correct_option": "B"
+    },
+    {
+      "number": 13,
+      "text": "¿Con cuántos soldados, granadinos y venezolanos, emprendió Bolívar la Campaña Admirable el 23 de marzo de 1813?",
+      "option_a": "Con unos 600",
+      "option_b": "Con unos 1.600",
+      "option_c": "Con unos 2.000",
+      "option_d": "Con unos 800",
+      "correct_option": "A"
+    },
+    {
+      "number": 14,
+      "text": "¿Cuántos días resistieron los cartageneros el sitio de Morillo en 1815?",
+      "option_a": "106 días",
+      "option_b": "40 días",
+      "option_c": "180 días",
+      "option_d": "60 días",
+      "correct_option": "A"
+    },
+    {
+      "number": 15,
+      "text": "En el Régimen del Terror implantado por Morillo, ¿qué organismo estaba a cargo de los destierros y encarcelamientos?",
+      "option_a": "El Consejo de Guerra",
+      "option_b": "La Junta de Secuestros",
+      "option_c": "El Tribunal de Purificación",
+      "option_d": "La Real Audiencia",
+      "correct_option": "C"
+    },
+    {
+      "number": 16,
+      "text": "En el Pantano de Vargas, ¿cuántos jinetes alcanzaron a oír inicialmente a Rondón y se arrojaron sobre el cerrado escuadrón enemigo?",
+      "option_a": "Quinientos",
+      "option_b": "Doscientos",
+      "option_c": "Trescientos",
+      "option_d": "Catorce",
+      "correct_option": "D"
+    },
+    {
+      "number": 17,
+      "text": "En la batalla del Puente de Boyacá, ¿cuáles fueron las pérdidas patriotas?",
+      "option_a": "53 muertos y 13 heridos",
+      "option_b": "30 muertos y 53 heridos",
+      "option_c": "40 muertos y 130 heridos",
+      "option_d": "13 muertos y 53 heridos",
+      "correct_option": "D"
+    },
+    {
+      "number": 18,
+      "text": "Según la relación de presidentes de la guía, ¿quién gobernó entre el 7 de agosto de 1904 y el 9 de junio de 1909?",
+      "option_a": "El general Rafael Reyes Prieto",
+      "option_b": "El general Ramón González Valencia",
+      "option_c": "José Manuel Marroquín",
+      "option_d": "El general Jorge Holguín",
+      "correct_option": "A"
+    },
+    {
+      "number": 19,
+      "text": "En 1839, ¿qué presidente, a instancias del obispo de Popayán, decidió hacer efectiva la norma de clausurar los conventos con menos de ocho religiosos?",
+      "option_a": "José Ignacio de Márquez",
+      "option_b": "Pedro Alcántara Herrán",
+      "option_c": "Tomás Cipriano de Mosquera",
+      "option_d": "José María Obando",
+      "correct_option": "A"
+    },
+    {
+      "number": 20,
+      "text": "Según la guía, ¿cuántos años mantuvo su vigencia la Constitución de 1886, la que más duración ha tenido en el país?",
+      "option_a": "24 años",
+      "option_b": "45 años",
+      "option_c": "105 años",
+      "option_d": "10 años",
+      "correct_option": "C"
+    },
+    {
+      "number": 21,
+      "text": "Según la guía, ¿cuántos grupos guerrilleros se desmovilizaron durante el gobierno de César Gaviria (1990-94)?",
+      "option_a": "Cinco",
+      "option_b": "Nueve",
+      "option_c": "Siete",
+      "option_d": "Cuatro",
+      "correct_option": "C"
+    },
+    {
+      "number": 22,
+      "text": "En la relación de \"Nuestros próceres militares\", ¿a quién se describe como \"el héroe de la batalla más importante de la independencia\"?",
+      "option_a": "A Antonio José de Sucre",
+      "option_b": "A Juan José Rondón",
+      "option_c": "A Atanasio Girardot",
+      "option_d": "A José Prudencio Padilla",
+      "correct_option": "B"
+    },
+    {
+      "number": 23,
+      "text": "¿Quién protagonizó la toma del Palacio de Justicia en noviembre de 1985 y qué saldo de muertos registra la guía?",
+      "option_a": "Un comando del ELN; murió un centenar de personas, entre ellas 48 militares",
+      "option_b": "Un comando del M-19; murió un centenar de personas, entre ellas 11 magistrados",
+      "option_c": "Un comando del M-19; murieron 33 personas, todas civiles, entre ellas 11 magistrados",
+      "option_d": "Un comando de las FARC; murió un centenar de personas, entre ellas 11 magistrados",
+      "correct_option": "B"
+    },
+    {
+      "number": 24,
+      "text": "¿Qué grupo fue fundado en 1967 por decisión del PCC-ML y con qué línea ideológica, según la guía?",
+      "option_a": "El ELN, de línea maoísta",
+      "option_b": "Las FARC, de línea maoísta",
+      "option_c": "El EPL, de orientación castrista",
+      "option_d": "El EPL, de línea maoísta",
+      "correct_option": "D"
+    },
+    {
+      "number": 25,
+      "text": "En la Operación Fénix (2008), ¿qué cabecilla del Secretariado de las FARC fue neutralizado, según la guía?",
+      "option_a": "Alfonso Cano, sucesor de Marulanda",
+      "option_b": "Manuel Marulanda Vélez, alias Tirofijo",
+      "option_c": "Víctor Julio Suárez Rojas, alias Mono Jojoy",
+      "option_d": "Luis Édgar Devia Silva, alias Raúl Reyes",
+      "correct_option": "D"
+    },
+    {
+      "number": 26,
+      "text": "Según la guía, ¿por qué la organización social más avanzada de los chibchas facilitó su sometimiento por los españoles?",
+      "option_a": "Porque la jerarquía de sus caciques permitía someter a toda la tribu con solo capturar al jefe",
+      "option_b": "Porque la pólvora, el caballo y el perro los convencieron de que toda resistencia era estéril",
+      "option_c": "Porque aceptaron el manifiesto real que los conminaba a la fe cristiana y a la sumisión al rey",
+      "option_d": "Porque vivían en grupos de familias apenas cohesionados, aislados entre sí por su débil intercambio",
+      "correct_option": "A"
+    },
+    {
+      "number": 27,
+      "text": "Según la guía, ¿qué explica el virtual abandono militar del interior de las posesiones americanas por parte de España?",
+      "option_a": "Que los metales preciosos del Perú llegaban directamente a España sin necesidad de fortalezas costaneras ni de convoyes",
+      "option_b": "Que, exterminadas las últimas naciones caribes, no tenía enemigos en el interior y sus adversarios eran depredadores del mar",
+      "option_c": "Que los adversarios de España buscaban poseer los territorios interiores de la franja malsana y ardiente de su zona tórrida americana",
+      "option_d": "Que las guarniciones de Santafé y Popayán eran numerosas y bastaban para vigilar a los remanentes aborígenes del interior",
+      "correct_option": "B"
+    },
+    {
+      "number": 28,
+      "text": "¿Qué motivó a Felipe V a restablecer el virreinato, mediante la real cédula del 20 de septiembre de 1739?",
+      "option_a": "La necesidad de expulsar a los 400 escoceses asentados en Nueva Edimburgo, en las vecindades del Darién",
+      "option_b": "El éxito del pirata Hossier al forzar la entrada de Cartagena por Bocagrande con nueve buques armados",
+      "option_c": "Los informes adversos del primer virrey, que movieron a la Corona a cuestionar la jerarquía del Nuevo Reino de Granada",
+      "option_d": "La inminencia de una nueva guerra con Inglaterra y la necesidad de asegurar la unidad defensiva del litoral Caribe",
+      "correct_option": "D"
+    },
+    {
+      "number": 29,
+      "text": "¿Qué relación de causa y efecto describe la guía en la guerra civil de 1859 en Santander?",
+      "option_a": "La idea de crear la \"República del Zulia\" motivó el alzamiento conservador, que, aunque derrotado, evitó la separación del Estado de Santander",
+      "option_b": "La idea de crear la \"República del Zulia\" motivó el alzamiento liberal, que, aunque derrotado en Suratá, evitó la separación del Estado de Santander",
+      "option_c": "La liberación de los esclavos motivó el alzamiento conservador, que, aunque derrotado, evitó la separación del Estado de Santander",
+      "option_d": "El alzamiento conservador, victorioso en La Concepción, logró establecer la \"República del Zulia\" con territorios de Colombia y Venezuela",
+      "correct_option": "A"
+    },
+    {
+      "number": 30,
+      "text": "Además de la heroica defensa de la ciudad amurallada, ¿qué factor determinó, según la guía, el repliegue de la flota de Vernon hacia Jamaica?",
+      "option_a": "Las enfermedades tropicales, que causaron a sus hombres más pérdidas que las armas de los sitiados",
+      "option_b": "La escasez de artillería naval, pues la escuadra atacante solo contaba con 51 naves de guerra",
+      "option_c": "El cierre de la bahía por una escollera levantada entre Santa Catalina y Bocagrande",
+      "option_d": "La llegada de una flota de 15 navíos españoles de línea que escoltaban 11 galeones con refuerzos",
+      "correct_option": "A"
+    },
+    {
+      "number": 31,
+      "text": "¿Qué corolario dejó la Rebelión Comunera en la mentalidad del gobierno español, según la guía?",
+      "option_a": "La necesidad de eliminar el fuero militar para evitar nuevos conflictos de competencia",
+      "option_b": "La necesidad de guarnecer el interior para asegurar la obediencia de los vasallos",
+      "option_c": "La necesidad de suprimir las milicias de Blancos y Pardos por su indisciplina",
+      "option_d": "La necesidad de concentrar todas las fuerzas en Cartagena frente a la amenaza naval inglesa",
+      "correct_option": "B"
+    },
+    {
+      "number": 32,
+      "text": "¿Qué relación establece la guía entre la guerra civil de 1812-1813 y la Reconquista española?",
+      "option_a": "La Reconquista impidió que centralistas y federalistas resolvieran sus diferencias por las armas",
+      "option_b": "La guerra debilitó y dividió a los republicanos, facilitando el proceso de la Reconquista",
+      "option_c": "La guerra unificó a centralistas y federalistas, lo que provocó la reacción militar de España",
+      "option_d": "La derrota de Nariño en Ventaquemada abrió a Morillo el camino hacia Cartagena y Santa Fe",
+      "correct_option": "B"
+    },
+    {
+      "number": 33,
+      "text": "¿Qué conclusión sacó Bolívar del fracaso de la expedición libertadora apoyada por los haitianos?",
+      "option_a": "Que debía abandonar la lucha en Venezuela y concentrar todos sus ejércitos en la Nueva Granada y Casanare",
+      "option_b": "Que no lograría la victoria sin el respaldo de las clases populares, por lo que la guerra debía ser popular",
+      "option_c": "Que el apoyo de la Legión Británica era indispensable antes de emprender cualquier nueva campaña militar",
+      "option_d": "Que debía liberar de inmediato a todos los esclavos de Haití para asegurar el respaldo del presidente Petión",
+      "correct_option": "B"
+    },
+    {
+      "number": 34,
+      "text": "¿Cuál fue una consecuencia estratégica de la victoria patriota en el Puente de Boyacá, según la guía?",
+      "option_a": "La disolución de la Gran Colombia por las rivalidades entre Bolívar, Santander y Páez desde 1819",
+      "option_b": "La liberación definitiva de Venezuela, asegurada por la rendición inmediata de la plaza de Puerto Cabello y de Cumaná",
+      "option_c": "La Nueva Granada pasó a ser el centro desde el cual partieron las expediciones libertadoras hacia otras naciones",
+      "option_d": "La rendición pacífica de Cartagena y la captura del general Morales en el lago de Maracaibo",
+      "correct_option": "C"
+    },
+    {
+      "number": 35,
+      "text": "Según la guía, ¿qué repercusión inmediata tuvo la pérdida de Maracaibo ante Morales en 1822?",
+      "option_a": "Provocó la rendición de Puerto Cabello y de Cumaná ante las fuerzas del general Morales en Coro",
+      "option_b": "Causó la destrucción de la escuadra de Padilla, que había actuado en la noche de San Juan",
+      "option_c": "Alteró los planes libertadores sobre el Perú y consumió ingentes esfuerzos del gobierno para frenar a los realistas",
+      "option_d": "Obligó a Bolívar a abandonar la campaña de Ecuador para marchar de inmediato hacia Caracas y Maracaibo con todo su ejército",
+      "correct_option": "C"
+    },
+    {
+      "number": 36,
+      "text": "¿Qué factores conspiraron contra la existencia de la Gran Colombia, según la guía?",
+      "option_a": "La oposición de Santander al Congreso de Cúcuta, la renuncia de Páez y el posterior destierro de Bolívar a Santa Marta tras la conspiración de 1828",
+      "option_b": "El fracaso de la campaña del Perú, la pérdida de Maracaibo ante Morales y la ruptura entre Bolívar y Sucre",
+      "option_c": "La resistencia de Pasto, el atentado de 1828 contra Santander y el retiro de Nariño del Congreso de Cúcuta",
+      "option_d": "Conflictos entre venezolanos y el gobierno central, choques entre Páez y Santander y la ruptura ideológica entre Bolívar y Santander",
+      "correct_option": "D"
+    },
+    {
+      "number": 37,
+      "text": "¿Qué relación causal explica el golpe de estado del general Melo en abril de 1854?",
+      "option_a": "El proyecto de la República del Zulia llevó a Melo a asumir el poder para evitar la separación de Santander",
+      "option_b": "La liberación de los esclavos arruinó a los grandes propietarios, que respaldaron el golpe del general Melo",
+      "option_c": "La disolución del Congreso por Obando provocó la reacción de los gólgotas contra el presidente de la República y su gabinete",
+      "option_d": "La institucionalización del librecambio provocó el alzamiento de los artesanos proteccionistas, comandados por Melo",
+      "correct_option": "D"
+    },
+    {
+      "number": 38,
+      "text": "¿Con qué propósito aprobaron los radicales en 1863 el principio de la soberanía absoluta de los Estados?",
+      "option_a": "Asegurar la participación de los conservadores en los gobiernos regionales y en la elección del presidente de la Unión de Estados",
+      "option_b": "Garantizar la unidad del país mediante un poder presidencial fuerte y una autoridad centralizada en la capital",
+      "option_c": "Descentralizar los problemas de orden público, de modo que las guerras civiles quedaran circunscritas al Estado donde se iniciaran",
+      "option_d": "Fortalecer un ejército nacional permanente, capaz de reprimir los levantamientos regionales en todo el territorio",
+      "correct_option": "C"
+    },
+    {
+      "number": 39,
+      "text": "¿Cómo se relaciona el triunfo del gobierno en la guerra de 1885 con la Constitución de 1886?",
+      "option_a": "Tras la rebelión radical, Caro convocó una Constituyente liberal que restableció la soberanía absoluta de los Estados",
+      "option_b": "Tras vencer a los conservadores, los radicales convocaron una Constituyente que fortaleció al presidente y restableció la pena de muerte",
+      "option_c": "Tras vencer a los radicales, Núñez declaró extinta la carta de Rionegro y convocó una Constituyente que expidió una carta centralista",
+      "option_d": "Tras vencer a los radicales, Núñez convocó una Constituyente de radicales y conservadores que ratificó la carta federalista",
+      "correct_option": "C"
+    },
+    {
+      "number": 40,
+      "text": "¿Qué cadena de hechos condujo, según la guía, a la separación de Panamá el 3 de noviembre de 1903?",
+      "option_a": "El Congreso rechazó el tratado del canal y Roosevelt, irritado, apoyó un movimiento separatista respaldado por sus barcos",
+      "option_b": "La quiebra de la compañía de Lesseps llevó al gobierno de Marroquín a ceder el istmo a los Estados Unidos",
+      "option_c": "Benjamín Herrera, dueño del istmo, proclamó la independencia con el respaldo de la flota norteamericana surta en Panamá y Colón",
+      "option_d": "La capitulación de Neerlandia obligó a Colombia a entregar el departamento a cambio del apoyo de los marines",
+      "correct_option": "A"
+    },
+    {
+      "number": 41,
+      "text": "¿Cuál fue una consecuencia militar del conflicto colombo-peruano de 1932, según la guía?",
+      "option_a": "Se perdió el Trapecio Amazónico y el Protocolo de Río de Janeiro devolvió Leticia al Perú",
+      "option_b": "El Ejército Nacional aumentó sus efectivos de 4.000 a 12.000 hombres y la Aviación Militar recibió respaldo definitivo del gobierno",
+      "option_c": "El Ejército Nacional pasó de 12.000 a 40.000 hombres y se fundó la primera Escuela de Aviación Militar en el municipio de Flandes",
+      "option_d": "Se suspendió la Escuela de Aviación Militar por la difícil situación económica y se redujo el pie de fuerza",
+      "correct_option": "B"
+    },
+    {
+      "number": 42,
+      "text": "Según Álvaro Gómez, ¿por qué se deterioró el clima de tolerancia a partir de 1930?",
+      "option_a": "Porque los liberales perdieron la Presidencia y organizaron grupos armados para intentar recuperarla en 1932",
+      "option_b": "Porque la crisis de las Bananeras destruyó la legitimidad del régimen ante los trabajadores de la zona bananera",
+      "option_c": "Porque el Partido Conservador, dividido, intentó recuperar la Presidencia por medio de las armas y la insurrección",
+      "option_d": "Porque reapareció la incertidumbre sobre el predominio político y el gobierno presionó al electorado para alejarlo",
+      "correct_option": "D"
+    },
+    {
+      "number": 43,
+      "text": "Tras el colapso del sistema comunista (1989-1991), ¿por qué persistieron en la lucha las FARC y el ELN, a diferencia del EPL?",
+      "option_a": "Porque su financiación estaba asegurada por el secuestro, la extorsión y el narcotráfico, y su lucha era cada vez más económica",
+      "option_b": "Porque el Plan Colombia les permitió transformarse en narcoguerrilla bajo la protección de los Estados Unidos",
+      "option_c": "Porque el EPL, ya desmovilizado, les cedió sus armas y sus frentes de combate en febrero de 1991 en Colombia",
+      "option_d": "Porque la URSS mantuvo su respaldo económico a través de la Cuba castrista y de la China Roja de forma permanente y creciente",
+      "correct_option": "A"
+    },
+    {
+      "number": 44,
+      "text": "¿Cuál era el objetivo del Frente Nacional y cómo operaba, según la guía?",
+      "option_a": "Poner fin al gobierno de Rojas Pinilla mediante una Junta Militar de cinco miembros hasta 1958",
+      "option_b": "Derrotar a las guerrillas liberales mediante una amnistía y el desalojo de las repúblicas independientes del sur del país",
+      "option_c": "Poner fin a los cruentos enfrentamientos bipartidistas mediante la alternación de presidentes liberales y conservadores",
+      "option_d": "Reducir el poder presidencial mediante un ejecutivo plural elegido por ambos partidos",
+      "correct_option": "C"
+    },
+    {
+      "number": 45,
+      "text": "Con la toma inglesa de La Habana en 1762, ¿qué componente de la tríada estratégica española aparecía como el más débil, según la guía?",
+      "option_a": "La Inspección Militar de la Plaza, por carecer de un Estado Mayor propio",
+      "option_b": "Las fuerzas terrestres, disminuidas tras el asedio de Vernon a Cartagena",
+      "option_c": "La armada, débil ante la superioridad británica en los mares",
+      "option_d": "Las fortalezas, deterioradas por el tiempo y por los asaltos enemigos",
+      "correct_option": "C"
+    },
+    {
+      "number": 46,
+      "text": "Según la guía, ¿qué estrategias asumieron España e Inglaterra en el choque de imperios en el Caribe?",
+      "option_a": "Ambas asumieron una estrategia defensiva basada en puertos fortificados, y se diferenciaron solo en el uso de convoyes escoltados",
+      "option_b": "España, una ofensiva basada en la dispersión de sus naves; Inglaterra, una defensiva apoyada en puertos fortificados y en convoyes escoltados",
+      "option_c": "España, una defensiva con puertos fortificados y convoyes escoltados; Inglaterra, una ofensiva basada en la dispersión y habilidad de sus marinos",
+      "option_d": "España, una ofensiva por líneas interiores; Inglaterra, una defensiva apoyada en Jamaica, Granada y Belice como bases principales",
+      "correct_option": "C"
+    },
+    {
+      "number": 47,
+      "text": "¿Qué características de su bahía contribuyeron a que Cartagena fuera el baluarte más poderoso del sistema defensivo español?",
+      "option_a": "Estar clausurada en Bocagrande, custodiada por castillos artillados en Bocachica y con una cadena de hierro en su ingreso",
+      "option_b": "Estar abierta en Bocagrande, custodiada por castillos en Portobelo y con una cadena de hierro que cerraba el río Chagres",
+      "option_c": "Contar con 23 fuertes y una escollera construida antes del ataque de Pointis para alejar a los navíos atacantes y proteger el recinto",
+      "option_d": "Estar protegida por una cadena de arrecifes que obligaba a las flotas a desfilar de a un navío, sin necesidad de fortalezas",
+      "correct_option": "A"
+    },
+    {
+      "number": 48,
+      "text": "¿Qué tres factores esenciales determinaron los capitanes reunidos por Borja para preparar la guerra contra los pijaos?",
+      "option_a": "La construcción previa del fuerte de San Lorenzo, la guerra solo desde Santafé, y la financiación con el concurso de los encomenderos",
+      "option_b": "Una alianza previa con los natagaimas, la guerra simultánea desde Popayán y Santafé, y la financiación con el botín de guerra",
+      "option_c": "Un reconocimiento previo de sus efectivos, el ataque simultáneo desde Santafé y Cartagena, y la financiación con recursos de la Corona española",
+      "option_d": "Un reconocimiento previo de sus efectivos, la guerra simultánea desde Popayán y Santafé, y la financiación con el concurso de los encomenderos",
+      "correct_option": "D"
+    },
+    {
+      "number": 49,
+      "text": "En el plan de operaciones acordado en el fuerte de San Lorenzo de Chaparral, ¿qué método se previó para someter a los pijaos?",
+      "option_a": "Enviar columnas a combatirlos, asolando sus poblados y sementeras para someterlos por hambre",
+      "option_b": "Fijarlos en campo abierto para someterlos a las cargas de los jinetes y a las dentelladas de los perros",
+      "option_c": "Capturar a sus caciques para aquietar a toda la tribu y obtener de ella la sumisión inmediata",
+      "option_d": "Rodearlos por el norte y fundar nuevas poblaciones para aislar sus territorios del occidente del reino",
+      "correct_option": "A"
+    },
+    {
+      "number": 50,
+      "text": "Ante el sitio de Vernon, ¿cómo se distribuyó el mando de la defensa de Cartagena?",
+      "option_a": "Blas de Lezo asumió las fortalezas interiores y el virrey Eslava la defensa móvil, con los buques, y las defensas exteriores",
+      "option_b": "El virrey Eslava asumió la defensa móvil y el ingeniero Des Noux las fortalezas interiores y las defensas exteriores",
+      "option_c": "El virrey Eslava asumió las fortalezas interiores y Blas de Lezo la defensa móvil, con los buques, y las defensas exteriores",
+      "option_d": "Melchor de Navarrete asumió la defensa móvil y Blas de Lezo la línea defensiva de Bocachica, con sede en San Luis",
+      "correct_option": "C"
+    },
+    {
+      "number": 51,
+      "text": "¿Por qué decidió Bolívar en 1819 penetrar por los Llanos y hacer marchar a sus ejércitos con gran rapidez para cruzar la cordillera?",
+      "option_a": "Porque los españoles habían concentrado sus fuerzas en el occidente y Santander debía atacar por el sur del reino granadino",
+      "option_b": "Porque los ejércitos de Casanare estaban dispersos y debían reunirse con Páez en el Páramo de Pisba",
+      "option_c": "Porque necesitaba el apoyo de la Legión Británica, que operaba exclusivamente en los Llanos de Casanare y Arauca",
+      "option_d": "Porque concluyó que triunfaría sorprendiendo a los realistas, que no preveían un cruce de la cordillera tan difícil",
+      "correct_option": "D"
+    },
+    {
+      "number": 52,
+      "text": "Según el análisis de Ibáñez, ¿qué error táctico precedió a la batalla del Pantano de Vargas?",
+      "option_a": "Dividir sus fuerzas entre el Picacho y el Cangrejo, dejando la caballería sin mando y sin apoyo de la infantería ligera",
+      "option_b": "Ordenar el cruce del río Grande sin autorización del general Santander ni aviso previo al alcalde de Tibasosa y a los vecinos de la región",
+      "option_c": "Emplear toda la infantería en un ataque general sin conservar reserva alguna, quedando expuesta a la caballería enemiga",
+      "option_d": "No calcular las líneas de acción del adversario ni prever el cruce de un obstáculo natural sin medios apropiados, quedando sin retirada",
+      "correct_option": "D"
+    },
+    {
+      "number": 53,
+      "text": "¿Qué buscaba el jefe realista Barreiro con su maniobra flanqueante hacia Samacá en agosto de 1819?",
+      "option_a": "Incorporar el batallón Tambo y la artillería llegados del Socorro antes de combatir",
+      "option_b": "Ocupar de nuevo el Pantano de Vargas para impedir la llegada de la Legión Británica",
+      "option_c": "Recuperar sus líneas de comunicaciones con Santafé, cortadas tras la toma de Tunja por Bolívar",
+      "option_d": "Atacar por la retaguardia a Bolívar en Tunja, aprovechando el apoyo de los tunjanos y de las guerrillas de Pabón",
+      "correct_option": "C"
+    },
+    {
+      "number": 54,
+      "text": "A la luz del análisis militar, ¿cómo caracteriza la guía la acción del Puente de Boyacá?",
+      "option_a": "Como una batalla campal planeada con anticipación sobre un terreno elegido por los patriotas en el valle de Boyacá",
+      "option_b": "Como una acción de retirada en la que los patriotas cubrieron el paso del puente",
+      "option_c": "Como un combate de encuentro en el que la sorpresa lograda por Bolívar gravitó desde el primer contacto",
+      "option_d": "Como un asedio prolongado que agotó los víveres y la moral de la Tercera División realista",
+      "correct_option": "C"
+    },
+    {
+      "number": 55,
+      "text": "¿Con qué propósito estratégico decidió Padilla forzar La Barra y penetrar al lago de Maracaibo?",
+      "option_a": "Unirse con la columna de Montilla en Riohacha y atacar a Laborde en mar abierto con toda la fuerza naval disponible",
+      "option_b": "Esperar en aguas interiores la llegada de refuerzos desde Santa Marta antes de combatir a las naves de Laborde",
+      "option_c": "Neutralizar la superioridad naval española, batir por separado a Morales y llevar a Laborde a un combate sin sus unidades mayores",
+      "option_d": "Asegurar el bloqueo de Puerto Cabello y cortar las comunicaciones entre Morales y La Habana mediante una acción de flanco sobre Coro",
+      "correct_option": "C"
+    },
+    {
+      "number": 56,
+      "text": "¿Qué error similar cometieron los dos comandantes en la batalla de Palonegro, según la guía?",
+      "option_a": "Replegarse hacia el Cañón del Chicamocha dejando abierto el paso a Bucaramanga y a la ruta de Ocaña",
+      "option_b": "Extender sus tropas en una línea muy dilatada y vulnerable, en vez de concentrarlas",
+      "option_c": "Dividir sus ejércitos para perseguir a las guerrillas del Tolima y del Cauca",
+      "option_d": "Atacar de noche sin haber efectuado un reconocimiento previo del terreno",
+      "correct_option": "B"
+    },
+    {
+      "number": 57,
+      "text": "¿Por qué era estratégica la posición de La Tribuna, ocupada por los rebeldes en enero de 1895?",
+      "option_a": "Porque controlaba el principal acceso a la capital por el occidente",
+      "option_b": "Porque cerraba el camino de Bogotá hacia los Llanos Orientales y hacia la ruta del Meta",
+      "option_c": "Porque protegía el paso del río Chicamocha hacia Santander",
+      "option_d": "Porque dominaba la ruta fluvial del Magdalena hacia Honda",
+      "correct_option": "A"
+    },
+    {
+      "number": 58,
+      "text": "Tras la batalla de Enciso, ¿qué factor llevó a que los dos ejércitos liberales se aniquilaran entre sí?",
+      "option_a": "Que Crespo, dictador de Venezuela, retiró su apoyo y desarmó a una de las columnas rebeldes",
+      "option_b": "Que el segundo ejército, ignorante de lo ocurrido, confundió a las fuerzas derrotadas con las huestes de Reyes",
+      "option_c": "Que el general Ruiz, ausente de Enciso, ordenó atacar al segundo ejército por considerarlo desertor de la causa liberal",
+      "option_d": "Que Reyes, mediante una capitulación honrosa, logró enfrentar entre sí a los dos ejércitos",
+      "correct_option": "B"
+    },
+    {
+      "number": 59,
+      "text": "Tras la derrota del Ejército Nacional en Peralonso, ¿qué maniobra ejecutó Casabianca para contener al ejército revolucionario?",
+      "option_a": "Se replegó a Bogotá para defender la capital mientras el general Pinzón atacaba a los rebeldes en Palonegro",
+      "option_b": "Persiguió a los rebeldes hasta Bucaramanga para recuperar la ciudad que había sido atacada por Uribe Uribe",
+      "option_c": "Marchó hacia la Costa para cortar el apoyo que el dictador venezolano Cipriano Castro enviaba a los rebeldes de Santander",
+      "option_d": "Reorganizó al Ejército Nacional en el Cañón del Chicamocha para detener a los rebeldes y encerrarlos en Santander",
+      "correct_option": "D"
+    },
+    {
+      "number": 60,
+      "text": "¿Cómo enfrentó el presidente Guillermo León Valencia a las \"repúblicas independientes\", según la guía?",
+      "option_a": "Concediéndoles una zona de despeje de 42.000 kilómetros cuadrados para dialogar",
+      "option_b": "Aplicando el Estatuto de Seguridad y procesando jurídicamente a sus integrantes",
+      "option_c": "Ofreciendo una amnistía a los grupos alzados en armas y negociando su desmovilización",
+      "option_d": "Combinando el empleo de la fuerza pública con labores de acción cívico-militar",
+      "correct_option": "D"
+    },
+    {
+      "number": 61,
+      "text": "En la guerra de Corea, ¿qué efecto estratégico tuvo el desembarco de Inchón?",
+      "option_a": "Rompió el cerco de Pusán y llevó la guerra a una campaña de trincheras similar a la de 1914-1918 en el sur",
+      "option_b": "Cortó las líneas de suministro norcoreanas y permitió atacar a las unidades que rodeaban Seúl, forzando su retirada",
+      "option_c": "Obligó a la ONU a enviar tropas multinacionales para repeler la invasión norcoreana de Corea del Sur",
+      "option_d": "Detuvo la ofensiva china en el río Yalú y estabilizó el frente en una línea irregular cercana al Paralelo 38 y a Seúl",
+      "correct_option": "B"
+    },
+    {
+      "number": 62,
+      "text": "¿Qué resultado tuvo, según la guía, la zona de 42.000 kilómetros cuadrados concedida por el gobierno de Pastrana a las FARC?",
+      "option_a": "Las FARC la aprovecharon para ganar tiempo y espacio y fortalecerse, por lo que el gobierno canceló el proceso",
+      "option_b": "Las FARC se desmovilizaron parcialmente y entregaron el control de Casa Verde al Ejército Nacional tras el proceso",
+      "option_c": "Se consolidó la paz y las Fuerzas Militares recuperaron el territorio sin necesidad de combatir ni de operaciones",
+      "option_d": "Las FARC cedieron el control del narcotráfico a cambio de garantías jurídicas y de un indulto general",
+      "correct_option": "A"
+    },
+    {
+      "number": 63,
+      "text": "¿Qué priorizó la Política de Seguridad Democrática lanzada en 2003, según la guía?",
+      "option_a": "La lucha antinarcóticos con apoyo económico y militar de Estados Unidos, como el Plan Colombia lanzado en 1999 por Pastrana",
+      "option_b": "La creación de la Fuerza de Despliegue Rápido y de la Escuela de Soldados Profesionales",
+      "option_c": "La lucha contrainsurgente y el control del territorio, con fortalecimiento en equipos, entrenamiento y recursos",
+      "option_d": "La negociación política con las guerrillas y el desarrollo social de las zonas afectadas",
+      "correct_option": "C"
+    },
+    {
+      "number": 64,
+      "text": "Según el ministro de Defensa citado en la guía, ¿por qué se decidió ejecutar la Operación Sodoma a las 2:00 de la mañana?",
+      "option_a": "Porque a esa hora se relevaban los anillos de seguridad y quedaba descubierto el objetivo",
+      "option_b": "Porque, según la inteligencia, el cabecilla acostumbraba levantarse entre la 1:00 y las 4:00 a consultar documentos",
+      "option_c": "Porque el cabecilla se desplazaba a esa hora hacia otro campamento de la guerrilla",
+      "option_d": "Porque la oscuridad permitía neutralizar al cabecilla sin riesgo para los demás integrantes del campamento ni para civiles",
+      "correct_option": "B"
+    },
+    {
+      "number": 65,
+      "text": "En el Proceso de Transformación Militar del Ejército, ¿con qué fin se creó el Comando de Transformación Ejército del Futuro (COTEF) en 2016?",
+      "option_a": "Determinar los cuellos de botella de los subsistemas administrativos del Ejército",
+      "option_b": "Liderar todo el proceso de transformación militar iniciado en 2011",
+      "option_c": "Definir las capacidades requeridas para enfrentar las amenazas futuras",
+      "option_d": "Analizar la amenaza interna del país como un sistema",
+      "correct_option": "B"
+    },
+    {
+      "number": 66,
+      "text": "¿Cuál afirmación sobre el Acta de la Revolución de 1810 es correcta, según la guía?",
+      "option_a": "Reconocía a Fernando VII, pero excluía al virrey de la junta, presidida desde el inicio por Pey",
+      "option_b": "Declaraba la independencia absoluta de España y desconocía al virrey Amar y Borbón como presidente de la junta de gobierno",
+      "option_c": "Establecía un gobierno definitivo y una constitución federal redactada por las provincias",
+      "option_d": "Reconocía a Fernando VII como autoridad suprema y no era una declaración de independencia respecto de España",
+      "correct_option": "D"
+    },
+    {
+      "number": 67,
+      "text": "¿Por qué la guía califica de limitada la victoria patriota en el Pantano de Vargas?",
+      "option_a": "Porque las fuerzas realistas conservaron el campo de batalla y obligaron a los patriotas a retroceder hasta Tunja",
+      "option_b": "Porque Bolívar no logró cruzar el río Grande y quedó sin vía de retirada ante la caballería realista tras la batalla de ese día",
+      "option_c": "Porque la carga de los lanceros solo decidió el combate en el cerro del Cangrejo y no en el cerro del Picacho",
+      "option_d": "Porque tuvo más un cariz moral que material y ambos ejércitos, desgastados, volvieron a sus posiciones sin ventaja estratégica",
+      "correct_option": "D"
+    },
+    {
+      "number": 68,
+      "text": "Frente a quienes restan importancia a Boyacá en beneficio de Vargas, ¿qué criterio plantea la guía para valorar una acción militar?",
+      "option_a": "El carácter planeado de la jornada y la previsión de medios frente a la geografía abrupta de los Andes",
+      "option_b": "El número de bajas sufridas por cada bando y el heroísmo de sus combatientes",
+      "option_c": "Las circunstancias de su desarrollo y las proporciones de las fuerzas empeñadas",
+      "option_d": "Sus efectos en el campo estratégico de la campaña y en el campo político de su objetivo final",
+      "correct_option": "D"
+    },
+    {
+      "number": 69,
+      "text": "Según la guía, ¿cuáles son las dos interpretaciones sobre las causas de la guerra de 1851?",
+      "option_a": "El golpe de cuartel del general Melo contra Obando, o la apertura económica de su ministro Florentino González",
+      "option_b": "El proyecto de la República del Zulia propuesto por Vicente Herrera, o la inseguridad generalizada que vivía Bogotá",
+      "option_c": "Los atropellos de los liberales exaltados a los conservadores, con anuencia del gobierno, o el decreto de liberación de los esclavos",
+      "option_d": "La proclamación del programa del Partido Liberal por Ezequiel Rojas, o la excomunión del presidente José Hilario López por sus medidas anticlericales",
+      "correct_option": "C"
+    },
+    {
+      "number": 70,
+      "text": "Respecto a la guerra de 1876, ¿cómo contrasta la guía la interpretación religiosa con otra explicación?",
+      "option_a": "Muchos conservadores la vieron como una cruzada religiosa, pero otros analistas creen que obedeció más al deseo de recuperar el poder perdido",
+      "option_b": "El gobierno la vio como un intento separatista, pero otros analistas creen que obedeció al deseo de recuperar el poder",
+      "option_c": "Muchos liberales la vieron como una cruzada religiosa, pero otros analistas creen que obedeció a la defensa de la Constitución de Rionegro y del federalismo",
+      "option_d": "Los radicales la vieron como una guerra económica, pero otros analistas creen que obedeció a causas religiosas del clero",
+      "correct_option": "A"
+    },
+    {
+      "number": 71,
+      "text": "¿Qué matiz introduce la guía sobre el carácter de la Guerra de los Mil Días?",
+      "option_a": "Que fue una guerra de carácter económico, pues los apoyos externos solo buscaban el control del canal",
+      "option_b": "Que fue exclusivamente interna, pues los gobiernos liberales vecinos se abstuvieron de intervenir",
+      "option_c": "Que no fue exclusivamente civil, pues Venezuela, Ecuador, Guatemala y El Salvador apoyaron al bando revolucionario",
+      "option_d": "Que fue una guerra internacional desde su inicio, pues Venezuela y Ecuador declararon la guerra a Colombia en octubre de 1899",
+      "correct_option": "C"
+    },
+    {
+      "number": 72,
+      "text": "¿Qué idea ilustra la cita de un analista de la época, según la cual cada guerra trae una nueva constitución y cada constitución trae una nueva guerra?",
+      "option_a": "La preponderancia de los motivos religiosos sobre los económicos en las guerras civiles",
+      "option_b": "La estrecha relación entre las guerras civiles y las diferencias sobre cómo organizar el Estado",
+      "option_c": "La corta duración de las guerras, resueltas en pocos meses por el Ejército Nacional",
+      "option_d": "La inmutabilidad de la carta de 1863, que solo podía reformarse con el voto unánime de los Estados",
+      "correct_option": "B"
+    },
+    {
+      "number": 73,
+      "text": "¿Cómo valora Ibáñez la campaña de Boyacá en su conjunto?",
+      "option_a": "Como una jornada militar rigurosamente planeada, en la que Bolívar previó todos los medios para vencer la cordillera",
+      "option_b": "Como una campaña de desgaste en la que la superioridad numérica patriota y el apoyo de los llaneros fueron decisivos",
+      "option_c": "Como un fracaso táctico, compensado únicamente por la debilidad de la Tercera División realista, cansada por las marchas forzadas",
+      "option_d": "Como una epopeya con aventura, intrepidez e intuición genial más que como jornada planeada, por la imprevisión de medios",
+      "correct_option": "D"
+    },
+    {
+      "number": 74,
+      "text": "El texto atribuye a Víctor Hugo un comentario sobre la Constitución de Rionegro. ¿Cómo debe entenderse esa referencia, según la presenta la guía?",
+      "option_a": "Como una afirmación presentada de forma indirecta (\"se afirma\"), que expresa una opinión crítica sobre el idealismo de la carta",
+      "option_b": "Como una opinión de la propia guía, sin atribuirla a nadie, que critica la libertad de prensa establecida en la carta",
+      "option_c": "Como un hecho documentado en la correspondencia del escritor francés, que expresa un elogio al espíritu liberal de la carta de Rionegro",
+      "option_d": "Como un hecho documentado en la prensa de la época, que expresa una crítica al federalismo adoptado por los radicales",
+      "correct_option": "A"
+    },
+    {
+      "number": 75,
+      "text": "¿Cómo evalúa Plazas Vega, citado por la guía, la acción del gobierno Turbay contra el M-19 mediante el Estatuto de Seguridad?",
+      "option_a": "Como una batalla jurídico-militar ganada que luego se convirtió en derrota política al quedar libres y perdonados los terroristas",
+      "option_b": "Como una derrota militar compensada por el triunfo político de la amnistía decretada por Betancur y la liberación de sus presos en 1982",
+      "option_c": "Como un fracaso jurídico por haber procesado sin las debidas garantías a medio millar de miembros del M-19 y encarcelarlos",
+      "option_d": "Como una victoria definitiva que puso fin a la actividad del M-19, de las FARC y del ELN en todo el país y en el campo",
+      "correct_option": "A"
+    },
+    {
+      "number": 76,
+      "text": "¿Cómo presenta la guía el episodio de las Bananeras de 1929?",
+      "option_a": "Con dos lecturas: Plazas Vega destaca el saldo de cien trabajadores muertos y Gómez la destrucción de la línea férrea y del banano",
+      "option_b": "Con dos lecturas: Plazas Vega destaca la difusión de ideas disociadoras y la violencia, y Gómez lo ve como un episodio doloroso pero aislado",
+      "option_c": "Con una sola lectura: ambos autores lo atribuyen a la rivalidad entre liberales y conservadores, sin mencionar a los trabajadores",
+      "option_d": "Con dos lecturas: Plazas Vega lo considera un episodio aislado y Gómez lo atribuye a ideas disociadoras importadas por extranjeros y agitadores",
+      "correct_option": "B"
+    },
+    {
+      "number": 77,
+      "text": "¿Cuál es la tesis de Álvaro Gómez sobre la hegemonía conservadora que cita la guía?",
+      "option_a": "Que la paz se sostuvo por la represión del Ejército sobre los sindicatos, los artesanos y los partidos de oposición",
+      "option_b": "Que se aclimató la idea de vivir en paz bajo un orden legal y se afianzó el respeto por la vida humana, pese a imperfecciones",
+      "option_c": "Que la democracia era plena y que no hubo fraudes electorales ni violencias callejeras durante todo el período de la hegemonía conservadora",
+      "option_d": "Que el respeto por la vida humana solo se afianzó tras la llegada del liberalismo al poder en 1930 y la República Liberal",
+      "correct_option": "B"
+    },
+    {
+      "number": 78,
+      "text": "¿Cómo plantea la introducción de la guía que debe comprenderse la historia?",
+      "option_a": "Como una sucesión de hechos aislados cuya función principal es fortalecer el amor a la patria, la identidad nacional y los valores democráticos",
+      "option_b": "Como una relación de causalidad histórica que permite interpretar el pasado para entender el presente y proyectar el porvenir",
+      "option_c": "Como un registro cronológico de campañas y batallas que permite memorizar el pasado de las Fuerzas Militares",
+      "option_d": "Como un relato de caudillos militares cuyo estudio sustituye por completo al análisis de las instituciones políticas",
+      "correct_option": "B"
+    },
+    {
+      "number": 79,
+      "text": "¿Qué paradoja señala la guía respecto de la reestructuración militar posterior a la Rebelión Comunera?",
+      "option_a": "Que la reestructuración debilitó a Cartagena, pese a ser la plaza mejor fortificada del virreinato",
+      "option_b": "Que fue ejecutada por un coronel andaluz que carecía de mando efectivo en el virreinato",
+      "option_c": "Que la tarea recayó en el virrey Flores, un militar que se hallaba ausente en Cartagena durante la rebelión",
+      "option_d": "Que la tarea recayó en el único virrey no militar de la serie iniciada con Eslava, un eclesiástico",
+      "correct_option": "D"
+    },
+    {
+      "number": 80,
+      "text": "En el relato sobre Policarpa Salavarrieta, ¿cuál enunciado corresponde a una valoración del autor y no a un hecho verificable?",
+      "option_a": "Que fue fusilada por orden del virrey Juan Sámano",
+      "option_b": "Que fue \"la más grandiosa heroína de todas las mujeres de la gesta emancipadora\"",
+      "option_c": "Que fue acusada de enviar informes a los ejércitos patriotas de Casanare y a las guerrillas de los Llanos",
+      "option_d": "Que su ejecución ocurrió el 14 de noviembre de 1817 en la plaza",
+      "correct_option": "B"
+    },
+    {
+      "number": 81,
+      "text": "Como medida orgánica en Cartagena, ¿qué permitió unificar la dirección de los trabajos de fortificación y de la defensa misma de la plaza?",
+      "option_a": "La creación de una Inspección Militar de la Plaza con su Estado Mayor, bajo la cual funcionaba el ingeniero militar",
+      "option_b": "La designación del virrey como comandante único de las fortalezas, de la defensa móvil y de la milicia de la plaza",
+      "option_c": "La creación de la Real Audiencia con funciones ejecutivas, de justicia y militares sobre todo el territorio",
+      "option_d": "El envío de los ingenieros militares Antonelli y Tejada desde España tras la expoliación del corsario Drake en 1568",
+      "correct_option": "A"
+    },
+    {
+      "number": 82,
+      "text": "¿Qué ocurrió con la primera Escuela de Aviación Militar fundada en Flandes y cómo se retomó después la formación de pilotos?",
+      "option_a": "Fue suspendida en 1922 por la difícil situación económica y reactivada en 1924 en Madrid (Cundinamarca) con una misión suiza",
+      "option_b": "Fue suspendida en 1922 por la derrota ante el Perú y reactivada en 1924 en Madrid con una misión francesa",
+      "option_c": "Fue cerrada en 1932 tras el conflicto colombo-peruano y reabierta en 1934 con pilotos alemanes de la SCADTA",
+      "option_d": "Fue trasladada a Madrid en 1922 por orden de Marco Fidel Suárez y mantenida con la misión francesa del capitán René Guichard",
+      "correct_option": "A"
+    },
+    {
+      "number": 83,
+      "text": "¿Cuál fue la principal implicación política del triunfo de Mosquera en la guerra civil iniciada en 1860?",
+      "option_a": "Se consolidó un gobierno de coalición entre radicales y conservadores bajo la Constitución de Rionegro",
+      "option_b": "Se restableció el sistema centralista con un ejército permanente y la religión católica como base del orden social",
+      "option_c": "Se inauguró la hegemonía conservadora (1861-1885), con los liberales marginados del gobierno y una dictadura respetuosa de la Iglesia católica",
+      "option_d": "Se inauguró la hegemonía radical (1861-1885), con los conservadores marginados del gobierno y una dictadura intolerante con la Iglesia",
+      "correct_option": "D"
+    },
+    {
+      "number": 84,
+      "text": "¿Qué medida central contempló el proyecto de reestructuración militar presentado por Caballero y Góngora en 1783 para el interior del virreinato?",
+      "option_a": "Suprimir las Milicias Disciplinadas y reemplazarlas por regimientos de Blancos y Pardos en todas las provincias",
+      "option_b": "Ampliar la guardia virreinal a un regimiento de caballería para proteger a Santafé de nuevas insurrecciones",
+      "option_c": "Transferir fuerzas de Cartagena a Santafé y crear un regimiento Auxiliar con compañías en los centros comuneros",
+      "option_d": "Reforzar Cartagena con un regimiento Auxiliar y reducir las guarniciones del interior, incluidas Pamplona y Socorro",
+      "correct_option": "C"
+    },
+    {
+      "number": 85,
+      "text": "En la campaña de Maracaibo, ¿qué debilidad de coordinación preocupaba a Padilla al decidir forzar La Barra?",
+      "option_a": "La falta de apoyo terrestre, pues Montilla, con la columna de Riohacha, no se mostraba presto a colaborar",
+      "option_b": "La falta de abastecimiento, pues no había recibido víveres desde Santa Marta",
+      "option_c": "La falta de artillería naval, pues su flota carecía de cañones suficientes frente a la fragata Constitución de 42 cañones",
+      "option_d": "La falta de mando unificado, pues Beluche había sido derrotado cerca de La Guaira",
+      "correct_option": "A"
+    },
+    {
+      "number": 86,
+      "text": "¿Cómo planeó Morillo la toma de Santa Fe en 1816?",
+      "option_a": "Concentró un solo ejército de 11.000 hombres que avanzó por el río Magdalena hasta Honda y luego a Santa Fe",
+      "option_b": "Dividió sus fuerzas en dos columnas: una por el occidente y otra desde la costa hacia Ocaña, con Sámano esperando en Pasto",
+      "option_c": "Ordenó el asedio simultáneo de Cartagena y Santa Fe con las columnas de Bayer, Warleta y Santacruz",
+      "option_d": "Dividió sus fuerzas en cuatro ejércitos que penetraron por diferentes sitios, mientras Sámano avanzaba desde Pasto",
+      "correct_option": "D"
+    },
+    {
+      "number": 87,
+      "text": "¿Qué característica tuvo la respuesta del general Reyes ante el levantamiento de enero de 1895?",
+      "option_a": "La espera: aguardó refuerzos venezolanos antes de enfrentar el levantamiento",
+      "option_b": "La rapidez: en 3 días organizó un ejército mediano y salió a debelar la insurrección",
+      "option_c": "La negociación: firmó una capitulación antes de entablar combate en La Tribuna",
+      "option_d": "La defensa pasiva: se atrincheró en Bogotá para impedir el acceso por el occidente de la Sabana",
+      "correct_option": "B"
+    },
+    {
+      "number": 88,
+      "text": "¿Qué implicación tuvo la intervención de los marines estadounidenses al final de la Guerra de los Mil Días en Panamá?",
+      "option_a": "Detuvo a Herrera ante Colón y Panamá y puso fin a la guerra en el istmo, mientras se discutía el tratado",
+      "option_b": "Permitió a Herrera apoderarse de las ciudades de Colón y Panamá y del ferrocarril que las unía",
+      "option_c": "Obligó a Colombia a firmar con los Estados Unidos un tratado de administración del canal por 99 años",
+      "option_d": "Aseguró la victoria definitiva del radicalismo y la aprobación inmediata del tratado del canal en el Congreso",
+      "correct_option": "A"
+    },
+    {
+      "number": 89,
+      "text": "En el conflicto de 1932, ¿cómo integró el gobierno colombiano los medios para recuperar el Trapecio Amazónico?",
+      "option_a": "Con cañoneras desde Buenaventura, una fuerza terrestre por Nariño y Putumayo y la negociación previa de la paz en Ginebra, Suiza",
+      "option_b": "Con una fuerza terrestre desde el centro del país y la solidaridad americana, pues no se disponía de medios navales ni aéreos",
+      "option_c": "Con buques adquiridos en Chile por Uribe Uribe, una fuerza terrestre por el Amazonas y la misión militar francesa de aviación",
+      "option_d": "Con cañoneras desde Cartagena, buques comprados en Francia por Vásquez Cobo, una fuerza terrestre por Huila y Caquetá y aviones de SCADTA",
+      "correct_option": "D"
+    },
+    {
+      "number": 90,
+      "text": "¿Qué implicación tuvo para el poder naval la decisión de Santander de reducir el ejército y la marina a un mínimo por problemas presupuestales?",
+      "option_a": "Provocó el desarme inmediato de la escuadra tras la victoria colombiana en el Lago de Maracaibo",
+      "option_b": "Llevó a la supresión definitiva de la Armada por decreto del presidente Reyes y a la venta de sus buques",
+      "option_c": "Dio comienzo a lo que Bazurto llamó \"el mar del olvido\", agravado por la falta de conciencia marítima",
+      "option_d": "Hizo que la Armada pasara a depender de la Escuela Naval Nacional creada por el presidente Reyes en 1907",
+      "correct_option": "C"
+    },
+    {
+      "number": 91,
+      "text": "¿Qué medidas adoptó el general Reyes para profesionalizar las Fuerzas Armadas, según la guía?",
+      "option_a": "Contrató una misión chilena, fundó la Escuela Militar (1907) y excluyó a la Fuerza Pública del sufragio en 1910",
+      "option_b": "Contrató una misión chilena y fundó la Escuela Militar (1907), la Escuela Naval (1907) y la Escuela Superior de Guerra (1909)",
+      "option_c": "Contrató una misión francesa y fundó la Escuela Militar (1909), la Escuela de Aviación (1921) y la Escuela Superior de Guerra (1907)",
+      "option_d": "Contrató una misión suiza y fundó la Escuela Naval (1909) y la Escuela Superior de Guerra (1919)",
+      "correct_option": "B"
+    },
+    {
+      "number": 92,
+      "text": "En la proyección internacional de las Fuerzas Militares, ¿qué misiones de paz destaca la guía?",
+      "option_a": "El Sinaí en 1956, con la fuerza de paz del Canal de Suez, y la fuerza multinacional de Corea desde 1982",
+      "option_b": "Corea en 1950, con las tropas de la ONU, y el Sinaí con la MFO desde 1956 hasta 1982",
+      "option_c": "Egipto en 1956, con la fuerza de paz del Canal de Suez, y el Sinaí con la MFO desde 1982",
+      "option_d": "Egipto en 1982, con la fuerza de paz del Canal de Suez, y Corea con las tropas de la ONU desde 1951",
+      "correct_option": "C"
+    },
+    {
+      "number": 93,
+      "text": "Al analizar las nuevas amenazas surgidas hacia 1930, ¿qué táctica sostenía el Partido Comunista Colombiano para alcanzar la toma del poder?",
+      "option_a": "La conformación de un partido de masas con total autonomía respecto de la Internacional Comunista",
+      "option_b": "La bolchevización del socialismo colombiano mediante los congresos obreros",
+      "option_c": "La resistencia civil y la paralización de las administraciones locales",
+      "option_d": "La combinación de todas las formas de lucha, legales o ilegales",
+      "correct_option": "D"
+    },
+    {
+      "number": 94,
+      "text": "¿Qué secuencia describe correctamente la transición política entre 1953 y 1958, según la guía?",
+      "option_a": "Rojas Pinilla asumió en 1951 y renunció el 10 de mayo de 1957; una Junta Militar de 3 miembros gobernó hasta 1960, cuando inició el Frente Nacional",
+      "option_b": "Rojas Pinilla asumió en 1953 y renunció en 1957; Lleras Camargo gobernó con una Junta Militar de 5 miembros hasta 1962",
+      "option_c": "Rojas Pinilla asumió en 1953 y renunció el 10 de mayo de 1957; una Junta Militar de 5 miembros gobernó hasta 1958, cuando inició el Frente Nacional",
+      "option_d": "Urdaneta asumió en 1953 y fue depuesto por Rojas en 1957; una Junta Militar de 5 miembros gobernó hasta 1962",
+      "correct_option": "C"
+    },
+    {
+      "number": 95,
+      "text": "Para el análisis del entorno operacional, ¿qué apoyo externo recibió cada grupo subversivo, según la guía?",
+      "option_a": "Las FARC de Cuba, el ELN de la URSS y el EPL de la China Roja de Mao Tse Tung",
+      "option_b": "Las FARC de la URSS, el ELN de la Cuba castrista y el EPL de la China Roja",
+      "option_c": "Las FARC de la China Roja, el ELN de la URSS y el EPL de Cuba",
+      "option_d": "Las FARC y el EPL de la URSS, y el ELN de la China Roja",
+      "correct_option": "B"
+    },
+    {
+      "number": 96,
+      "text": "¿Cómo describe la guía la evolución de la relación de la guerrilla con el narcotráfico durante los años noventa?",
+      "option_a": "Primero rechazaron el negocio por razones ideológicas; luego lo aceptaron tras el colapso del sistema comunista en la URSS",
+      "option_b": "Primero cuidaban los cultivos ilícitos de los narcos; luego tomaron el control de muchos y construyeron laboratorios",
+      "option_c": "Primero se aliaron con el Cartel de Medellín; luego, tras la muerte de Pablo Escobar, abandonaron el negocio por completo",
+      "option_d": "Primero controlaban cultivos y laboratorios; luego los transfirieron a los carteles de Medellín y Cali como intermediarios",
+      "correct_option": "B"
+    },
+    {
+      "number": 97,
+      "text": "¿Qué proceso describe la guía tras el 9 de abril de 1948 en relación con las guerrillas rurales?",
+      "option_a": "Soldados desmovilizados de Corea organizaron guerrillas que, bajo influencia del Che Guevara, se asentaron en Marquetalia y El Pato desde 1951",
+      "option_b": "La Junta Militar de 1957 armó a campesinos liberales para combatir a Rojas Pinilla en el Sumapaz, en el Llano y en el Tolima",
+      "option_c": "Gaitanistas organizaron grupos subversivos que siguieron la lucha en el campo y, permeados por el comunismo, formaron repúblicas independientes",
+      "option_d": "El PCC-ML fundó las guerrillas de Sumapaz y del Tolima en 1948 para derrocar al presidente Ospina Pérez y a su gabinete",
+      "correct_option": "C"
+    },
+    {
+      "number": 98,
+      "text": "Para integrar la información sobre las operaciones contra las FARC, ¿qué emparejamiento de operación y resultado es correcto, según la guía?",
+      "option_a": "Jaque (2008): muerte de Raúl Reyes; Odiseo (2011): muerte del Mono Jojoy y de alias El Zorro",
+      "option_b": "Fénix (2008): liberación de 15 secuestrados; Sodoma (2010): muerte de Alfonso Cano, sucesor de Marulanda",
+      "option_c": "Sodoma (2010): captura de Raúl Reyes; Fénix (2008): liberación de Ingrid Betancourt y de tres contratistas",
+      "option_d": "Jaque (2 de junio de 2008): liberación de 15 secuestrados; Odiseo (2011): muerte de Alfonso Cano",
+      "correct_option": "D"
+    },
+    {
+      "number": 99,
+      "text": "Según el objetivo de la guía, ¿qué se busca que alcancen los alumnos mediante el estudio de la Historia Militar de Colombia?",
+      "option_a": "Una comprensión crítica y objetiva de la evolución militar del país, para interpretar el presente y proyectar escenarios futuros",
+      "option_b": "Una especialización en logística militar orientada a la conducción de operaciones conjuntas entre las Fuerzas",
+      "option_c": "Una visión exclusivamente doctrinaria de la estrategia que sustituya el análisis del liderazgo y de las campañas",
+      "option_d": "Un conocimiento memorístico de las campañas que les permita replicar la táctica de los grandes caudillos militares de la Independencia",
+      "correct_option": "A"
+    },
+    {
+      "number": 100,
+      "text": "En Corea, ¿qué tareas cumplieron las fragatas colombianas junto al Batallón Colombia?",
+      "option_a": "Bloquear el río Yalú, apoyar el desembarco de Inchón y bombardear las líneas de suministro chinas",
+      "option_b": "Bombardear posiciones enemigas con su artillería naval, servir de barreminas, escoltas y transportes, y colaborar en inteligencia",
+      "option_c": "Transportar al Batallón Colombia desde Buenaventura hasta Pusán y reabastecerlo luego en el frente de la XXIV División de Infantería",
+      "option_d": "Defender la línea de Old Baldy, participar en la toma del Cerro 400 y combatir al ejército chino en Kumsong",
+      "correct_option": "B"
+    }
+  ]
+}

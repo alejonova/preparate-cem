@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+{% block title %}{{ subject.name }}{% endblock %}
+{% block content %}
+<div class="page-actions">
+  <a class="btn secondary" href="{% url 'test_simulacro' %}">← Volver a Test Simulacro</a>
+</div>
+
+<div class="card subject-hero">
+  <div class="subject-icon large" aria-hidden="true">
+    {% if 'Estado Mayor' in subject.name %}★
+    {% elif 'Geografía' in subject.name %}⌖
+    {% elif 'Historia' in subject.name %}▤
+    {% elif 'Procedimientos' in subject.name %}✓
+    {% elif 'Estrategia' in subject.name %}♟
+    {% else %}▦{% endif %}
+  </div>
+  <div>
+    <h1>{{ subject.name }}</h1>
+    {% if subject.description %}<p class="muted">{{ subject.description }}</p>{% endif %}
+    <a class="btn" href="{% url 'start_exam' subject.id %}">Iniciar examen</a>
+  </div>
+</div>
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <span class="stat-label">Último resultado</span>
+    {% if latest_result %}
+      <strong class="stat-value">{{ latest_result.score }}%</strong>
+      <span class="muted">{{ latest_result.finished_at|date:'d/m/Y H:i' }}</span>
+    {% else %}
+      <strong class="stat-value">—</strong>
+      <span class="muted">Sin exámenes realizados</span>
+    {% endif %}
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">Mejor resultado</span>
+    {% if best_result %}
+      <strong class="stat-value">{{ best_result.score }}%</strong>
+      <span class="muted">{{ best_result.finished_at|date:'d/m/Y H:i' }}</span>
+    {% else %}
+      <strong class="stat-value">—</strong>
+      <span class="muted">Sin exámenes realizados</span>
+    {% endif %}
+  </div>
+  <div class="stat-card">
+    <span class="stat-label">Exámenes realizados</span>
+    <strong class="stat-value">{{ results|length }}</strong>
+    <span class="muted">En esta materia</span>
+  </div>
+</div>
+
+<div class="card">
+  <div class="section-heading">
+    <div>
+      <h2>Historial de {{ subject.name }}</h2>
+      <p class="muted">Aquí puedes consultar todos tus resultados de esta materia.</p>
+    </div>
+    <a class="btn" href="{% url 'start_exam' subject.id %}">Nuevo examen</a>
+  </div>
+
+  <div class="table-wrap">
+    <table class="results-table">
+      <thead><tr><th>Fecha</th><th>Respuestas correctas</th><th>Puntaje</th></tr></thead>
+      <tbody>
+      {% for r in results %}
+        <tr>
+          <td>{{ r.finished_at|date:'d/m/Y H:i' }}</td>
+          <td>{{ r.correct_answers }}/{{ r.total_questions }}</td>
+          <td><strong>{{ r.score }}%</strong></td>
+        </tr>
+      {% empty %}
+        <tr><td colspan="3" class="muted">Todavía no has presentado un examen de esta materia.</td></tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="page-actions bottom-actions">
+  <a class="btn secondary" href="{% url 'test_simulacro' %}">← Volver a Test Simulacro</a>
+</div>
+{% endblock %}

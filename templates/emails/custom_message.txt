@@ -1,0 +1,8 @@
+{{ platform_name }}
+
+Hola, {{ user.name }}.
+
+{{ message_body }}
+
+Saludos,
+{{ platform_name }}

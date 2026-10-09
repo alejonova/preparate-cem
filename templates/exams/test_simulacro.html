@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load extras %}
+{% block title %}Test Simulacro{% endblock %}
+{% block content %}
+<div class="home-header"><h1>Test Simulacro</h1><p class="muted">Selecciona una materia para consultar tu progreso o iniciar un nuevo examen.</p></div>
+<div class="subject-grid">
+{% for subject in subjects %}
+  {% with latest=latest_by_subject|get_item:subject.id %}
+  <a class="subject-card" href="{% url 'subject_detail' subject.id %}">
+    <div class="subject-icon" aria-hidden="true">{% if 'Estado Mayor' in subject.name %}★{% elif 'Geografía' in subject.name %}⌖{% elif 'Historia' in subject.name %}▤{% elif 'Procedimientos' in subject.name %}✓{% elif 'Estrategia' in subject.name %}♟{% else %}▦{% endif %}</div>
+    <div class="subject-card-body"><h2>{{ subject.name }}</h2>{% if latest %}<p class="subject-last">Último resultado: <strong>{{ latest.score }}%</strong></p><p class="muted subject-date">{{ latest.finished_at|date:'d/m/Y H:i' }}</p>{% else %}<p class="subject-last muted">Aún no has presentado este examen.</p>{% endif %}<span class="subject-link">Ver materia →</span></div>
+  </a>
+  {% endwith %}
+{% empty %}<div class="card">No hay materias activas.</div>{% endfor %}
+</div>
+{% endblock %}

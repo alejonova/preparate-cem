@@ -1,0 +1,49 @@
+:root{--brand:#17324d;--brand-2:#244f73;--accent:#c69214;--bg:#f4f6f8;--card:#fff;--text:#24313d;--muted:#687786;--border:#dbe1e7;--success:#2f7d4a;--warning:#a66b00;--danger:#b53b3b}
+body{background:var(--bg);color:var(--text);font-family:Inter,Segoe UI,Roboto,Arial,sans-serif}
+#header{background:linear-gradient(135deg,var(--brand),var(--brand-2));padding:0 28px;min-height:64px;display:flex;align-items:center;box-shadow:0 2px 10px rgba(0,0,0,.12)}
+#branding h1,#branding h1 a{color:#fff!important;font-size:20px;font-weight:700;letter-spacing:.2px}
+#user-tools{color:#e9eef3;font-size:13px;padding-top:0}
+#user-tools a{color:#fff!important}
+div.breadcrumbs{background:#fff;color:var(--muted);border-bottom:1px solid var(--border);padding:12px 28px}
+div.breadcrumbs a{color:var(--brand-2)}
+#content{padding:28px;max-width:1500px;margin:auto}
+#content-main{width:auto;float:none}
+.module,.inline-group{border:1px solid var(--border);border-radius:12px;overflow:hidden;background:var(--card);box-shadow:0 3px 14px rgba(23,50,77,.06)}
+.module h2,.module caption{background:#eef2f6;color:var(--brand);font-weight:700;border-bottom:1px solid var(--border);padding:12px 16px}
+.module table{border-collapse:collapse}
+.module th,.module td{border-bottom:1px solid #edf0f3;padding:12px 14px}
+.module tr:last-child td{border-bottom:0}
+.module tr:hover td{background:#f8fafc}
+.object-tools a,.button,.submit-row input,.submit-row a.deletelink{border-radius:7px!important}
+.button.default,.submit-row input.default{background:var(--brand-2)!important}
+.button.default:hover,.submit-row input.default:hover{background:var(--brand)!important}
+a:link,a:visited{color:var(--brand-2)}
+.selector-chosen h2{background:#eef2f6}
+#changelist{background:transparent}
+#changelist-filter{border:1px solid var(--border);border-radius:12px;background:#fff;overflow:hidden}
+#changelist-filter h2{background:var(--brand);color:#fff;padding:12px 14px}
+#changelist-filter h3{color:var(--brand);padding:0 14px}
+#changelist-filter ul{padding:0 14px 14px}
+#changelist-filter li{margin:7px 0}
+#toolbar{background:#fff;border:1px solid var(--border);border-radius:10px;margin-bottom:14px;padding:12px}
+#changelist-form .actions{background:#fff;border:1px solid var(--border);border-radius:10px;padding:10px;margin-bottom:12px}
+.form-row{border-bottom:1px solid #edf0f3;padding:14px 0}
+.form-row:last-child{border-bottom:0}
+.aligned label{color:#3f4f5e;font-weight:600}
+input,textarea,select{border:1px solid #cfd7df!important;border-radius:7px!important;padding:8px 10px!important;box-sizing:border-box}
+input:focus,textarea:focus,select:focus{border-color:#5d88aa!important;box-shadow:0 0 0 2px rgba(36,79,115,.12)!important;outline:none}
+.help{color:var(--muted)}
+.messagelist li{border-radius:8px}
+.messagelist .success{background:#e5f3e9}
+.messagelist .warning{background:#fff3d6}
+.messagelist .error{background:#f9e3e3}
+.dashboard .module{margin-bottom:20px}
+.dashboard .module table td a{font-weight:600}
+.admin-brand-note{font-size:12px;color:#dce6ef;margin-left:12px;border-left:1px solid rgba(255,255,255,.25);padding-left:12px}
+.status-badge{display:inline-block;padding:4px 9px;border-radius:999px;font-size:11px;font-weight:700;letter-spacing:.3px}
+.status-active{background:#e4f3e9;color:#25663b}.status-pending{background:#fff2d3;color:#8a5b00}.status-disabled{background:#f8e1e1;color:#963737}
+.admin-card-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-bottom:24px}
+.admin-card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:18px;box-shadow:0 3px 14px rgba(23,50,77,.06)}
+.admin-card .label{font-size:12px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);font-weight:700}.admin-card .value{font-size:30px;font-weight:800;color:var(--brand);margin-top:5px}.admin-card .link{display:inline-block;margin-top:12px;font-size:13px;font-weight:700}
+.import-box{background:#fff;border:1px solid var(--border);border-radius:12px;padding:22px;box-shadow:0 3px 14px rgba(23,50,77,.06);max-width:900px}.import-box h2{margin-top:0;color:var(--brand)}.import-box .hint{color:var(--muted);font-size:13px;line-height:1.55}.import-box .actions{margin-top:20px}.import-box .button{background:var(--brand-2);color:#fff;padding:10px 16px;border:0}
+@media(max-width:900px){#content{padding:16px}.admin-card-grid{grid-template-columns:1fr}.admin-brand-note{display:none}#header{padding:0 16px}}

@@ -1,0 +1,18 @@
+¡Tu cuenta fue creada satisfactoriamente!
+
+Hola, {{ user.name }}.
+
+Tu cuenta en {{ platform_name }} fue creada correctamente y quedó pendiente de habilitación por parte de un administrador.
+
+El siguiente paso es realizar el pago de inscripción: $20.000 COP.
+
+Llave Bre-B: {{ breb_key }}
+
+Realiza el pago desde tu celular y envía el comprobante por WhatsApp al mismo número. En el mensaje indica el correo electrónico asociado a tu cuenta: {{ user.email }}.
+
+Si ya realizaste el pago, haz caso omiso de este mensaje y espera la habilitación por parte de un administrador.
+
+Una vez tu cuenta sea habilitada recibirás una nueva notificación.
+
+Saludos,
+{{ platform_name }}

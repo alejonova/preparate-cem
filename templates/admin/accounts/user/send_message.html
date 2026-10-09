@@ -1,0 +1,20 @@
+{% extends "admin/base_site.html" %}
+{% block title %}Enviar mensaje a {{ user.name }} | Centro de Entrenamiento{% endblock %}
+{% block content %}
+<div class="module aligned" style="max-width:760px">
+  <h2>Enviar mensaje personalizado</h2>
+  <p>El correo será enviado desde <strong>{{ from_email }}</strong> al usuario seleccionado.</p>
+  <p><strong>Usuario:</strong> {{ user.name }}<br><strong>Correo:</strong> {{ user.email }}</p>
+  <form method="post">
+    {% csrf_token %}
+    {{ form.non_field_errors }}
+    <fieldset class="module aligned">
+      {{ form.as_p }}
+    </fieldset>
+    <div class="submit-row">
+      <input type="submit" value="Enviar correo" class="default">
+      <a href="{% url 'admin:accounts_user_change' user.pk %}" class="button">Cancelar</a>
+    </div>
+  </form>
+</div>
+{% endblock %}

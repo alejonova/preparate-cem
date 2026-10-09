@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block title %}Verificación OTP{% endblock %}
+{% block content %}
+<div class="card otp-box">
+  <h1>Verificación de seguridad</h1>
+  <p>Introduce el código de 6 dígitos que genera tu aplicación Authenticator.</p>
+  {% if messages %}<ul class="messages">{% for message in messages %}<li>{{ message }}</li>{% endfor %}</ul>{% endif %}
+  <form method="post">
+    {% csrf_token %}
+    <p><input class="otp-input" name="otp_code" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9]{6}" maxlength="6" required autofocus aria-label="Código OTP"></p>
+    <button class="btn" type="submit">Verificar e ingresar</button>
+  </form>
+  <p class="muted">Cuenta: {{ user.email }}</p>
+  <p><a href="{% url 'login' %}">Cancelar</a></p>
+</div>
+{% endblock %}

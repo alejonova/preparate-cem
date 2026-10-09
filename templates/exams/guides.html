@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% block title %}Guías de estudio{% endblock %}
+{% block content %}
+<div class="page-actions"><a class="btn secondary" href="{% url 'home' %}">← Volver a Inicio</a></div>
+<div class="home-header"><h1>Guías de estudio</h1><p class="muted">Material de estudio disponible para descarga.</p></div>
+{% for subject in subjects %}
+  <div class="card guide-section">
+    <h2>{{ subject.name }}</h2>
+    {% if subject.description %}<p class="muted">{{ subject.description }}</p>{% endif %}
+    <div class="guide-list">
+      {% for guide in subject.study_guides.all %}
+        {% if guide.active %}
+        <div class="guide-card">
+          <div class="guide-icon">PDF</div>
+          <div class="guide-body"><h3>{{ guide.title }}</h3>{% if guide.description %}<p class="muted">{{ guide.description }}</p>{% endif %}</div>
+          <a class="btn" href="{% url 'download_study_guide' guide.id %}">📥 Descargar</a>
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% empty %}
+  <div class="card">No hay guías disponibles.</div>
+{% endfor %}
+{% endblock %}

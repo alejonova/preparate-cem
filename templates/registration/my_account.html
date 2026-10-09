@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% block title %}Mi Cuenta{% endblock %}
+{% block content %}
+<div class="section-heading">
+  <div><h1>Mi Cuenta</h1><p class="muted">Gestiona tus datos personales y la seguridad de tu cuenta.</p></div>
+</div>
+
+<div class="account-grid">
+  <div class="card">
+    <h2>Datos personales</h2>
+    <p class="muted">Puedes actualizar tu nombre libremente. Para cambiar el correo electrónico debes confirmar tu contraseña actual.</p>
+    <form method="post">
+      {% csrf_token %}<input type="hidden" name="action" value="profile">
+      <div class="form-group"><label for="name">Nombre completo</label><input id="name" name="name" type="text" maxlength="150" value="{{ account_user.name }}" required></div>
+      <div class="form-group"><label for="email">Correo electrónico</label><input id="email" name="email" type="email" value="{{ account_user.email }}" required></div>
+      <div class="form-group"><label for="current_password_profile">Contraseña actual</label><input id="current_password_profile" name="current_password" type="password" autocomplete="current-password"><div class="account-note">Obligatoria únicamente si modificas el correo.</div></div>
+      <button class="btn" type="submit">Guardar cambios</button>
+    </form>
+  </div>
+
+  <div class="card">
+    <h2>Cambiar contraseña</h2>
+    <form method="post">
+      {% csrf_token %}<input type="hidden" name="action" value="password">
+      <div class="form-group"><label for="current_password">Contraseña actual</label><input id="current_password" name="current_password" type="password" autocomplete="current-password" required></div>
+      <div class="form-group"><label for="new_password">Nueva contraseña</label><input id="new_password" name="new_password" type="password" autocomplete="new-password" required></div>
+      <div class="form-group"><label for="new_password2">Confirmar nueva contraseña</label><input id="new_password2" name="new_password2" type="password" autocomplete="new-password" required></div>
+      <button class="btn" type="submit">Cambiar contraseña</button>
+    </form>
+  </div>
+</div>
+
+<div class="card otp-recovery">
+  <h2>Mi autenticación OTP</h2>
+  <p>Tu autenticación de dos factores está activa. Este es el mismo QR asociado a tu cuenta; mostrarlo aquí <strong>no genera ni cambia</strong> tu secreto OTP.</p>
+  <img src="{{ otp_qr }}" alt="Código QR de autenticación OTP">
+  <p><strong>Clave de configuración manual</strong></p>
+  <div class="otp-secret">{{ otp_secret }}</div>
+  <p class="account-note">Puedes usar esta clave si necesitas configurar nuevamente tu aplicación Authenticator sin escanear el código QR.</p>
+</div>
+
+<div class="bottom-actions"><a class="btn secondary" href="{% url 'home' %}">Volver a Inicio</a></div>
+{% endblock %}

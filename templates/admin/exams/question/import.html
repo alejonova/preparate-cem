@@ -1,0 +1,13 @@
+{% extends "admin/base_site.html" %}
+{% block content %}
+<div class="import-box">
+  <h2>Importar banco de preguntas</h2>
+  <p class="hint">Carga un archivo JSON o CSV con las preguntas de una materia. El sistema valida la estructura y crea o actualiza las preguntas por número dentro de la materia seleccionada.</p>
+  <p class="hint"><strong>JSON:</strong> usa el formato del banco actual. <strong>CSV:</strong> columnas <code>number,text,option_a,option_b,option_c,option_d,correct_option</code>.</p>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <div class="actions"><button class="button" type="submit">Importar banco</button> <a class="button" href="{% url 'admin:exams_question_changelist' %}">Cancelar</a></div>
+  </form>
+</div>
+{% endblock %}

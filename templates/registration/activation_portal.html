@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block title %}Activar cuenta{% endblock %}
+{% block content %}
+<div class="card activation-card">
+  <div class="activation-icon">🔐</div>
+  <h1>¡Bienvenido a Preparate CEM - 2027!</h1>
+  <p>Hola, <strong>{{ user.name }}</strong>. Tu cuenta y tu autenticación OTP fueron configuradas correctamente.</p>
+  <p>Para habilitar el acceso completo a la plataforma debes realizar el pago de inscripción de:</p>
+  <div class="payment-amount">$20.000 COP</div>
+  <div class="payment-box"><span class="payment-label">Llave Bre-B</span><strong class="breb-number">{{ payment_breb_key }}</strong></div>
+  <p>Realiza el pago desde tu celular y envía el comprobante por WhatsApp al mismo número. En el mensaje indica el <strong>correo electrónico asociado a tu cuenta:</strong></p>
+  <div class="email-box">{{ user.email }}</div>
+  <p class="muted">Un administrador verificará el comprobante y habilitará tu cuenta. Hasta entonces, este será el único contenido disponible, incluso si cierras sesión y vuelves a iniciar sesión.</p>
+  <div class="pending-badge">🟠 Cuenta pendiente de habilitación</div>
+  <form method="post" action="{% url 'logout' %}" style="margin-top:20px">{% csrf_token %}<button class="btn secondary" type="submit">Cerrar sesión</button></form>
+</div>
+{% endblock %}

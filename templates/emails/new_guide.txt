@@ -1,0 +1,15 @@
+Nueva guía de estudio disponible
+
+Hola, {{ user.name }}.
+
+Se ha publicado una nueva guía en {{ platform_name }}:
+
+{{ guide.title }}
+{% if guide.description %}
+{{ guide.description }}
+{% endif %}
+
+Ingresa a la plataforma para consultarla en la sección Guías.
+
+Saludos,
+{{ platform_name }}

@@ -1,0 +1,17 @@
+{% extends "admin/base_site.html" %}
+{% load admin_extras %}
+{% block content %}
+{% admin_user_count as user_count %}
+{% admin_subject_count as subject_count %}
+{% admin_question_count as question_count %}
+{% admin_guide_count as guide_count %}
+<div class="admin-card-grid">
+  <div class="admin-card"><div class="label">Usuarios</div><div class="value">{{ user_count }}</div><a class="link" href="{% url 'admin:accounts_user_changelist' %}">Gestionar usuarios →</a></div>
+  <div class="admin-card"><div class="label">Materias</div><div class="value">{{ subject_count }}</div><a class="link" href="{% url 'admin:exams_subject_changelist' %}">Gestionar materias →</a></div>
+  <div class="admin-card"><div class="label">Banco de preguntas</div><div class="value">{{ question_count }}</div><a class="link" href="{% url 'admin:exams_question_changelist' %}">Gestionar preguntas →</a></div>
+<div class="admin-card"><div class="label">Guías activas</div><div class="value">{{ guide_count }}</div><a class="link" href="{% url 'admin:exams_studyguide_changelist' %}">Gestionar guías →</a></div>
+</div>
+<div id="content-main">
+  {% include "admin/app_list.html" with app_list=app_list show_changelinks=True %}
+</div>
+{% endblock %}

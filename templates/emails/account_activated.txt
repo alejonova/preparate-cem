@@ -1,0 +1,12 @@
+Tu cuenta ha sido habilitada
+
+Hola, {{ user.name }}.
+
+Tu cuenta en {{ platform_name }} ya fue habilitada por un administrador.
+
+Ya puedes ingresar a la plataforma y comenzar tus Test Simulacro y consultar las Guías de estudio.
+
+¡Éxitos en tu preparación!
+
+Saludos,
+{{ platform_name }}

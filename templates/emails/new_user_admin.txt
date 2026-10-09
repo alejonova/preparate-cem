@@ -1,0 +1,9 @@
+Nuevo usuario registrado
+
+Se ha creado una nueva cuenta en {{ platform_name }}.
+
+Nombre: {{ user.name }}
+Correo: {{ user.email }}
+Estado: Pendiente de habilitación
+
+Recuerda verificar el pago antes de habilitar el acceso.

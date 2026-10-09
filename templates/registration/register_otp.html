@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block title %}Configurar OTP{% endblock %}
+{% block content %}
+<div class="card otp-box">
+  <h1>Configura tu autenticación de seguridad</h1>
+  <p>Antes de crear tu cuenta debes configurar tu OTP. Escanea este código QR con Google Authenticator, Microsoft Authenticator u otra aplicación compatible con TOTP.</p>
+  <div class="qr-wrap"><img src="{{ qr_data }}" alt="Código QR para configurar OTP"></div>
+  <p><strong>Clave de configuración manual</strong></p>
+  <div class="otp-secret">{{ otp_secret }}</div>
+  <p class="account-note">Si no puedes escanear el QR, copia esta clave y agrégala manualmente en tu aplicación Authenticator.</p>
+  <p class="muted">Cuenta: {{ email }}</p>
+  <form method="post">{% csrf_token %}<p><label>Código de 6 dígitos<br><input class="otp-input" name="otp_code" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9]{6}" maxlength="6" required autofocus></label></p><button class="btn" type="submit">Confirmar OTP y crear cuenta</button></form>
+  <p class="muted otp-help">La cuenta no se crea hasta que este código sea validado correctamente. Si abandonas este proceso, el intento de registro se descarta.</p>
+  <p><a href="{% url 'register' %}">Cancelar registro</a></p>
+</div>
+{% endblock %}

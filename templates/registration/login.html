@@ -1,0 +1,69 @@
+{% extends 'base.html' %}
+{% block title %}Preparate CEM - 2027{% endblock %}
+{% block content %}
+<div class="public-landing">
+  <section class="landing-hero">
+    <div>
+      <div class="muted" style="font-weight:700;letter-spacing:.08em;text-transform:uppercase">Preparación CEM 2027</div>
+      <h1>Prepárate con práctica real y enfocada.</h1>
+      <p class="lead">Preparate CEM - 2027 reúne simulacros de examen y guías de estudio para ayudarte a medir tu preparación, identificar tus materias más débiles y avanzar con mayor confianza.</p>
+      <div class="landing-actions">
+        <a class="btn" href="{% url 'register' %}">Crear mi cuenta</a>
+        <a class="btn secondary" href="#ingresar">Ya tengo una cuenta</a>
+      </div>
+    </div>
+    <div class="landing-visual" aria-label="Vista previa del progreso de un estudiante">
+      <div class="mini-dashboard">
+        <h3>Tu preparación, de un vistazo</h3>
+        <div class="mini-bars">
+          <div class="mini-bar-row"><span>Materia 1</span><div class="mini-bar-track"><div class="mini-bar-fill" style="width:88%"></div></div><strong>88%</strong></div>
+          <div class="mini-bar-row"><span>Materia 2</span><div class="mini-bar-track"><div class="mini-bar-fill" style="width:76%"></div></div><strong>76%</strong></div>
+          <div class="mini-bar-row"><span>Materia 3</span><div class="mini-bar-track"><div class="mini-bar-fill" style="width:92%"></div></div><strong>92%</strong></div>
+          <div class="mini-bar-row"><span>Materia 4</span><div class="mini-bar-track"><div class="mini-bar-fill" style="width:68%"></div></div><strong>68%</strong></div>
+        </div>
+        <p class="muted" style="margin:16px 0 0;font-size:13px">Practica, recibe tu resultado inmediatamente y conoce dónde concentrar tus próximos esfuerzos.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="landing-cards">
+    <article class="landing-feature">
+      <div class="landing-feature-icon">📝</div>
+      <h2>Test Simulacro</h2>
+      <p>Simulacros de 40 preguntas seleccionadas aleatoriamente de bancos de 100 preguntas, con un tiempo máximo de 80 minutos.</p>
+    </article>
+    <article class="landing-feature">
+      <div class="landing-feature-icon">📚</div>
+      <h2>Guías de estudio</h2>
+      <p>Material de apoyo para complementar la preparación y reforzar los contenidos antes de volver a presentar un simulacro.</p>
+    </article>
+    <article class="landing-feature">
+      <div class="landing-feature-icon">📈</div>
+      <h2>Conoce tu progreso</h2>
+      <p>Consulta tus mejores resultados por materia y recibe una recomendación para saber dónde conviene seguir practicando.</p>
+    </article>
+  </section>
+
+  <section class="landing-band">
+    <div>
+      <h2>Empieza tu preparación hoy</h2>
+      <p>Crea tu cuenta, configura tu autenticación de seguridad y comienza tu proceso de preparación.</p>
+    </div>
+    <a class="btn" href="{% url 'register' %}">Crear una cuenta</a>
+  </section>
+
+  <div id="ingresar" class="card" style="max-width:520px;margin:0 auto 20px">
+    <h2>Iniciar sesión</h2>
+    <p class="muted">Ingresa con el correo y contraseña de tu cuenta. Después de validar tus credenciales, se solicitará tu código OTP de seguridad.</p>
+    <form method="post">
+      {% csrf_token %}
+      <p><label>Correo electrónico<br><input name="username" type="email" required autocomplete="email" style="width:100%;box-sizing:border-box;padding:11px"></label></p>
+      <p><label>Contraseña<br><input name="password" type="password" required autocomplete="current-password" style="width:100%;box-sizing:border-box;padding:11px"></label></p>
+      {% if form.errors %}<p class="messages" style="background:#f8dede;padding:12px;border-radius:7px">Correo o contraseña incorrectos, o la cuenta está deshabilitada.</p>{% endif %}
+      <button class="btn" type="submit">Ingresar</button>
+    </form>
+    <p style="margin-bottom:0">¿Aún no tienes cuenta? <a href="{% url 'register' %}">Crear una cuenta</a></p>
+  </div>
+  <div class="public-footer">Preparate CEM - 2027 · Plataforma privada de preparación</div>
+</div>
+{% endblock %}

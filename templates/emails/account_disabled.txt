@@ -1,0 +1,12 @@
+Tu cuenta ha sido deshabilitada
+
+Hola, {{ user.name }}.
+
+Tu cuenta en {{ platform_name }} ha sido deshabilitada por un administrador.
+
+Mientras permanezca deshabilitada no podrás acceder a las funciones de la plataforma.
+
+Si consideras que esto es un error, comunícate con el administrador del curso.
+
+Saludos,
+{{ platform_name }}

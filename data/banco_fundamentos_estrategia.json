@@ -1,0 +1,907 @@
+{
+  "subject": "Fundamentos de Estrategia",
+  "description": "Banco de preguntas Fundamentos de Estrategia — CEM 2027.",
+  "total_questions": 100,
+  "questions": [
+    {
+      "number": 1,
+      "text": "Según la guía, ¿mediante qué disposición y en qué fecha fue aprobado el Manual Básico Conjunto MBC 5-18 Estrategia?",
+      "option_a": "Disposición 011 del 24 de marzo de 2027",
+      "option_b": "Disposición 011 del 24 de marzo de 2026",
+      "option_c": "Disposición 024 del 24 de marzo de 2026",
+      "option_d": "Disposición 011 de septiembre de 2026",
+      "correct_option": "B"
+    },
+    {
+      "number": 2,
+      "text": "¿Cuál enunciado es coherente con la finalidad y con las orientaciones para el estudio de la guía?",
+      "option_a": "El objetivo no es solo recordar conceptos, sino relacionarlos dentro de un problema estratégico, estudiándolos mediante cuatro niveles: definir, diferenciar, relacionar y aplicar",
+      "option_b": "El objetivo es recordar los conceptos de manera aislada, sin necesidad de relacionarlos con un problema, estudiándolos mediante cuatro niveles: definir, diferenciar, relacionar y aplicar",
+      "option_c": "El objetivo no es solo recordar conceptos, sino relacionarlos dentro de un problema estratégico, estudiándolos mediante cuatro niveles: definir, memorizar, relacionar y evaluar",
+      "option_d": "El objetivo no es solo recordar conceptos, sino producir una teoría estratégica alternativa, estudiándolos mediante cuatro niveles: definir, diferenciar, relacionar y aplicar",
+      "correct_option": "A"
+    },
+    {
+      "number": 3,
+      "text": "El MBC 5-18 recoge del MFC 1.0 una definición de estrategia. ¿Cuál es?",
+      "option_a": "Una idea prudente o conjunto de ideas para emplear los instrumentos del poder nacional de manera sincronizada e integrada con el fin de alcanzar objetivos",
+      "option_b": "El arte y la ciencia de desarrollar y aplicar el poder militar de manera sincronizada e integrada con el fin de alcanzar los objetivos nacionales",
+      "option_c": "Un conjunto de actividades, responsabilidades y recursos organizados para ejecutar las decisiones adoptadas, de manera sincronizada, con el fin de alcanzar objetivos",
+      "option_d": "Un conjunto de principios, fundamentos y lenguaje común destinados a orientar el empleo de las fuerzas de manera sincronizada con el fin de alcanzar objetivos",
+      "correct_option": "A"
+    },
+    {
+      "number": 4,
+      "text": "Según el MBC 5-18, una estrategia integral debe responder cuatro interrogantes fundamentales. ¿Cuáles son?",
+      "option_a": "Intereses, fines deseados, medios, y riesgos y costos",
+      "option_b": "Fines deseados, formas, doctrina, y riesgos y costos",
+      "option_c": "Fines deseados, formas, medios y tiempo disponible",
+      "option_d": "Fines deseados, formas, medios, y riesgos y costos",
+      "correct_option": "D"
+    },
+    {
+      "number": 5,
+      "text": "¿Cuál de los siguientes grupos de elementos corresponde al poder psicológico, según la guía?",
+      "option_a": "Recursos, dinero, población, infraestructura, liderazgo, credibilidad y medios militares",
+      "option_b": "Autoridad, legitimidad, prestigio, dinero, fuerzas, población, infraestructura y credibilidad",
+      "option_c": "Autoridad, legitimidad, prestigio, conocimiento, liderazgo, credibilidad y capacidad de persuasión",
+      "option_d": "Legitimidad, prestigio, conocimiento, fuerzas, medios militares y capacidad de persuasión",
+      "correct_option": "C"
+    },
+    {
+      "number": 6,
+      "text": "El MBC 5-18 presenta un espectro de la acción política. ¿Qué condiciones comprende?",
+      "option_a": "Cooperación, competencia por debajo del conflicto armado y conflicto armado",
+      "option_b": "Paz estable, competencia por debajo del conflicto armado y conflicto de alta intensidad",
+      "option_c": "Cooperación, disuasión por debajo del conflicto armado y conflicto armado",
+      "option_d": "Cooperación, competencia y conflicto armado, entendidos como etapas necesariamente lineales",
+      "correct_option": "A"
+    },
+    {
+      "number": 7,
+      "text": "Según el MBC 5-18, ¿qué elementos persisten a través del tiempo en la naturaleza de la guerra?",
+      "option_a": "Violencia, pasión, azar, tecnología, interacción y propósito político",
+      "option_b": "Violencia, pasión, azar, incertidumbre, interacción y propósito político",
+      "option_c": "Violencia, pasión, azar, incertidumbre, interacción y doctrina conjunta",
+      "option_d": "Violencia, razón, azar, incertidumbre, adaptación y propósito político",
+      "correct_option": "B"
+    },
+    {
+      "number": 8,
+      "text": "¿Cuáles son los tres niveles de la estrategia que el MBC 5-18 identifica expresamente en su numeral 1.6?",
+      "option_a": "Estrategia de Seguridad Nacional, Estrategia Militar Nacional y estrategia institucional",
+      "option_b": "Estrategia nacional, Estrategia de Defensa Nacional y Estrategia Militar Nacional",
+      "option_c": "Estrategia nacional, Estrategia de Defensa Nacional y estrategia institucional",
+      "option_d": "Estrategia nacional, Estrategia de Seguridad Nacional y Estrategia Militar Nacional",
+      "correct_option": "D"
+    },
+    {
+      "number": 9,
+      "text": "¿Cuál afirmación sobre la Estrategia Militar Nacional (EMN) y la Estrategia de Defensa Nacional (EDN) es correcta según la guía?",
+      "option_a": "La EMN es aprobada por el Comandante General de las Fuerzas Militares; la EDN es el cuarto nivel de la estrategia, dentro de la clasificación del numeral 1.6, y orienta el soporte del sector Defensa",
+      "option_b": "La EMN es emitida por el Ministerio de Defensa Nacional; la EDN es aprobada por el Comandante General de las Fuerzas Militares y está subordinada a la Estrategia de Seguridad Nacional",
+      "option_c": "La EMN es formulada por el Gobierno nacional; la EDN es emitida por el Ministerio de Defensa Nacional y está subordinada a la Estrategia de Seguridad Nacional",
+      "option_d": "La EMN es aprobada por el Comandante General de las Fuerzas Militares; la EDN es emitida por el Ministerio de Defensa Nacional y está subordinada a la Estrategia de Seguridad Nacional",
+      "correct_option": "D"
+    },
+    {
+      "number": 10,
+      "text": "El modelo doctrinal básico del MBC 5-18 es DIME. ¿Cuál descripción corresponde al instrumento diplomático?",
+      "option_a": "Su esencia es el empleo o la amenaza de empleo de la fuerza para influir sobre otra parte del conflicto",
+      "option_b": "Se fundamenta en negociar, alcanzar acuerdos y gestionar relaciones con aliados, socios y otros actores",
+      "option_c": "Comprende recursos y mecanismos económicos capaces de generar incentivos, presión o influencia sobre otros",
+      "option_d": "Se relaciona con la capacidad de crear, explotar, proteger e interrumpir conocimiento e información",
+      "correct_option": "B"
+    },
+    {
+      "number": 11,
+      "text": "¿Qué dimensiones componen la herramienta de análisis PMESII, según el MBC 5-18?",
+      "option_a": "Política, militar, económica, social, institucional e infraestructura",
+      "option_b": "Política, militar, económica, social, información y legal",
+      "option_c": "Política, militar, económica, social, información e infraestructura",
+      "option_d": "Diplomática, militar, económica, social, información e infraestructura",
+      "correct_option": "C"
+    },
+    {
+      "number": 12,
+      "text": "¿Cuál opción describe correctamente los componentes moral y físico del poder de combate según el MBC 5-18?",
+      "option_a": "Moral: voluntad, cohesión, liderazgo, doctrina y motivación; físico: personal, material, preparación, infraestructura y sostenimiento",
+      "option_b": "Moral: voluntad, cohesión, liderazgo, disciplina y motivación; físico: personal, material, planeamiento, infraestructura y entendimiento",
+      "option_c": "Moral: voluntad, cohesión, liderazgo, disciplina y motivación; físico: personal, material, preparación, infraestructura y sostenimiento",
+      "option_d": "Moral: voluntad, conocimiento, liderazgo, disciplina y educación; físico: personal, material, preparación, infraestructura y sostenimiento",
+      "correct_option": "C"
+    },
+    {
+      "number": 13,
+      "text": "¿Cómo define el MBC 5-18 la estrategia militar?",
+      "option_a": "Componente de la estrategia nacional o multinacional que presenta cómo desarrollar y aplicar el poder militar para alcanzar objetivos nacionales o de un grupo de naciones",
+      "option_b": "Planeamiento operacional que organiza actividades, responsabilidades y recursos para ejecutar las decisiones de las campañas y de las operaciones mayores en el teatro",
+      "option_c": "Arte de diseñar campañas y operaciones mayores que conectan los objetivos estratégicos con las acciones tácticas mediante el empleo del poder militar disponible",
+      "option_d": "Documento aprobado por el Comandante General que presenta cómo distribuir y aplicar el poder militar en apoyo de la Estrategia de Seguridad Nacional y la de Defensa",
+      "correct_option": "A"
+    },
+    {
+      "number": 14,
+      "text": "¿Qué datos sobre Clausewitz y su obra consigna la guía?",
+      "option_a": "Vivió entre 1780 y 1831; Vom Kriege se publicó póstumamente en 1832 y la guía usa la edición revisada de Howard y Paret de 1984",
+      "option_b": "Vivió entre 1780 y 1831; Vom Kriege se publicó póstumamente en 1832 y la guía usa la edición original de 1832 para sus citas",
+      "option_c": "Vivió entre 1780 y 1832; Vom Kriege se publicó póstumamente en 1831 y la guía usa la edición revisada de Howard y Paret de 1984",
+      "option_d": "Vivió entre 1780 y 1831; Vom Kriege se publicó en vida del autor en 1832 y la guía usa la edición revisada de Howard y Paret de 1984",
+      "correct_option": "A"
+    },
+    {
+      "number": 15,
+      "text": "¿Cuál es el orden cronológico correcto de las obras de Mahan, Corbett y Douhet que cita la guía, según su año de publicación original?",
+      "option_a": "Douhet (1890), Mahan (1911) y Corbett (1921)",
+      "option_b": "Mahan (1890), Douhet (1911) y Corbett (1921)",
+      "option_c": "Mahan (1890), Corbett (1911) y Douhet (1921)",
+      "option_d": "Corbett (1890), Mahan (1911) y Douhet (1921)",
+      "correct_option": "C"
+    },
+    {
+      "number": 16,
+      "text": "¿Cuál opción relaciona correctamente cada clase de interés con la pregunta que formula el MBC?",
+      "option_a": "Esenciales: ¿por qué estamos dispuestos a morir?; periféricos: ¿por qué estamos dispuestos a luchar?",
+      "option_b": "Vitales: ¿por qué estamos dispuestos a morir?; esenciales: ¿por qué estamos dispuestos a luchar?",
+      "option_c": "Vitales: ¿por qué estamos dispuestos a luchar?; periféricos: ¿por qué estamos dispuestos a morir?",
+      "option_d": "Vitales: ¿por qué estamos dispuestos a luchar?; esenciales: ¿por qué estamos dispuestos a morir?",
+      "correct_option": "B"
+    },
+    {
+      "number": 17,
+      "text": "¿Cuál es la lógica explicativa que presenta la guía para relacionar tareas, efectos, objetivos, fines y estado final?",
+      "option_a": "Tareas → efectos → objetivos → fines → estado final",
+      "option_b": "Tareas → efectos → fines → objetivos → estado final",
+      "option_c": "Efectos → tareas → objetivos → fines → estado final",
+      "option_d": "Tareas → objetivos → efectos → fines → estado final",
+      "correct_option": "A"
+    },
+    {
+      "number": 18,
+      "text": "De los trece enfoques estratégicos fundamentales del MBC 5-18, ¿cuál establece expresamente que Colombia no empleará, por contradecir principios del Derecho Internacional Humanitario?",
+      "option_a": "Obligar, que busca modificar el statu quo mediante amenaza creíble o acción del Estado",
+      "option_b": "Erradicar, que busca la eliminación absoluta del actor objetivo e incluso de la ideología que lo guía",
+      "option_c": "Coaccionar, que busca alterar el comportamiento adversario mediante amenaza o presión",
+      "option_d": "Someter, que busca aplicar fuerza suficiente para eliminar alternativas distintas de la capitulación",
+      "correct_option": "B"
+    },
+    {
+      "number": 19,
+      "text": "¿Cuáles son las cinco formas estratégicas que el MBC 5-18 desarrolla en el capítulo 5 para la formulación de la EMN?",
+      "option_a": "Aniquilación, desgaste, disuasión, apremio e incentivo",
+      "option_b": "Aniquilación, desgaste, erosión, apremio y someter",
+      "option_c": "Aniquilación, desgaste, erosión, apremio e incentivo",
+      "option_d": "Aniquilación, desgaste, erosión, coerción e incentivo",
+      "correct_option": "C"
+    },
+    {
+      "number": 20,
+      "text": "¿Qué temas de operaciones menciona la guía para organizar la respuesta militar según las características predominantes del ambiente?",
+      "option_a": "Combate, disuasión, apoyo a la paz y encuentro militar en tiempos de paz",
+      "option_b": "Combate, seguridad, apoyo a la paz y cooperación militar en tiempos de crisis",
+      "option_c": "Combate, seguridad, apoyo humanitario y encuentro militar en tiempos de conflicto",
+      "option_d": "Combate, seguridad, apoyo a la paz y encuentro militar en tiempos de paz",
+      "correct_option": "D"
+    },
+    {
+      "number": 21,
+      "text": "Según la guía, ¿cuál es la distinción correcta entre ciencia militar y arte militar?",
+      "option_a": "La ciencia militar conecta los fines estratégicos con campañas y operaciones; el arte militar relaciona poder, propósito y contexto",
+      "option_b": "La ciencia militar aplica juicio profesional ante circunstancias únicas; el arte militar proporciona conocimientos, métodos y análisis",
+      "option_c": "La ciencia militar proporciona fundamentos y lenguaje común; el arte militar organiza actividades, responsabilidades y recursos",
+      "option_d": "La ciencia militar proporciona conocimientos, métodos y análisis; el arte militar aplica juicio profesional ante circunstancias únicas",
+      "correct_option": "D"
+    },
+    {
+      "number": 22,
+      "text": "¿Cómo define el MBC la amenaza híbrida?",
+      "option_a": "Aquella que combina amenazas convencionales, irregulares y asimétricas en un mismo tiempo y espacio",
+      "option_b": "Aquella que combina actores estatales, no estatales e internos relevantes en un mismo tiempo y espacio",
+      "option_c": "Aquella que combina amenazas convencionales, tecnológicas e informacionales en un mismo tiempo y espacio",
+      "option_d": "Aquella en la que un actor explota diferencias de capacidad, organización, tecnología, tiempo, espacio o restricciones",
+      "correct_option": "A"
+    },
+    {
+      "number": 23,
+      "text": "Según la guía, ¿cuál opción define correctamente los fines, las formas y los medios?",
+      "option_a": "Fines: recursos disponibles; formas: objetivos que deben alcanzarse; medios: aproximaciones generales para emplear la capacidad",
+      "option_b": "Fines: objetivos que deben alcanzarse; formas: aproximaciones generales para emplear la capacidad; medios: recursos disponibles",
+      "option_c": "Fines: aproximaciones generales para emplear la capacidad; formas: objetivos que deben alcanzarse; medios: recursos disponibles",
+      "option_d": "Fines: objetivos que deben alcanzarse; formas: recursos disponibles; medios: aproximaciones generales para emplear la capacidad",
+      "correct_option": "B"
+    },
+    {
+      "number": 24,
+      "text": "Según la guía, ¿qué comprende la cultura estratégica y cómo influye en la decisión?",
+      "option_a": "Normas jurídicas y procedimientos doctrinales que condicionan cómo se interpreta el ambiente de seguridad, sin determinar automáticamente la decisión",
+      "option_b": "Ideas, experiencias, valores y prácticas que determinan automáticamente la decisión de un Estado sobre la seguridad y el uso de la fuerza militar",
+      "option_c": "Ideas, experiencias, valores y prácticas que condicionan cómo se entiende la seguridad y se emplea el poder, sin determinar automáticamente la decisión",
+      "option_d": "Ideas, experiencias, valores y prácticas que solo influyen en la relación con los aliados y no en la percepción de amenazas ni en la tolerancia al riesgo",
+      "correct_option": "C"
+    },
+    {
+      "number": 25,
+      "text": "¿Cuál afirmación sobre los conceptos de complementación académica del capítulo 2 es correcta?",
+      "option_a": "Las megatendencias son perturbaciones súbitas y breves que alteran de inmediato el ambiente estratégico",
+      "option_b": "La prospectiva busca predecir con certeza el futuro para eliminar la incertidumbre de las decisiones presentes",
+      "option_c": "La resiliencia es la capacidad de anticipar las perturbaciones para evitar que afecten la continuidad institucional",
+      "option_d": "La prospectiva explora futuros plausibles para mejorar decisiones presentes, sin pretender predecir con certeza",
+      "correct_option": "D"
+    },
+    {
+      "number": 26,
+      "text": "En el análisis de Tucídides sobre la Guerra del Peloponeso, ¿qué muestra la relación entre el crecimiento del poder ateniense y el temor producido en Esparta?",
+      "option_a": "Que los cambios en la distribución del poder pueden alterar las percepciones de seguridad de los actores",
+      "option_b": "Que los detonantes inmediatos son siempre más importantes que las causas estructurales de la guerra",
+      "option_c": "Que la expedición ateniense a Sicilia fue la causa estructural que provocó el temor de Esparta",
+      "option_d": "Que las capacidades materiales por sí solas explican las decisiones de guerra, sin considerar percepciones ni motivaciones",
+      "correct_option": "A"
+    },
+    {
+      "number": 27,
+      "text": "¿Qué lección clásica proporciona, según la guía, la expedición ateniense a Sicilia?",
+      "option_a": "La que advierte sobre el determinismo tecnológico y la expectativa de quebrar rápidamente la voluntad de una sociedad",
+      "option_b": "La que advierte sobre el exceso de geometría en el análisis de campañas y la pérdida de importancia de la política",
+      "option_c": "La que advierte sobre la expansión de objetivos, el conocimiento insuficiente y la sobreextensión de medios",
+      "option_d": "La que advierte sobre la dependencia de capacidades ajenas y la consecuente pérdida de autonomía del Estado",
+      "correct_option": "C"
+    },
+    {
+      "number": 28,
+      "text": "En el análisis de Maquiavelo que presenta la guía, ¿qué explica su insistencia en las fuerzas propias?",
+      "option_a": "La convicción de que la incertidumbre puede eliminarse completamente mediante la virtù del gobernante y sus instituciones",
+      "option_b": "La necesidad de concentrar superioridad relativa en los puntos decisivos y en las líneas de operaciones del adversario",
+      "option_c": "La preocupación por la dependencia, pues un Estado que depende totalmente de capacidades ajenas puede ver limitada su autonomía",
+      "option_d": "El interés por controlar las comunicaciones marítimas para negar su uso al adversario durante la guerra limitada",
+      "correct_option": "C"
+    },
+    {
+      "number": 29,
+      "text": "Según la guía, ¿cuándo aparece la principal limitación del pensamiento de Jomini?",
+      "option_a": "Cuando se interpreta la guerra como un fenómeno político y social que no posee una finalidad propia y se subordina al propósito político",
+      "option_b": "Cuando se sistematiza el análisis de campañas a partir de la experiencia de las guerras napoleónicas y se organiza el conocimiento profesional",
+      "option_c": "Cuando se enfatizan los puntos decisivos y las comunicaciones por encima de la concentración de fuerzas, y se pierde la visión de conjunto de la campaña",
+      "option_d": "Cuando la estrategia se interpreta de forma excesivamente geométrica y se reduce la importancia de política, sociedad, voluntad e incertidumbre",
+      "correct_option": "D"
+    },
+    {
+      "number": 30,
+      "text": "¿Cómo compara la guía los aportes de Mahan y Corbett al estudio del poder marítimo?",
+      "option_a": "Ambos sostienen que el control del mar debe ser absoluto y que la batalla decisiva entre grandes flotas es su fundamento",
+      "option_b": "Mahan ayuda a comprender las bases del poder marítimo; Corbett, cómo emplearlo para alcanzar objetivos políticos específicos",
+      "option_c": "Mahan ayuda a comprender cómo emplear el poder marítimo; Corbett, las bases económicas y geográficas que lo sustentan",
+      "option_d": "Mahan defiende un control del mar general, local, temporal o disputado; Corbett, el dominio absoluto de las comunicaciones",
+      "correct_option": "B"
+    },
+    {
+      "number": 31,
+      "text": "¿Cómo interpreta la guía la expectativa de Douhet de que el bombardeo sobre centros urbanos quebraría rápidamente la voluntad de una sociedad?",
+      "option_a": "Como una prescripción plenamente aplicable hoy, pues el empleo contemporáneo de la fuerza aérea no tiene restricciones jurídicas",
+      "option_b": "Como una tesis irrelevante, pues Douhet no contribuyó al reconocimiento del aire como ámbito estratégico de la guerra",
+      "option_c": "Como una expectativa confirmada históricamente, que demostró que el dominio del aire basta para decidir una guerra",
+      "option_d": "Como una expectativa históricamente mucho más problemática de lo previsto, que advierte contra el determinismo tecnológico",
+      "correct_option": "D"
+    },
+    {
+      "number": 32,
+      "text": "Según la guía, ¿qué experiencia influyó en el pensamiento de Liddell Hart y qué busca la aproximación indirecta?",
+      "option_a": "La experiencia de las guerras napoleónicas; busca alterar el equilibrio adversario antes de intentar una decisión",
+      "option_b": "La experiencia de desgaste de la Primera Guerra Mundial; busca evitar siempre el enfrentamiento con el adversario",
+      "option_c": "La experiencia de desgaste de la Primera Guerra Mundial; busca alterar el equilibrio adversario antes de intentar una decisión",
+      "option_d": "La experiencia de la Guerra Fría y las armas nucleares; busca modificar el cálculo y la voluntad del adversario",
+      "correct_option": "C"
+    },
+    {
+      "number": 33,
+      "text": "En el pensamiento de Beaufre, ¿cuál es la diferencia entre estrategia directa y estrategia indirecta?",
+      "option_a": "La directa busca una decisión principalmente mediante fuerza; la indirecta usa de forma más amplia instrumentos políticos, diplomáticos, económicos, psicológicos y militares limitados",
+      "option_b": "La directa articula todos los instrumentos dentro de un propósito común; la indirecta se limita al empleo de la fuerza militar para obtener la decisión",
+      "option_c": "La directa busca impedir una conducta que todavía no se ha producido; la indirecta busca que el adversario realice una acción o cese una ya iniciada",
+      "option_d": "La directa emplea de forma más amplia instrumentos políticos, diplomáticos, económicos y psicológicos; la indirecta busca una decisión principalmente mediante fuerza",
+      "correct_option": "A"
+    },
+    {
+      "number": 34,
+      "text": "Si cambian las sociedades que libran una guerra y las dinámicas tecnológicas que la afectan, ¿qué cambia según el MBC 5-18?",
+      "option_a": "El carácter de la guerra, mientras su naturaleza permanece constante a través del tiempo",
+      "option_b": "La naturaleza de la guerra, mientras su carácter permanece constante",
+      "option_c": "La naturaleza de la guerra, pues sus elementos persistentes dependen de quién lucha, por qué y cómo lo hace",
+      "option_d": "El carácter y también la naturaleza de la guerra, pues violencia, pasión y azar cambian con la tecnología",
+      "correct_option": "A"
+    },
+    {
+      "number": 35,
+      "text": "Una pequeña acción puede producir un efecto estratégico y una operación de gran magnitud puede seguir siendo operacional. ¿Qué criterio distingue entonces los niveles de la guerra, según la guía?",
+      "option_a": "La extensión geográfica del área donde se desarrolla la acción",
+      "option_b": "El propósito de la acción y el efecto que busca producir",
+      "option_c": "El tamaño de la fuerza y el número de unidades empleadas",
+      "option_d": "El rango del comandante y el nivel de mando que la conduce",
+      "correct_option": "B"
+    },
+    {
+      "number": 36,
+      "text": "Según la guía, ¿qué factores incluye la naturaleza perdurable del conflicto y qué afectan?",
+      "option_a": "Fricción, incertidumbre, peligro, estrés y oposición, que afectan la decisión, la coordinación, la voluntad y la ejecución",
+      "option_b": "Fricción, incertidumbre, peligro, legitimidad y oposición, que afectan la decisión, la coordinación, la voluntad y la ejecución",
+      "option_c": "Fricción, incertidumbre, peligro, estrés y oposición, que afectan únicamente la ejecución de las acciones tácticas",
+      "option_d": "Fricción, azar, peligro, estrés y cooperación, que afectan la decisión, la coordinación, la voluntad y la ejecución",
+      "correct_option": "A"
+    },
+    {
+      "number": 37,
+      "text": "Según el MBC 5-18, ¿qué consecuencia estratégica tiene la globalización?",
+      "option_a": "Modifica el alcance, la precisión y la velocidad decisional de las fuerzas, sin generar dependencias ni vulnerabilidades nuevas para los Estados",
+      "option_b": "Reduce las vulnerabilidades de los Estados, pues la conexión entre sistemas impide que las crisis se propaguen por el comercio y las finanzas",
+      "option_c": "Aumenta la presión sobre infraestructura, agua, energía y alimentos, a causa de la urbanización, la migración y la demanda de recursos",
+      "option_d": "Conecta economías, sociedades, tecnologías y sistemas de información, pero genera vulnerabilidades y dependencias por las que las crisis pueden propagarse",
+      "correct_option": "D"
+    },
+    {
+      "number": 38,
+      "text": "¿Qué efectos puede tener, según la guía, el cambio demográfico y ambiental sobre el ambiente estratégico?",
+      "option_a": "Modificar el alcance, la precisión y la movilidad, aumentando la velocidad decisional de las fuerzas militares en el teatro",
+      "option_b": "Modificar urbanización, migración, demanda de recursos y estabilidad, e incrementar la presión sobre infraestructura, agua, energía y alimentos",
+      "option_c": "Modificar las relaciones entre alianzas, competidores y adversarios, alterando las configuraciones de poder por cambios políticos y militares",
+      "option_d": "Conectar economías y sistemas de información, propagando las crisis a través del comercio, las finanzas y el transporte",
+      "correct_option": "B"
+    },
+    {
+      "number": 39,
+      "text": "Según Freedman, ¿por qué las estrategias rara vez se desarrollan exactamente como fueron concebidas y qué implica la adaptación estratégica?",
+      "option_a": "Porque otros actores responden y cambian las condiciones; adaptarse es sustituir el propósito por una nueva narrativa del problema",
+      "option_b": "Porque la fricción separa la concepción de la ejecución; adaptarse es abandonar el propósito inicial cuando la aproximación fracasa",
+      "option_c": "Porque el adversario es predecible; adaptarse es mantener la aproximación original para conservar coherencia con el propósito del estratega",
+      "option_d": "Porque otros actores responden, cambian las condiciones y aparece nueva información; adaptarse es modificar la aproximación sin abandonar el propósito",
+      "correct_option": "D"
+    },
+    {
+      "number": 40,
+      "text": "Al comparar las formas estratégicas de aniquilación y desgaste, ¿cuál es el riesgo principal que la guía asocia a cada una?",
+      "option_a": "Aniquilación: pérdida de credibilidad del mensaje; desgaste: dificultad para medir efectos indirectos",
+      "option_b": "Aniquilación: agotamiento propio y prolongación del conflicto; desgaste: altos costos y riesgos políticos y humanitarios",
+      "option_c": "Aniquilación: dificultad para medir efectos indirectos; desgaste: altos costos y riesgos políticos y humanitarios",
+      "option_d": "Aniquilación: altos costos y riesgos políticos y humanitarios; desgaste: agotamiento propio y prolongación del conflicto",
+      "correct_option": "D"
+    },
+    {
+      "number": 41,
+      "text": "Según la guía, ¿qué debe ocurrir con los fines cuando el riesgo, el costo o la insuficiencia de medios resulta incompatible con el estado final, y qué implica no reconocer una brecha de medios?",
+      "option_a": "Los fines deben mantenerse sin cambios aunque exista incompatibilidad; no reconocer la brecha implica reducir el riesgo al simplificar los medios",
+      "option_b": "Los fines deben ser modificados, limitados o retrasados; no reconocer la brecha implica aceptar riesgo de manera implícita",
+      "option_c": "Los fines deben mantenerse sin cambios aunque exista incompatibilidad; no reconocer la brecha implica aceptar riesgo de manera implícita",
+      "option_d": "Los fines deben ser modificados, limitados o retrasados; no reconocer la brecha implica eliminar el riesgo al evitar costos adicionales",
+      "correct_option": "B"
+    },
+    {
+      "number": 42,
+      "text": "Según la lógica paradójica de Luttwak, ¿qué relación existe entre concentración y vulnerabilidad, y qué debe analizar el estratega?",
+      "option_a": "La concentración genera poder pero también vulnerabilidad; debe analizar los efectos de segundo y tercer orden de sus acciones",
+      "option_b": "La concentración genera poder sin generar vulnerabilidad; debe analizar solo el efecto inmediato de sus acciones",
+      "option_c": "La concentración genera vulnerabilidad pero no poder; debe analizar los efectos de segundo y tercer orden de sus acciones",
+      "option_d": "La sorpresa genera una ventaja que se mantiene aunque se vuelva previsible; debe analizar los efectos de segundo y tercer orden",
+      "correct_option": "A"
+    },
+    {
+      "number": 43,
+      "text": "Según Schelling, ¿de qué factores depende la efectividad de la disuasión y de la compulsión?",
+      "option_a": "De la capacidad, la libertad de acción, la comunicación y la percepción",
+      "option_b": "De la superioridad física, la credibilidad, la comunicación y la economía del esfuerzo",
+      "option_c": "De la capacidad, la credibilidad, la comunicación y la percepción",
+      "option_d": "De la capacidad, la credibilidad, la dislocación y la percepción",
+      "correct_option": "C"
+    },
+    {
+      "number": 44,
+      "text": "Ante un cambio en el equilibrio de poder causado por crecimiento económico, innovación, alianzas y transformación militar, ¿qué debe valorar el estratega según la guía?",
+      "option_a": "Únicamente la capacidad real, pues la percepción no modifica el equilibrio de poder",
+      "option_b": "Únicamente la percepción de capacidad, pues la capacidad real no condiciona la decisión",
+      "option_c": "Tanto la capacidad real de los actores como la percepción que existe sobre esa capacidad",
+      "option_d": "La capacidad económica de los actores, pues las alianzas y la innovación no alteran el equilibrio",
+      "correct_option": "C"
+    },
+    {
+      "number": 45,
+      "text": "Según la guía, ¿qué condición debe cumplirse para que la tecnología se traduzca en capacidad?",
+      "option_a": "Ser adquirida antes que el adversario para obtener una superioridad tecnológica decisiva",
+      "option_b": "Integrarse con doctrina, organización, entrenamiento, personal y sostenimiento",
+      "option_c": "Incrementar el alcance, la precisión y la velocidad decisional de las plataformas disponibles",
+      "option_d": "Reemplazar la doctrina y la organización existentes por modelos basados en la tecnología",
+      "correct_option": "B"
+    },
+    {
+      "number": 46,
+      "text": "Para el oficial de Estado Mayor, según la guía, ¿cuándo es estratégicamente útil una acción militar?",
+      "option_a": "Cuando concentra superioridad relativa en el punto decisivo del teatro",
+      "option_b": "Cuando destruye con rapidez el poder militar del adversario",
+      "option_c": "Cuando produce un éxito táctico decisivo sobre las fuerzas adversarias",
+      "option_d": "Cuando puede explicarse cómo contribuye al propósito político",
+      "correct_option": "D"
+    },
+    {
+      "number": 47,
+      "text": "¿Qué enseña Sun Tzu, según la guía, sobre el uso de la batalla?",
+      "option_a": "Buscar la batalla decisiva en cuanto exista superioridad física, pues la concentración de fuerzas garantiza el resultado",
+      "option_b": "Combatir solo cuando el enfrentamiento contribuye al propósito y las condiciones han sido configuradas favorablemente",
+      "option_c": "Evitar siempre la batalla para no consumir innecesariamente el poder propio y reducir el costo del enfrentamiento con el adversario",
+      "option_d": "Combatir únicamente tras amenazar las comunicaciones del adversario y dislocarlo físicamente antes de intentar la decisión",
+      "correct_option": "B"
+    },
+    {
+      "number": 48,
+      "text": "¿Cómo describe el capítulo 4 la relación entre la política nacional y la estrategia militar?",
+      "option_a": "La estrategia militar está subordinada a la política, que establece los fines, mientras la estrategia define los límites y los recursos de la política",
+      "option_b": "La estrategia militar permanece subordinada a la política, que fija límites, fines y recursos, y la estrategia informa a la política sobre costos, riesgos y posibilidades",
+      "option_c": "La estrategia militar subordina a la política en tiempos de conflicto armado, cuando el empleo de la fuerza es el medio principal de la relación",
+      "option_d": "La política y la estrategia militar son independientes: la estrategia fija los fines y la política solo asigna los recursos disponibles para alcanzarlos",
+      "correct_option": "B"
+    },
+    {
+      "number": 49,
+      "text": "Según la guía, ¿qué responsabilidad del líder político no puede delegar en el profesional militar?",
+      "option_a": "Definir el propósito político al que debe servir el empleo del poder",
+      "option_b": "Diseñar las campañas y operaciones que conectan objetivos con acciones",
+      "option_c": "Conducir las acciones tácticas que alcanzan los objetivos militares",
+      "option_d": "Resolver las cuestiones técnicas propias del profesional militar",
+      "correct_option": "A"
+    },
+    {
+      "number": 50,
+      "text": "Al analizar un teatro estratégico, ¿qué debe considerar el estratega según la guía?",
+      "option_a": "La geografía y el nivel táctico de las fuerzas, pues el teatro se define desde la acción local y no desde el nivel estratégico",
+      "option_b": "Exclusivamente la geografía del área, porque define el espacio donde se conducen las campañas estratégicas del Estado",
+      "option_c": "Además de la geografía, las comunicaciones, infraestructura, población, recursos, aliados, acceso y relaciones políticas",
+      "option_d": "Las comunicaciones y la infraestructura, sin considerar población ni relaciones políticas, que pertenecen a otro nivel",
+      "correct_option": "C"
+    },
+    {
+      "number": 51,
+      "text": "Según la guía, ¿cuál es el objetivo del análisis de la situación estratégica?",
+      "option_a": "Describir de manera exhaustiva todos los factores políticos, militares, económicos y sociales del ambiente",
+      "option_b": "Identificar aquello que condiciona el problema, y no describir todo el ambiente",
+      "option_c": "Establecer la secuencia de tareas que conducirá al estado final que se pretende alcanzar",
+      "option_d": "Determinar los medios disponibles antes de haber definido los fines deseados del estratega",
+      "correct_option": "B"
+    },
+    {
+      "number": 52,
+      "text": "Un analista concluye que, por tratarse de un actor no estatal, el adversario empleará necesariamente métodos irregulares. ¿Qué indica la guía?",
+      "option_a": "Que los actores internos relevantes no influyen sobre la legitimidad ni sobre la ejecución",
+      "option_b": "Que solo los Estados pueden combinar amenazas convencionales e irregulares en un mismo espacio",
+      "option_c": "Que los actores no estatales siempre emplean amenazas asimétricas o híbridas contra los Estados",
+      "option_d": "Que la categoría de actor no determina automáticamente el método utilizado por el adversario",
+      "correct_option": "D"
+    },
+    {
+      "number": 53,
+      "text": "Dado que las operaciones no progresan necesariamente de forma lineal en el continuum del conflicto, ¿qué implicación señala la guía para la fuerza?",
+      "option_a": "Debe esperar la progresión desde la paz estable hacia el conflicto para activar sus capacidades",
+      "option_b": "Debe conservar capacidad para actuar a lo largo del continuum, incluidas la disuasión y el combate de alta intensidad",
+      "option_c": "Debe especializarse en el combate de alta intensidad, pues las demás actividades son etapas previas del conflicto",
+      "option_d": "Debe adaptar su capacidad a la etapa vigente del continuum, abandonando las demás formas de actividad",
+      "correct_option": "B"
+    },
+    {
+      "number": 54,
+      "text": "El estratega comprueba que la amenaza o la influencia no resultan suficientes para alcanzar los fines. ¿Qué uso estratégico de la fuerza militar corresponde?",
+      "option_a": "Asegurar, para emplear presencia y cooperación con el fin de demostrar compromiso",
+      "option_b": "Obligar, para conseguir que otro actor realice una acción o detenga una conducta",
+      "option_c": "Usar la fuerza, que aplica poder militar para alcanzar los fines estratégicos propuestos",
+      "option_d": "Coaccionar, para utilizar la amenaza de fuerza con el fin de moldear comportamiento",
+      "correct_option": "C"
+    },
+    {
+      "number": 55,
+      "text": "¿En cuál de las siguientes situaciones es apropiado el enfoque estratégico «observar», según el MBC 5-18?",
+      "option_a": "Cuando la amenaza a los intereses es mínima, otros actores gestionan adecuadamente el problema o los costos y riesgos de actuar superan los beneficios",
+      "option_b": "Cuando la amenaza a los intereses es máxima, ningún otro actor gestiona el problema y los beneficios de actuar superan los costos y riesgos",
+      "option_c": "Cuando se busca demostrar compromiso y apoyo a aliados, socios u otros actores para fortalecer la confianza en la relación",
+      "option_d": "Cuando se busca modificar el ambiente para producir condiciones futuras más favorables mediante presencia, cooperación y alianzas",
+      "correct_option": "A"
+    },
+    {
+      "number": 56,
+      "text": "Un Estado necesita que el adversario cese una acción que ya inició, mediante amenaza creíble o acción. ¿Qué enfoque estratégico corresponde según el MBC 5-18?",
+      "option_a": "Inducir, que produce una conducta mediante incentivos",
+      "option_b": "Disuadir, que busca impedir una acción antes de que ocurra",
+      "option_c": "Obligar, que exige al adversario cesar una conducta en curso",
+      "option_d": "Persuadir, que modifica una decisión sin depender de amenazas",
+      "correct_option": "C"
+    },
+    {
+      "number": 57,
+      "text": "Según la guía, ¿cómo debe tratar la estrategia el factor tiempo?",
+      "option_a": "Como recurso o restricción, evaluando duración, secuencia, oportunidad, sostenibilidad y efecto de la prolongación",
+      "option_b": "Como un factor secundario frente a fines, formas y medios, que no requiere una evaluación específica",
+      "option_c": "Como un recurso ilimitado, pues la prolongación no afecta la sostenibilidad de la estrategia que se adopta",
+      "option_d": "Como una restricción del futuro inmediato, pues los estrategas piensan en horizontes de meses y no de años",
+      "correct_option": "A"
+    },
+    {
+      "number": 58,
+      "text": "Si varios instrumentos del poder nacional se emplean al mismo tiempo, ¿qué exige la articulación según la guía?",
+      "option_a": "Que los instrumentos actúen simultáneamente, pues la simultaneidad equivale a integración de los instrumentos",
+      "option_b": "Que cada instrumento actúe de manera aislada para preservar su eficacia propia frente al adversario",
+      "option_c": "Que el instrumento militar predomine sobre los demás para garantizar la sincronización de los esfuerzos",
+      "option_d": "Que los instrumentos contribuyan a objetivos compatibles y eviten efectos mutuamente contradictorios",
+      "correct_option": "D"
+    },
+    {
+      "number": 59,
+      "text": "¿Mediante qué tres dimensiones propone el MBC comparar las formas estratégicas?",
+      "option_a": "Ventajas comparativas, riesgos inherentes y condiciones habilitantes",
+      "option_b": "Factibilidad, aceptabilidad y sostenibilidad de cada forma",
+      "option_c": "Tipo de objetivo, capacidades disponibles y tiempo necesario",
+      "option_d": "Ventajas comparativas, riesgos inherentes y efectos deseados",
+      "correct_option": "A"
+    },
+    {
+      "number": 60,
+      "text": "¿De qué depende el éxito del apremio como forma estratégica?",
+      "option_a": "De la credibilidad del ofrecimiento y de su valor para el receptor del beneficio o la oportunidad",
+      "option_b": "Del sostenimiento, el tiempo y la voluntad para mantener la presión sobre las capacidades del adversario",
+      "option_c": "De la credibilidad, la proporcionalidad, la claridad del mensaje y la sensibilidad del adversario a los costos",
+      "option_d": "De los medios decisivos, la concentración, la maniobra y la superioridad frente al poder militar del adversario",
+      "correct_option": "C"
+    },
+    {
+      "number": 61,
+      "text": "Un Estado fija objetivos ilimitados (derrota total, ocupación o transformación profunda). ¿Qué señala la guía?",
+      "option_a": "Requieren mayor movilización, tiempo y riesgo, y su intensidad debe guardar relación con el interés comprometido",
+      "option_b": "Son adecuados para cualquier interés, pues la intensidad del objetivo no depende del interés comprometido",
+      "option_c": "Requieren menor movilización, pues su alcance geográfico, funcional o temporal es restringido",
+      "option_d": "Requieren menor riesgo, porque eliminan las alternativas distintas de la capitulación del adversario",
+      "correct_option": "A"
+    },
+    {
+      "number": 62,
+      "text": "¿Cómo debe evaluarse el éxito de una campaña según la guía?",
+      "option_a": "Por la duración de la campaña frente al horizonte inicialmente previsto",
+      "option_b": "Por el número de actividades y operaciones ejecutadas conforme al plan previsto",
+      "option_c": "Por su contribución estratégica, y no únicamente por las actividades ejecutadas",
+      "option_d": "Por los resultados tácticos obtenidos en los enfrentamientos y las batallas",
+      "correct_option": "C"
+    },
+    {
+      "number": 63,
+      "text": "¿Cuál opción relaciona correctamente cada tipo de pensamiento con su función en la formulación de la estrategia?",
+      "option_a": "Crítico: construye alternativas; creativo: examina evidencias, argumentos y supuestos; sistémico: identifica relaciones, dependencias y retroalimentaciones",
+      "option_b": "Crítico: examina evidencias y supuestos; creativo: integra información diversa; sistémico: explora futuros plausibles y anticipa respuestas",
+      "option_c": "Crítico: identifica relaciones y dependencias; creativo: construye alternativas; sistémico: examina evidencias, argumentos y supuestos",
+      "option_d": "Crítico: examina evidencias, argumentos y supuestos; creativo: construye alternativas; sistémico: identifica relaciones, dependencias y retroalimentaciones",
+      "correct_option": "D"
+    },
+    {
+      "number": 64,
+      "text": "¿Cuál afirmación sobre el poder duro, blando e inteligente y la geoeconomía es correcta, según la guía?",
+      "option_a": "El poder duro utiliza atracción y legitimidad, el inteligente los combina según el contexto y la geoeconomía analiza el empleo de instrumentos económicos con finalidad estratégica",
+      "option_b": "El poder blando utiliza atracción y legitimidad, el inteligente sustituye a DIME y DIMEFIL y la geoeconomía analiza el empleo de instrumentos económicos con finalidad estratégica",
+      "option_c": "El poder blando utiliza atracción y legitimidad, el inteligente los combina según el contexto y la geoeconomía excluye el comercio, la inversión y la financiación",
+      "option_d": "El poder blando utiliza atracción y legitimidad, el inteligente los combina según el contexto y la geoeconomía analiza el empleo de instrumentos económicos con finalidad estratégica",
+      "correct_option": "D"
+    },
+    {
+      "number": 65,
+      "text": "Según la guía, el empleo militar debe derivarse de los fines estratégicos y de los intereses comprometidos. ¿Qué consecuencia tiene esa relación?",
+      "option_a": "Exige aplicar el mismo grado de fuerza en toda situación, pues todas las situaciones comprometen los intereses nacionales por igual",
+      "option_b": "Impide transformar el empleo de la fuerza en un fin autónomo, pues su intensidad, duración y alcance deben guardar relación con el propósito",
+      "option_c": "Convierte el empleo de la fuerza en el fin principal de la estrategia, pues el instrumento militar define los intereses comprometidos",
+      "option_d": "Permite que la duración de la acción sea independiente del propósito, siempre que el alcance geográfico de la fuerza sea limitado",
+      "correct_option": "B"
+    },
+    {
+      "number": 66,
+      "text": "Si existe conflicto entre una formulación del MBC 5-18 y una publicación de nivel MFC vigente, ¿qué prevalece según la guía?",
+      "option_a": "El MBC 5-18, conforme a la jerarquía MBC 5-18 → MFC → publicaciones complementarias → complementación académica",
+      "option_b": "La complementación académica, conforme a la jerarquía complementación académica → publicaciones → MBC 5-18 → MFC",
+      "option_c": "El MFC vigente, conforme a la jerarquía MFC → MBC 5-18 → publicaciones complementarias → complementación académica",
+      "option_d": "La publicación complementaria, conforme a la jerarquía publicaciones complementarias → MFC → MBC 5-18 → complementación académica",
+      "correct_option": "C"
+    },
+    {
+      "number": 67,
+      "text": "Cuando una formulación académica de un autor clásico difiere de la doctrina conjunta colombiana, ¿cómo debe interpretarse según la guía?",
+      "option_a": "Como teoría o antecedente, y no como definición doctrinal de la estrategia conjunta",
+      "option_b": "Como definición doctrinal complementaria que corrige la doctrina conjunta vigente",
+      "option_c": "Como una inconsistencia menor del MBC que debe resolverse a favor del autor clásico",
+      "option_d": "Como una publicación de nivel MFC que prevalece sobre el MBC 5-18 en ese punto",
+      "correct_option": "A"
+    },
+    {
+      "number": 68,
+      "text": "El numeral 3-3 del MBC 5-18 emplea «vitales, importantes y periféricos» en su frase introductoria, pero luego desarrolla otra clasificación. ¿Qué decisión adopta la guía y por qué?",
+      "option_a": "Conserva ambas expresiones como sinónimos, porque la inconsistencia es menor y no afecta la clasificación gráfica del manual",
+      "option_b": "Conserva «importantes», porque es la expresión empleada en la frase introductoria del numeral y no en el desarrollo posterior",
+      "option_c": "Conserva «esenciales», porque el MBC 5-18 no es autoritario frente a un Manual Fundamental Conjunto vigente y debe corregirse",
+      "option_d": "Conserva «esenciales», porque corresponde a la denominación de los apartados definitorios y de la clasificación presentada por el manual",
+      "correct_option": "D"
+    },
+    {
+      "number": 69,
+      "text": "El capítulo 1 señala que el poder nacional puede incorporar, además de DIME, finanzas, inteligencia, Estado de derecho y desarrollo. ¿Cómo debe interpretarse esa mención respecto de DIMEFIL?",
+      "option_a": "Es el origen de DIMEFIL, que sustituye a DIME como modelo doctrinal básico del MBC 5-18 y del análisis del ambiente estratégico",
+      "option_b": "Es equivalente a DIMEFIL, pues ambas amplían DIME con las mismas dimensiones de análisis: finanzas, inteligencia, Estado de derecho y desarrollo",
+      "option_c": "No debe confundirse con DIMEFIL, herramienta del capítulo 5 definida como diplomática, informacional, militar, económica, financiera, institucional y legal",
+      "option_d": "Corresponde a PMESII, herramienta del capítulo 5 definida como política, militar, económica, social, información e infraestructura",
+      "correct_option": "C"
+    },
+    {
+      "number": 70,
+      "text": "Un documento organiza actividades, responsabilidades y recursos para ejecutar decisiones y es presentado como «la estrategia». ¿Qué observación corresponde según la guía?",
+      "option_a": "Describe la estrategia, pues el planeamiento y la estrategia son equivalentes en la doctrina conjunta",
+      "option_b": "Describe el planeamiento: una estrategia puede requerirlo, pero estrategia y plan no son sinónimos",
+      "option_c": "Describe el arte operacional, pues diseña campañas que conectan los objetivos estratégicos con las acciones tácticas",
+      "option_d": "Describe la doctrina, pues proporciona fundamentos, principios y lenguaje común para orientar el empleo de las fuerzas",
+      "correct_option": "B"
+    },
+    {
+      "number": 71,
+      "text": "Según la clasificación de estrategias militares del capítulo 4, ¿cómo se distinguen la Estrategia Militar Nacional y la estrategia institucional o de Fuerza?",
+      "option_a": "La EMN distribuye y aplica el poder militar en apoyo de estrategias y objetivos superiores; la institucional traduce la estrategia militar en prioridades internas de preparación, desarrollo y transformación",
+      "option_b": "La EMN orienta el desarrollo de capacidades y la evaluación de riesgo; la institucional distribuye y aplica el poder militar en apoyo de estrategias y objetivos superiores",
+      "option_c": "La EMN y la estrategia institucional son niveles de la estrategia del numeral 1.6, que distribuyen y aplican el poder militar en apoyo de estrategias y objetivos superiores",
+      "option_d": "La EMN traduce la estrategia militar en prioridades internas de preparación, desarrollo y transformación; la institucional distribuye y aplica el poder militar en apoyo de estrategias superiores",
+      "correct_option": "A"
+    },
+    {
+      "number": 72,
+      "text": "¿Cuál afirmación sobre aniquilación y someter es correcta según el Anexo A?",
+      "option_a": "Aniquilación es una de las cinco formas de la EMN; someter es un enfoque estratégico fundamental; no son equivalentes",
+      "option_b": "Aniquilación y someter son enfoques estratégicos equivalentes, y ninguno de los dos corresponde a las formas de la EMN",
+      "option_c": "Aniquilación y someter son dos de las cinco formas de la EMN y se emplean como sinónimos en la doctrina conjunta colombiana",
+      "option_d": "Aniquilación es un enfoque estratégico fundamental; someter es una de las cinco formas de la EMN, y no son equivalentes",
+      "correct_option": "A"
+    },
+    {
+      "number": 73,
+      "text": "Según el Anexo A, ¿cuál es la diferencia entre desgaste y erosión?",
+      "option_a": "El desgaste busca la destrucción completa y rápida del poder militar adversario; la erosión busca reducir progresivamente capacidades",
+      "option_b": "El desgaste busca debilitar cohesión, legitimidad o voluntad; la erosión busca reducir progresivamente las capacidades del adversario",
+      "option_c": "El desgaste busca reducir progresivamente capacidades; la erosión busca debilitar cohesión, legitimidad o voluntad con efectos predominantemente indirectos",
+      "option_d": "El desgaste exige elevada coordinación para medir efectos indirectos; la erosión requiere sostenimiento, tiempo y voluntad del Estado",
+      "correct_option": "C"
+    },
+    {
+      "number": 74,
+      "text": "¿Qué relación establece el Anexo A entre apremio y coerción?",
+      "option_a": "El apremio es un concepto más amplio de amenaza y presión; la coerción es una de las cinco formas estratégicas de la EMN",
+      "option_b": "El apremio es un enfoque estratégico fundamental; la coerción es una forma estratégica que busca destruir el poder adversario",
+      "option_c": "El apremio y la coerción son sinónimos, y ambos constituyen formas estratégicas desarrolladas específicamente para la EMN",
+      "option_d": "El apremio es una forma estratégica desarrollada para la EMN; la coerción es un concepto más amplio que incluye disuasión y obligación",
+      "correct_option": "D"
+    },
+    {
+      "number": 75,
+      "text": "Un informe califica el ambiente como «híbrido», «asimétrico» y «complejo» sin explicar qué características concretas generan el problema. ¿Qué trampa estratégica ilustra, según la guía?",
+      "option_a": "El proceso sobre producto, que convierte el cumplimiento del procedimiento en la finalidad",
+      "option_b": "El uso de etiquetas, que reemplaza el análisis de las características concretas por palabras generales",
+      "option_c": "Las panaceas estratégicas, que atribuyen a una capacidad la solución de todos los problemas",
+      "option_d": "El fait accompli decisivo, que supone una condición irreversible antes de la respuesta adversaria",
+      "correct_option": "B"
+    },
+    {
+      "number": 76,
+      "text": "Un estado mayor considera exitosa su estrategia porque cumplió cada paso del procedimiento establecido, sin verificar los resultados. ¿Qué trampa describe la guía?",
+      "option_a": "Fait accompli decisivo, pues se cree que una acción rápida producirá una condición irreversible",
+      "option_b": "Proceso sobre producto, pues un proceso correcto no garantiza un resultado correcto",
+      "option_c": "Panacea estratégica, pues se cree que una capacidad puede resolver por sí sola todos los problemas",
+      "option_d": "Desajuste entre resultados políticos y militares, pues puede existir éxito táctico y fracaso estratégico",
+      "correct_option": "B"
+    },
+    {
+      "number": 77,
+      "text": "Una estrategia se ejecutó correctamente, pero el problema estratégico fue formulado como «faltan medios». ¿Qué evaluación es coherente con la guía?",
+      "option_a": "Es una buena estrategia, pues la correcta ejecución compensa la deficiente formulación del problema estratégico planteado",
+      "option_b": "Es una estrategia válida, pues bastan los actores y las condiciones para definir el problema estratégico",
+      "option_c": "Es una buena estrategia, pues el problema estratégico debe formularse como la ausencia de una solución a la brecha",
+      "option_d": "Continúa siendo una mala estrategia, pues «faltan medios» puede ser un dato, pero no expresa necesariamente el problema",
+      "correct_option": "D"
+    },
+    {
+      "number": 78,
+      "text": "Un estado mayor acumula gran cantidad de datos sobre el adversario, pero sin interpretar relaciones, motivaciones ni tendencias. ¿Qué concluye la guía sobre ese resultado?",
+      "option_a": "Constituye entendimiento, pues el entendimiento equivale a reunir la mayor cantidad posible de información sobre el adversario",
+      "option_b": "No constituye entendimiento, pues este implica interpretar relaciones, actores, motivaciones, tendencias y consecuencias",
+      "option_c": "No constituye entendimiento, pues este solo se alcanza al ejecutar las operaciones sobre el terreno y observar los resultados",
+      "option_d": "Constituye entendimiento si los datos provienen del instrumento de información del poder nacional y están protegidos",
+      "correct_option": "B"
+    },
+    {
+      "number": 79,
+      "text": "Un comandante afirma que la estrategia avanza porque todas las tareas previstas han sido ejecutadas. ¿Cómo valora la guía ese razonamiento?",
+      "option_a": "Es válido: la ejecución de todas las tareas demuestra progreso hacia el estado final deseado",
+      "option_b": "Es insuficiente solo en el nivel táctico; en el nivel estratégico la ejecución de tareas basta",
+      "option_c": "Es insuficiente: la ejecución de tareas o actividades no demuestra por sí misma progreso estratégico",
+      "option_d": "Es válido siempre que las tareas hayan sido ejecutadas por el instrumento militar del Estado",
+      "correct_option": "C"
+    },
+    {
+      "number": 80,
+      "text": "Según el Glosario esencial (Anexo B), ¿cuál de las siguientes parejas de definiciones es correcta?",
+      "option_a": "Poder: capacidad de mantener una estrategia durante el tiempo necesario; capacidad: aptitud de una organización o fuerza para producir un efecto",
+      "option_b": "Poder: capacidad para influir sobre actores, condiciones o acontecimientos; capacidad: posibilidad de que se materialice una consecuencia adversa",
+      "option_c": "Poder: aptitud de una organización o fuerza para producir un efecto; capacidad: capacidad para influir sobre actores, condiciones o acontecimientos",
+      "option_d": "Poder: capacidad para influir sobre actores, condiciones o acontecimientos; capacidad: aptitud de una organización o fuerza para producir un efecto",
+      "correct_option": "D"
+    },
+    {
+      "number": 81,
+      "text": "Una estrategia puede ejecutarse con los medios disponibles y permite alcanzar los fines, pero su viabilidad política y la aceptación de sus costos son dudosas. ¿Qué criterio de validación debe examinarse?",
+      "option_a": "Factibilidad, que determina si la estrategia puede ejecutarse con los medios disponibles para ello",
+      "option_b": "Adecuación, que determina si la estrategia permite alcanzar los fines que se han establecido",
+      "option_c": "Sostenibilidad, que determina si la estrategia puede mantenerse durante el tiempo necesario",
+      "option_d": "Aceptabilidad, que determina si es políticamente viable y si sus costos pueden aceptarse",
+      "correct_option": "D"
+    },
+    {
+      "number": 82,
+      "text": "Según la guía, ¿qué debe concentrar una evaluación estratégica, a diferencia de las evaluaciones subordinadas?",
+      "option_a": "La preparación y las capacidades de las fuerzas, mientras las subordinadas examinan el progreso hacia los fines",
+      "option_b": "El progreso hacia los objetivos y fines, mientras las subordinadas pueden examinar campaña, preparación o capacidades",
+      "option_c": "El cumplimiento del procedimiento de planeamiento, mientras las subordinadas examinan los riesgos",
+      "option_d": "La ejecución de las actividades de campaña, mientras las subordinadas examinan el progreso hacia los fines",
+      "correct_option": "B"
+    },
+    {
+      "number": 83,
+      "text": "Durante la formulación de una estrategia se usaron supuestos que resultan inválidos total o parcialmente. ¿Qué tipo de riesgo se materializa, según la guía?",
+      "option_a": "Un riesgo de la estrategia: consecuencia adversa generada por su propia implementación",
+      "option_b": "Una amenaza, entendida como la posibilidad y consecuencias de un resultado adverso",
+      "option_c": "Un costo de la estrategia: pérdida o sacrificio asociado con su ejecución",
+      "option_d": "Un riesgo para la estrategia: condición que puede hacerla fracasar",
+      "correct_option": "D"
+    },
+    {
+      "number": 84,
+      "text": "Al evaluar la validez de la estrategia, además de preguntar si se está ejecutando bien, ¿qué pregunta fundamental debe formularse?",
+      "option_a": "¿Se cumplió el procedimiento?",
+      "option_b": "¿Existen los medios asignados?",
+      "option_c": "¿Seguimos haciendo lo correcto?",
+      "option_d": "¿Se ejecutaron las tareas previstas?",
+      "correct_option": "C"
+    },
+    {
+      "number": 85,
+      "text": "La evidencia muestra que una estrategia está perdiendo eficacia. ¿Qué actitud recomienda la guía?",
+      "option_a": "Mantenerla sin cambios, pues modificarla representaría un fracaso del planeamiento original y de quienes la formularon",
+      "option_b": "Corregirla, modificando objetivos, formas, medios, prioridades o supuestos; modificarla no es necesariamente fracaso",
+      "option_c": "Corregirla solo al finalizar la ejecución, cuando pueda realizarse la evaluación final de todos los resultados",
+      "option_d": "Corregir únicamente los medios, pues los objetivos, las formas y los supuestos no pueden modificarse durante la ejecución",
+      "correct_option": "B"
+    },
+    {
+      "number": 86,
+      "text": "¿Cuál es el criterio central de la evaluación final de la estrategia, según la guía?",
+      "option_a": "Determinar si los medios asignados siguen siendo nominalmente suficientes para alcanzar el objetivo",
+      "option_b": "Determinar si produce el resultado deseado a un costo y riesgo compatibles con la importancia del objetivo",
+      "option_c": "Determinar si todas las actividades previstas fueron ejecutadas conforme al procedimiento establecido",
+      "option_d": "Determinar si el resultado militar fue alcanzado, con independencia de su costo y de su riesgo",
+      "correct_option": "B"
+    },
+    {
+      "number": 87,
+      "text": "Una fuerza obtiene un resultado militar exitoso, pero este no coincide con el resultado político buscado. ¿Qué trampa describe la guía y qué debe mantenerse?",
+      "option_a": "Panacea estratégica; debe evaluarse el contexto en que se emplea cada tecnología, doctrina o capacidad",
+      "option_b": "Fait accompli decisivo; debe evaluarse la reacción del adversario, la escalada y su adaptación a la acción",
+      "option_c": "Proceso sobre producto; debe verificarse que el cumplimiento del procedimiento garantice el resultado correcto",
+      "option_d": "Desajuste entre resultados políticos y militares; debe mantenerse permanente conexión entre acción militar y propósito político",
+      "correct_option": "D"
+    },
+    {
+      "number": 88,
+      "text": "Un plan supone que una acción rápida generará una condición irreversible antes de que el adversario pueda responder. ¿Qué trampa describe la guía y qué elementos ignora?",
+      "option_a": "Panacea estratégica; ignora el contexto en que se emplea la capacidad",
+      "option_b": "Proceso sobre producto; ignora el resultado que debe alcanzar el procedimiento",
+      "option_c": "Fait accompli decisivo; ignora la interacción, la escalada y la adaptación",
+      "option_d": "Uso de etiquetas; ignora las características concretas que producen el problema",
+      "correct_option": "C"
+    },
+    {
+      "number": 89,
+      "text": "Un estado mayor propone que una nueva tecnología resolverá por sí sola todos los problemas del conflicto. ¿Qué trampa ilustra y qué exige la estrategia?",
+      "option_a": "Fait accompli decisivo, pues la estrategia exige actuar antes de que el adversario pueda responder",
+      "option_b": "Uso de etiquetas, pues la estrategia exige calificar el ambiente con términos como «complejo»",
+      "option_c": "Panacea estratégica, pues la estrategia exige considerar el contexto en que se emplea la capacidad",
+      "option_d": "Proceso sobre producto, pues la estrategia exige cumplir íntegramente el procedimiento establecido",
+      "correct_option": "C"
+    },
+    {
+      "number": 90,
+      "text": "¿Cuál enumeración corresponde al contenido mínimo que debe permitir comprender el documento de estrategia militar?",
+      "option_a": "Qué amenaza se enfrenta, qué se pretende alcanzar, cómo, qué recursos se requieren, qué riesgos existen y cómo se determinará si la estrategia funciona",
+      "option_b": "Qué problema se enfrenta, qué intereses nacionales existen, cómo, qué recursos se requieren, qué riesgos existen y cómo se determinará si la estrategia funciona",
+      "option_c": "Qué problema se enfrenta, qué se pretende alcanzar, cómo, qué recursos se requieren, qué riesgos existen y qué tareas se ejecutarán en cada fase",
+      "option_d": "Qué problema se enfrenta, qué se pretende alcanzar, cómo, qué recursos se requieren, qué riesgos existen y cómo se determinará si la estrategia funciona",
+      "correct_option": "D"
+    },
+    {
+      "number": 91,
+      "text": "Al asignar medios para producir un efecto, el estado mayor verifica que los medios existen formalmente en la fuerza. ¿Qué advierte la guía?",
+      "option_a": "La existencia de medios nominales no significa que estén preparados o sean sostenibles para producir el efecto",
+      "option_b": "La existencia de medios nominales basta, pues la asignación solo debe guardar relación con el instrumento",
+      "option_c": "La existencia de medios nominales garantiza que estén preparados, aunque no que sean sostenibles",
+      "option_d": "La asignación es independiente del efecto esperado y responde únicamente a las restricciones",
+      "correct_option": "A"
+    },
+    {
+      "number": 92,
+      "text": "¿Cómo deben utilizarse PMESII, DIMEFIL y el análisis sistémico en la comprensión del ambiente estratégico?",
+      "option_a": "Como listas de chequeo que garantizan la comprensión del ambiente al completar cada dimensión",
+      "option_b": "De forma complementaria, sin convertirlos en listas de chequeo carentes de interpretación",
+      "option_c": "De forma sucesiva, pues cada modelo sustituye al anterior a medida que avanza el análisis",
+      "option_d": "De forma excluyente, eligiendo el modelo que mejor se adapte al problema y descartando los demás",
+      "correct_option": "B"
+    },
+    {
+      "number": 93,
+      "text": "¿Cómo describe el MBC 5-18 el proceso de construcción de la Estrategia Militar Nacional?",
+      "option_a": "Como un proceso reiterativo y adaptativo, que parte de asignar los medios antes de comprender el ambiente y formular el problema",
+      "option_b": "Como una receta o secuencia automática, que parte de determinar los fines antes de comprender el ambiente estratégico y formular el problema",
+      "option_c": "Como un proceso reiterativo, flexible y adaptativo, que parte de comprender el ambiente y formular el problema antes de determinar los fines",
+      "option_d": "Como un proceso lineal y rígido, que parte de seleccionar las formas antes de formular el problema estratégico y determinar los fines",
+      "correct_option": "C"
+    },
+    {
+      "number": 94,
+      "text": "Un plan descansa exclusivamente en la superioridad tecnológica. Según Gray, ¿qué implicación tiene?",
+      "option_a": "Fracasará únicamente por razones logísticas, pues las demás dimensiones de la estrategia son secundarias frente a la logística",
+      "option_b": "Puede fracasar, pues ninguna estrategia se reduce a una sola dimensión y la superioridad tecnológica falla si la política es incoherente",
+      "option_c": "Tendrá éxito, pues la tecnología es la dimensión que determina el resultado de la estrategia y compensa las demás dimensiones",
+      "option_d": "Tendrá éxito siempre que exista una excelente maniobra, aunque falte el sostenimiento de las operaciones y la política sea incoherente",
+      "correct_option": "B"
+    },
+    {
+      "number": 95,
+      "text": "El estado mayor debe construir las capacidades y estructuras necesarias para escenarios futuros. ¿A qué componente de la estrategia institucional corresponde?",
+      "option_a": "A las campañas de contingencia, que responden a crisis que alteran el planeamiento",
+      "option_b": "Al desarrollo de la fuerza, que es adaptativo y opera en horizontes próximos",
+      "option_c": "A la gestión global de la fuerza y postura, que relaciona distribución y ubicación",
+      "option_d": "Al diseño de la fuerza, que es innovador y opera en horizontes más largos",
+      "correct_option": "D"
+    },
+    {
+      "number": 96,
+      "text": "¿Qué debe equilibrar la postura estratégica, según la guía?",
+      "option_a": "Las demandas presentes, la recuperación de preparación y los riesgos futuros",
+      "option_b": "Las demandas presentes y la construcción de capacidades para escenarios futuros únicamente",
+      "option_c": "Los fines, las formas y los medios disponibles para la estrategia",
+      "option_d": "La distribución de las fuerzas y la ubicación de los instrumentos del poder nacional",
+      "correct_option": "A"
+    },
+    {
+      "number": 97,
+      "text": "Un estado mayor evalúa adoptar inteligencia artificial para apoyar el análisis. ¿Qué advierte la guía?",
+      "option_a": "Genera riesgos de sesgos, opacidad y dependencia; su adopción debe guardar relación con doctrina, sostenimiento y control humano",
+      "option_b": "Elimina los riesgos de sesgos y opacidad, por lo que su adopción no requiere guardar relación con la doctrina ni con el control humano",
+      "option_c": "Sustituye la doctrina y el sostenimiento, pues modifica la autonomía, la precisión y la velocidad decisional de las operaciones",
+      "option_d": "Genera riesgos de sesgos y opacidad, pero no de dependencia, y su adopción depende solo de su precisión y velocidad",
+      "correct_option": "A"
+    },
+    {
+      "number": 98,
+      "text": "Si una fuerza depende de capacidades espaciales para comunicaciones, navegación, inteligencia y sincronización, ¿qué implicación estratégica señala la guía?",
+      "option_a": "La dependencia es irrelevante, pues las capacidades espaciales solo apoyan la inteligencia y la navegación",
+      "option_b": "La degradación solo afecta el dominio espacial, sin efectos simultáneos sobre otros ámbitos o dominios",
+      "option_c": "La dependencia crea vulnerabilidades: su degradación puede producir efectos simultáneos en diferentes dominios",
+      "option_d": "La dependencia elimina vulnerabilidades, pues el espacio permite sincronizar todos los dominios de la fuerza",
+      "correct_option": "C"
+    },
+    {
+      "number": 99,
+      "text": "Si los mensajes de una estrategia contradicen las acciones de otros instrumentos del poder nacional, ¿qué consecuencia señala la guía?",
+      "option_a": "Se compromete la credibilidad, pues la coherencia entre mensaje y acción es una condición de credibilidad",
+      "option_b": "No hay efecto alguno, pues solo las acciones militares producen efectos estratégicos",
+      "option_c": "Se refuerza la credibilidad, pues la comunicación debe actuar de forma independiente de otros instrumentos",
+      "option_d": "Se pierde la sincronización, pero no la credibilidad, que depende únicamente de la capacidad militar",
+      "correct_option": "A"
+    },
+    {
+      "number": 100,
+      "text": "Según las consideraciones finales del capítulo 5, ¿qué debe lograr la Estrategia Militar Nacional más allá de producir un documento?",
+      "option_a": "Institucionalizar el pensamiento estratégico, con valor en decisiones, capacidades, prioridades, programas, campañas y evaluación",
+      "option_b": "Sustituir a los Manuales Fundamentales Conjuntos como referencia doctrinal de las Fuerzas Militares y del Estado",
+      "option_c": "Reemplazar el planeamiento operacional, concentrando en el documento la conducción de las campañas y de las operaciones",
+      "option_d": "Fijar un procedimiento invariable, cuyo cumplimiento garantice por sí mismo los resultados estratégicos que se buscan",
+      "correct_option": "A"
+    }
+  ]
+}

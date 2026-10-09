@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% load extras %}
+{% block title %}Inicio{% endblock %}
+{% block content %}
+<div class="card home-welcome">
+  <h1>¡Bienvenido, {{ user.name }}!</h1>
+  <p>Bienvenido a <strong>Preparate CEM - 2027</strong>, tu portal de preparación para el CEM 2027.</p>
+  <p class="muted">Aquí encontrarás simulacros de práctica, guías de estudio y un resumen de tu progreso por materia.</p>
+</div>
+
+<div class="info-grid">
+  <div class="card info-card"><div class="info-icon">📝</div><div><h2>Test Simulacro</h2><p>Realiza exámenes de práctica de cada materia. Cada simulacro selecciona <strong>40 preguntas al azar</strong> de un banco de 100 preguntas y dispones de <strong>80 minutos</strong> para responderlo.</p><a class="btn" href="{% url 'test_simulacro' %}">Ir a Test Simulacro</a></div></div>
+  <div class="card info-card"><div class="info-icon">📚</div><div><h2>Guías de estudio</h2><p>Consulta y descarga las guías de estudio disponibles para complementar tu preparación y reforzar los contenidos de cada materia.</p><a class="btn secondary" href="{% url 'study_guides' %}">Ver Guías</a></div></div>
+</div>
+
+<div class="card">
+  <div class="section-heading"><div><h2>Mi progreso</h2><p class="muted">Mejor resultado obtenido en cada materia.</p></div></div>
+  <div class="progress-list">
+  {% for item in progress %}
+    <div class="progress-row">
+      <div class="progress-label">{{ item.subject.name }}</div>
+      <div class="progress-track"><div class="progress-bar" style="width:{% if item.score is not None %}{{ item.score }}{% else %}0{% endif %}%"></div></div>
+      <div class="progress-score">{% if item.score is not None %}{{ item.score|floatformat:0 }}%{% else %}—{% endif %}</div>
+    </div>
+  {% endfor %}
+  </div>
+  {% if recommendation %}<div class="recommendation"><strong>💡 Recomendación:</strong> {{ recommendation }}</div>{% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,907 @@
+{
+  "subject": "Geografía de Colombia",
+  "description": "Banco de preguntas Geografía de Colombia — CEM 2027.",
+  "total_questions": 100,
+  "questions": [
+    {
+      "number": 1,
+      "text": "Según la guía, ¿qué rama de la geografía estudia la distribución de los Estados y los pueblos a través de las distintas épocas?",
+      "option_a": "La geografía política",
+      "option_b": "La geografía física",
+      "option_c": "La geografía histórica",
+      "option_d": "La geografía lingüística",
+      "correct_option": "C"
+    },
+    {
+      "number": 2,
+      "text": "¿Qué caracterizó a la geografía durante la Edad Media (siglos VI al XV), según la guía?",
+      "option_a": "Su consolidación como ciencia, con viajes patrocinados por potencias europeas como los de Colón, Vasco de Gama y Magallanes",
+      "option_b": "Descripciones comerciales centradas en el comercio marítimo, propias de la geografía romana y del método de observación",
+      "option_c": "La inclusión de métodos cuantitativos en los análisis de localización espacial y de demografía, hacia mediados del siglo",
+      "option_d": "Un estancamiento con carácter descriptivo, con aportes de investigadores árabes que interpretaron y tradujeron los tratados de los griegos",
+      "correct_option": "D"
+    },
+    {
+      "number": 3,
+      "text": "Según la guía, ¿cuáles son ejemplos de macrorregiones?",
+      "option_a": "El corredor BosWash y el Delta del río Yangtsé",
+      "option_b": "La Amazonía, el Sahel y la cuenca del Mediterráneo",
+      "option_c": "La Amazonía y el corredor BosWash en Estados Unidos",
+      "option_d": "El Sahel y el Delta del río Yangtsé en China",
+      "correct_option": "B"
+    },
+    {
+      "number": 4,
+      "text": "Según la guía, el ordenamiento de un país comprende tres ejes. ¿Cuáles son?",
+      "option_a": "Territorio, población y gobierno",
+      "option_b": "Territorio, región y gobierno",
+      "option_c": "Territorio, población y soberanía",
+      "option_d": "Población, economía y gobierno",
+      "correct_option": "A"
+    },
+    {
+      "number": 5,
+      "text": "En el caso de Colombia, ¿cuáles son las tres unidades político-administrativas que identifica la guía?",
+      "option_a": "El Estado, el departamento y la provincia",
+      "option_b": "El Estado, la región y el municipio",
+      "option_c": "El departamento, el distrito y el municipio",
+      "option_d": "El Estado, el departamento y el municipio",
+      "correct_option": "D"
+    },
+    {
+      "number": 6,
+      "text": "Según la guía, ¿qué coordenadas enmarcan la posición absoluta de Colombia al Sur y al Oeste?",
+      "option_a": "Al Sur, latitud 16°04’15” S; al Oeste, longitud 66°50’54” W",
+      "option_b": "Al Sur, latitud 4°13’30” S; al Oeste, longitud 84°46’00” W",
+      "option_c": "Al Sur, latitud 4°13’30” S; al Oeste, longitud 66°50’54” W",
+      "option_d": "Al Sur, latitud 16°04’15” N; al Oeste, longitud 84°46’00” W",
+      "correct_option": "B"
+    },
+    {
+      "number": 7,
+      "text": "¿Qué extensión de norte a sur tiene América del Sur y entre qué puntos extremos se mide, según la guía?",
+      "option_a": "7.617 km, entre Punta Arenas, la ciudad más austral, y Punta Gallinas, en La Guajira (Colombia)",
+      "option_b": "7.617 km, entre el Cabo de la Vela, en La Guajira (Colombia), y la Tierra del Fuego (Chile y Argentina)",
+      "option_c": "7.617 km, entre Punta Gallinas, en La Guajira (Colombia), y la Tierra del Fuego (Chile y Argentina)",
+      "option_d": "25.431 km, entre Punta Gallinas, en La Guajira (Colombia), y la Tierra del Fuego (Chile y Argentina)",
+      "correct_option": "C"
+    },
+    {
+      "number": 8,
+      "text": "Según la guía, ¿cuál es el área marítima de Colombia y qué porcentaje del área total representa?",
+      "option_a": "928.660 km², equivalentes al 44,86 % del área total",
+      "option_b": "1.141.748 km², equivalentes al 44,86 % del área total",
+      "option_c": "1.141.748 km², equivalentes al 55,14 % del área total",
+      "option_d": "928.660 km², equivalentes al 55,14 % del área total",
+      "correct_option": "A"
+    },
+    {
+      "number": 9,
+      "text": "¿Cuál es el punto de partida para el señalamiento de los límites de Colombia con los países vecinos, según la guía?",
+      "option_a": "El mapa de la Gran Colombia de 1821, basado en el principio uti possidetis juris",
+      "option_b": "El mapa del Virreinato de Santa Fe de 1810, basado en el principio uti possidetis juris",
+      "option_c": "El mapa de la Nueva Granada de 1832, basado en el principio uti possidetis juris",
+      "option_d": "El mapa del Virreinato de Santa Fe de 1810, basado en el principio uti possidetis de facto",
+      "correct_option": "B"
+    },
+    {
+      "number": 10,
+      "text": "¿Qué empresa surgió en 1919 como la primera de aviación en Colombia, según la guía?",
+      "option_a": "SCADTA (Sociedad Colombo-Alemana de Transportes Aéreos), que luego se convirtió en Avianca",
+      "option_b": "SCADTA, línea oficial manejada por la Fuerza Aérea Colombiana para los Territorios Nacionales",
+      "option_c": "SATENA, línea oficial manejada por la Fuerza Aérea Colombiana, que luego se convirtió en Avianca",
+      "option_d": "SATENA (Sociedad Colombo-Alemana de Transportes Aéreos), que fortaleció la cooperación técnica alemana",
+      "correct_option": "A"
+    },
+    {
+      "number": 11,
+      "text": "Según la guía, ¿qué extensión fijó Colombia para su mar territorial y mediante cuál norma?",
+      "option_a": "200 millas náuticas, mediante la Ley 10 de 1978",
+      "option_b": "12 millas náuticas, mediante el Decreto 1436 de 1984",
+      "option_c": "12 millas náuticas, mediante la Ley 10 de 1978",
+      "option_d": "24 millas náuticas, mediante la Ley 10 de 1978",
+      "correct_option": "C"
+    },
+    {
+      "number": 12,
+      "text": "Entre los distritos especiales que enumera la guía, ¿cuál es la denominación oficial de Buenaventura?",
+      "option_a": "Distrito Especial, Industrial, Portuario, Musical y Folclórico",
+      "option_b": "Distrito Especial, Industrial, Portuario, Turístico y Cultural",
+      "option_c": "Distrito Especial, Turístico, Cultural, Biodiverso y Ecoturístico",
+      "option_d": "Distrito Especial, Industrial, Portuario, Biodiverso y Ecoturístico",
+      "correct_option": "D"
+    },
+    {
+      "number": 13,
+      "text": "Según el artículo 286 de la Constitución, citado en la guía, ¿cuáles son las entidades territoriales?",
+      "option_a": "Los departamentos, las regiones, los municipios y los territorios indígenas",
+      "option_b": "Los departamentos, los distritos, las comunas y los territorios indígenas",
+      "option_c": "Los departamentos, los distritos, los municipios y los territorios indígenas",
+      "option_d": "Los departamentos, los distritos, los municipios y las provincias",
+      "correct_option": "C"
+    },
+    {
+      "number": 14,
+      "text": "¿Qué indemnización aceptó Colombia por la separación de Panamá en 1903, según la guía?",
+      "option_a": "25 millones de dólares, pagaderos a plazos hasta el año de 1924",
+      "option_b": "25 millones de dólares, pagaderos a plazos hasta el año de 1921",
+      "option_c": "50 millones de dólares, pagaderos a plazos hasta el año de 1921",
+      "option_d": "25 millones de dólares, pagaderos a plazos hasta el año de 1928",
+      "correct_option": "B"
+    },
+    {
+      "number": 15,
+      "text": "¿Con qué instrumento terminó el conflicto con el Perú de 1932-1933 y qué cedió Colombia, según la guía?",
+      "option_a": "Con el protocolo de Río de Janeiro de 1934, por el cual cedió más de 200.000 km² de territorios regados por los ríos Amazonas, Napo, Putumayo y Caquetá",
+      "option_b": "Con el Tratado Suárez – Muñoz Vernaza de 1916, por el cual cedió más de 200.000 km² de territorios regados por los ríos Amazonas, Napo, Putumayo y Caquetá",
+      "option_c": "Con el Tratado de Río de Janeiro de 1928, por el cual cedió más de 200.000 km² de territorios regados por los ríos Amazonas, Napo, Putumayo y Caquetá",
+      "option_d": "Con el protocolo de Río de Janeiro de 1934, por el cual cedió más de 250.000 km² de territorios regados por los ríos Amazonas, Napo, Putumayo y Caquetá",
+      "correct_option": "A"
+    },
+    {
+      "number": 16,
+      "text": "El Tratado Vásquez Cobo – Martins de 1907, firmado en la administración del presidente Rafael Reyes Prieto, tuvo como resultado:",
+      "option_a": "La entrega por parte del gobierno colombiano de más de 200.000 km² de territorio",
+      "option_b": "El reconocimiento a Brasil de la línea Apaporis – Tabatinga como límite de fronteras",
+      "option_c": "La pérdida de 77.082 km² de territorio geopolíticamente estratégico",
+      "option_d": "La entrega por parte del gobierno colombiano de más de 250.000 km² de territorio",
+      "correct_option": "D"
+    },
+    {
+      "number": 17,
+      "text": "¿Qué definió el laudo arbitral de la Reina María Cristina, emitido en 1891, según la guía?",
+      "option_a": "La frontera con Venezuela, de manera muy similar a su configuración actual",
+      "option_b": "La entrega de los islotes de Los Monjes mediante una nota del canciller",
+      "option_c": "La soberanía de Colombia sobre el archipiélago de San Andrés y Providencia",
+      "option_d": "La delimitación de las áreas marinas y submarinas del golfo de Coquivacoa",
+      "correct_option": "A"
+    },
+    {
+      "number": 18,
+      "text": "¿Qué firmaron en 1969 los presidentes Rafael Caldera y Carlos Lleras Restrepo, según la guía?",
+      "option_a": "La Declaración de Arauca, sobre la preferencia de Venezuela por los mecanismos bilaterales de solución",
+      "option_b": "La hipótesis Pérez – López, para declarar el golfo como una bahía histórica administrada en condominio",
+      "option_c": "La Declaración de Sochagota, sobre la conveniencia de delimitar las aguas marinas y submarinas fronterizas",
+      "option_d": "La hipótesis de Caraballeda, para delimitar las aguas marinas y submarinas del golfo de Coquivacoa",
+      "correct_option": "C"
+    },
+    {
+      "number": 19,
+      "text": "Según la guía, ¿qué estipuló el Acta de Canje de 1930 respecto al archipiélago de San Andrés, Providencia y Santa Catalina?",
+      "option_a": "Que el archipiélago no se extendería al este del meridiano 82° W",
+      "option_b": "Que la costa de la Mosquitia y las islas Mangle seguirían siendo de Colombia",
+      "option_c": "Que los límites marítimos con Nicaragua seguirían la línea media entre las costas",
+      "option_d": "Que el archipiélago no se extendería al oeste del meridiano 82° W",
+      "correct_option": "D"
+    },
+    {
+      "number": 20,
+      "text": "¿Qué decidió la CIJ en 2007 respecto al Tratado Esguerra – Bárcenas, según la guía?",
+      "option_a": "Lo declaró vigente, pero se declaró incompetente para decidir sobre la delimitación marítima",
+      "option_b": "Lo declaró un tratado válido y vigente y reconoció la soberanía de Colombia sobre el archipiélago",
+      "option_c": "Lo declaró válido, pero fijó el meridiano 82° W como el límite marítimo único entre ambos Estados",
+      "option_d": "Lo declaró inválido por haber sido firmado bajo ocupación militar de Estados Unidos, como alegó Nicaragua",
+      "correct_option": "B"
+    },
+    {
+      "number": 21,
+      "text": "¿Cuánto territorio marítimo cercenó a Colombia el fallo de fondo de la CIJ de 2012, según la guía?",
+      "option_a": "150.000 km² de territorio marítimo",
+      "option_b": "77.082 km² de territorio marítimo",
+      "option_c": "928.660 km² de territorio marítimo",
+      "option_d": "75.000 km² de territorio marítimo",
+      "correct_option": "D"
+    },
+    {
+      "number": 22,
+      "text": "¿Qué tres elementos fronterizos prevé la Ley 191 de 1995, según la guía?",
+      "option_a": "Zonas de frontera, unidades especiales de desarrollo fronterizo y ciudades binarias de frontera",
+      "option_b": "Zonas de frontera, unidades especiales de desarrollo fronterizo y zonas de integración fronteriza",
+      "option_c": "Zonas de frontera, zonas binacionales de paz y unidades especiales de desarrollo fronterizo",
+      "option_d": "Zonas de integración fronteriza, distritos especiales fronterizos y zonas de frontera",
+      "correct_option": "B"
+    },
+    {
+      "number": 23,
+      "text": "Según la guía, ¿cuál es la longitud de la cordillera Oriental y qué lugar ocupa en extensión y en altura?",
+      "option_a": "1.100 km; es la primera en extensión y la segunda en altura",
+      "option_b": "1.300 km; es la segunda en extensión y la primera en altura",
+      "option_c": "1.300 km; es la primera en extensión y la segunda en altura",
+      "option_d": "900 km; es la primera en extensión y la segunda en altura",
+      "correct_option": "C"
+    },
+    {
+      "number": 24,
+      "text": "Según la guía, ¿cuál es la longitud del río Magdalena y cuántos kilómetros son navegables?",
+      "option_a": "1.543 km, de los cuales son navegables 1.290 km",
+      "option_b": "1.543 km, de los cuales son navegables 620 km",
+      "option_c": "1.350 km, de los cuales son navegables 1.290 km",
+      "option_d": "1.543 km, de los cuales son navegables 1.700 km",
+      "correct_option": "A"
+    },
+    {
+      "number": 25,
+      "text": "¿Qué altitud y qué temperatura caracterizan al piso térmico cálido, según la guía?",
+      "option_a": "Entre 1.000 y 2.000 metros sobre el nivel del mar, con temperaturas entre 17° y 24 °C",
+      "option_b": "Entre 0 y 1.000 metros sobre el nivel del mar, con temperaturas entre 17° y 24 °C",
+      "option_c": "Entre 0 y 2.000 metros sobre el nivel del mar, con un promedio de 24 °C",
+      "option_d": "Entre 0 y 1.000 metros sobre el nivel del mar, con un promedio de 24 °C",
+      "correct_option": "D"
+    },
+    {
+      "number": 26,
+      "text": "Según la guía, ¿qué factores permitieron los descubrimientos trascendentales que caracterizaron la Edad Moderna?",
+      "option_a": "El estancamiento descriptivo de la disciplina y las traducciones árabes de los tratados de los griegos clásicos al latín",
+      "option_b": "Los avances cartográficos y las innovaciones tecnológicas en la navegación marítima, con viajes patrocinados por potencias europeas",
+      "option_c": "Los Sistemas de Información Geográfica, que permiten el análisis simultáneo de datos y la elaboración de modelos espaciales",
+      "option_d": "La geografía romana, concentrada en descripciones comerciales y en la medición del mundo mediante la observación",
+      "correct_option": "B"
+    },
+    {
+      "number": 27,
+      "text": "Según la guía, ¿por qué la región es el punto de partida del ordenamiento territorial?",
+      "option_a": "Porque es la entidad territorial básica, un territorio discernible por sus condiciones físico-ambientales singulares, cuya unidad la da un elemento físico (biotopo)",
+      "option_b": "Porque su tamaño pequeño la distingue de las mega-regiones y las macrorregiones, que no comparten elementos físicos, humanos ni culturales comunes",
+      "option_c": "Porque es una creación del hombre, que la regula y modifica según su necesidad, con una estructura y una nomenclatura específicas para gobernar",
+      "option_d": "Porque coincide siempre con las divisiones políticas, administrativas, culturales y económicas, y es la unidad que organiza el gobierno del territorio",
+      "correct_option": "A"
+    },
+    {
+      "number": 28,
+      "text": "De acuerdo con la guía, ¿qué ocurre con las fronteras cuando entre sus habitantes faltan intereses comunes?",
+      "option_a": "Se redefinen automáticamente por una implícita “ley del acomodo”, sin necesidad de tratados entre los Estados que las comparten",
+      "option_b": "Se convierten en límites estáticos, respaldados por el carácter jurídico del tratado internacional que los sustenta en el tiempo",
+      "option_c": "Se tornan excesivamente vulnerables a los factores políticos y económicos de los países colindantes, y se exacerba la agresividad entre vecinos",
+      "option_d": "Se transforman en ejes que articulan la vida de las comunidades fronterizas, como ocurre con un río o una cuenca compartida",
+      "correct_option": "C"
+    },
+    {
+      "number": 29,
+      "text": "Según la guía, ¿a qué se debe, en lo fundamental, el fraccionamiento del territorio colombiano a lo largo de la historia?",
+      "option_a": "A que los límites no se hayan fijado mediante tratados internacionales aprobados por el Congreso y ratificados por el presidente",
+      "option_b": "A la aplicación del principio uti possidetis juris de 1810, que dejó sin definir los límites con Nicaragua, Costa Rica y Panamá",
+      "option_c": "A la adopción por parte de Brasil del uti possidetis de facto, que desconoció desde el inicio el mapa del Virreinato de Santa Fe",
+      "option_d": "A la ausencia de intereses nacionales de carácter permanente y a una clara falta de visión geopolítica de los gobiernos nacionales",
+      "correct_option": "D"
+    },
+    {
+      "number": 30,
+      "text": "¿Qué secuencia de hechos explica, según la guía, la separación de Panamá?",
+      "option_a": "En plena guerra de los Mil Días, el gobierno de Marroquín pidió intervención militar a Estados Unidos, que luego apoyó la independencia panameña a cambio de prerrogativas para construir el canal",
+      "option_b": "En plena guerra de los Mil Días, el gobierno de Marroquín pidió ayuda militar al Reino Unido, que luego apoyó la independencia panameña a cambio de prerrogativas para construir el canal",
+      "option_c": "En plena guerra de los Mil Días, la dirigencia panameña pidió ayuda a Estados Unidos, que luego exigió a Colombia el canal a cambio de reconocer la independencia del Istmo",
+      "option_d": "Tras la guerra de los Mil Días, Estados Unidos intervino militarmente por iniciativa propia y obligó a Colombia a ceder el Istmo sin acuerdo alguno con la dirigencia panameña",
+      "correct_option": "A"
+    },
+    {
+      "number": 31,
+      "text": "¿Qué elemento común expone la guía entre la invasión peruana de 1829 y las pretensiones ecuatorianas sobre Popayán y Pasto?",
+      "option_a": "En ambos casos, la controversia culminó con el Tratado Suárez – Muñoz Vernaza de 1916, que fijó el límite de manera definitiva",
+      "option_b": "En ambos casos, las pretensiones sobre territorio colombiano contaron con el apoyo de los coroneles José María Obando y José Hilario López",
+      "option_c": "En ambos casos, la disputa fue resuelta mediante el laudo arbitral de la Reina María Cristina de España, emitido en 1891",
+      "option_d": "En ambos casos, el territorio fue cedido mediante un tratado firmado por Alfredo Vásquez Cobo como Ministro de Relaciones Exteriores",
+      "correct_option": "B"
+    },
+    {
+      "number": 32,
+      "text": "¿Por qué la guía califica al golfo de Coquivacoa como un área geopolíticamente trascendental?",
+      "option_a": "Por sus reservas de hidrocarburos, por ser el acceso al golfo de Morrosquillo y por la riqueza de sus esmeraldas",
+      "option_b": "Por los islotes de Los Monjes, por ser el acceso al golfo de Urabá y por sus recursos ictiológicos",
+      "option_c": "Por sus reservas de hidrocarburos (petróleo y gas), por ser el acceso al lago de Maracaibo y por sus recursos ictiológicos",
+      "option_d": "Por sus reservas de carbón y de oro, por ser el acceso al canal del Dique y por sus recursos ictiológicos",
+      "correct_option": "C"
+    },
+    {
+      "number": 33,
+      "text": "¿Qué impidió que la hipótesis de Caraballeda se convirtiera en un tratado, según la guía?",
+      "option_a": "El Congreso colombiano aprobó el proyecto, pero el gobierno venezolano lo desconoció, alegando que necesitaba un plebiscito",
+      "option_b": "Ambos Congresos lo aprobaron, pero la Corte Internacional de Justicia lo declaró incompatible con el Tratado de 1939",
+      "option_c": "El Congreso venezolano lo aprobó, pero la opinión pública colombiana lo rechazó por no incluir los islotes de Los Monjes",
+      "option_d": "El gobierno colombiano lo desconoció, alegando que necesitaba un plebiscito, aunque el Congreso venezolano lo había aprobado",
+      "correct_option": "A"
+    },
+    {
+      "number": 34,
+      "text": "¿En qué se diferencian las tesis de Colombia y de Venezuela sobre la delimitación en el golfo de Coquivacoa, según la guía?",
+      "option_a": "Colombia invoca títulos históricos de más de cuatro siglos; Venezuela invoca la línea media entre las penínsulas de La Guajira y Paraguaná",
+      "option_b": "Colombia propone prolongar la línea Castilletes y usar la plataforma de Los Monjes; Venezuela propone la línea media, alegando tener costas sobre el golfo",
+      "option_c": "Colombia y Venezuela proponen la línea media, pero Venezuela rechaza las 12 millas náuticas de mar territorial y la mediación de la CIJ",
+      "option_d": "Colombia propone la línea media, alegando tener costas sobre el golfo; Venezuela propone prolongar la línea Castilletes y usar la plataforma de Los Monjes",
+      "correct_option": "D"
+    },
+    {
+      "number": 35,
+      "text": "¿En qué se basaron las cinco excepciones preliminares que Colombia interpuso en 2003 ante la CIJ, según la guía?",
+      "option_a": "En que el Tratado Esguerra – Bárcenas de 1928 había sido declarado inválido en 1980 por el presidente Ortega, lo que excluía la competencia de la CIJ",
+      "option_b": "En que Colombia había retirado su declaración de aceptación de la jurisdicción de la CIJ solo después de que Nicaragua presentara su primera demanda",
+      "option_c": "En que el Pacto de Bogotá excluye de la competencia de la CIJ los asuntos ya resueltos por un tratado vigente, como el Tratado Esguerra – Bárcenas de 1928",
+      "option_d": "En que el Pacto de Bogotá solo se ratificó en 1968, por lo que no podía aplicarse a la demanda presentada por Nicaragua en 2001",
+      "correct_option": "C"
+    },
+    {
+      "number": 36,
+      "text": "¿Qué relación establece la guía entre el fallo de la CIJ de 2023 y el de 2012?",
+      "option_a": "El de 2023 declaró a Colombia responsable de incumplir el de 2012 y la obligó a pagar una indemnización a Nicaragua",
+      "option_b": "El de 2023 reafirmó y fortaleció el de 2012, al rechazar que Nicaragua extendiera su plataforma continental más allá de las 200 millas náuticas",
+      "option_c": "El de 2023 aceptó la ampliación de la plataforma continental de Nicaragua, pero reafirmó la soberanía colombiana sobre las islas",
+      "option_d": "El de 2023 revocó el de 2012 y devolvió a Colombia los 75.000 km² de territorio marítimo que le habían sido cercenados",
+      "correct_option": "B"
+    },
+    {
+      "number": 37,
+      "text": "Según la guía, ¿qué consecuencia tuvo la determinación de descentralización y autonomía de la Constitución de 1991 para las entidades territoriales?",
+      "option_a": "Los gobernadores pasaron a ser designados por el Consejo Nacional de Gobernadores presidido por el presidente",
+      "option_b": "Las intendencias y comisarías se mantuvieron como entidades territoriales de régimen especial, sin autonomía fiscal",
+      "option_c": "Los departamentos perdieron la facultad de crear y suprimir municipios, que pasó al Gobierno nacional",
+      "option_d": "Pueden administrar sus propios recursos, crear tributos y emitir bonos y títulos de deuda pública",
+      "correct_option": "D"
+    },
+    {
+      "number": 38,
+      "text": "¿Cómo explica la guía la cadena de volcanes y la alta amenaza sísmica del occidente colombiano?",
+      "option_a": "Por la subducción de la placa suramericana bajo la placa de Nazca, a una velocidad de 6 cm por año",
+      "option_b": "Por la subducción de la placa de Nazca bajo la suramericana, en la esquina noroccidental donde ambas placas chocan",
+      "option_c": "Por la separación de la placa suramericana de la africana, cuya sutura (Rift) expande el piso del océano Atlántico",
+      "option_d": "Por la subducción de la placa del Caribe a 6 cm por año, que levantó primero la cordillera Oriental",
+      "correct_option": "B"
+    },
+    {
+      "number": 39,
+      "text": "Según la guía, ¿en qué orden emergieron las tres cordilleras de Colombia?",
+      "option_a": "Primero la Central, después la Occidental (por un salto de la zona de subducción) y finalmente la Oriental",
+      "option_b": "Primero la Oriental, después la Central y finalmente la Occidental, por un salto de la zona de subducción",
+      "option_c": "Primero la Central, después la Oriental y finalmente la Occidental, donde quedaron fósiles de reptiles gigantes",
+      "option_d": "Primero la Occidental, después la Central y finalmente la Oriental, donde quedaron fósiles de reptiles gigantes",
+      "correct_option": "A"
+    },
+    {
+      "number": 40,
+      "text": "Según la guía, ¿por qué se originan los pisos térmicos y qué tan determinante es la altitud en las zonas ecuatoriales?",
+      "option_a": "A mayor distancia al Ecuador disminuye el calentamiento solar, y la altitud es determinante en las áreas polares",
+      "option_b": "Las corrientes frías provenientes de los polos impiden la evaporación, y la altitud es poco influyente en lo ecuatorial",
+      "option_c": "A mayor altitud el clima tiende a ser más frío, y la altitud es determinante en las zonas ecuatoriales",
+      "option_d": "Las montañas detienen los vientos y generan lluvias, y la altitud es nada influyente en las zonas ecuatoriales",
+      "correct_option": "C"
+    },
+    {
+      "number": 41,
+      "text": "¿Por qué los lugares más cercanos al mar presentan temperaturas más moderadas y menor oscilación térmica, según la guía?",
+      "option_a": "Porque el aire caliente es menos denso, sube sobre el mar y deja zonas de alta presión con cielo despejado",
+      "option_b": "Porque las montañas cercanas a la costa detienen los vientos y, al chocar las nubes con ellas, se generan lluvias",
+      "option_c": "Porque las aguas se calientan y se enfrían más lentamente que la tierra, y los mares y océanos regulan las temperaturas",
+      "option_d": "Porque las corrientes frías, que provienen de los polos, enfrían el aire y reducen la evaporación en las costas",
+      "correct_option": "C"
+    },
+    {
+      "number": 42,
+      "text": "Según la guía, ¿cuándo considera el índice NBI que un hogar se encuentra en miseria (extremadamente pobre)?",
+      "option_a": "Cuando presenta dos o más de las características de necesidades básicas insatisfechas",
+      "option_b": "Cuando presenta al menos una de las características de necesidades básicas insatisfechas",
+      "option_c": "Cuando presenta tres o más de las características de necesidades básicas insatisfechas",
+      "option_d": "Cuando todos sus niños entre 7 y 11 años no asisten a un establecimiento escolar",
+      "correct_option": "A"
+    },
+    {
+      "number": 43,
+      "text": "Según la guía, ¿en qué se diferencian el producto interno bruto (PIB) y el producto nacional bruto (PNB)?",
+      "option_a": "El PIB concentra solo los sectores primario y secundario; el PNB agrega el terciario y el cuaternario realizados dentro del país",
+      "option_b": "El PIB mide la producción realizada dentro de las fronteras sin importar la nacionalidad del productor; el PNB, la de los nacionales dentro o fuera del país",
+      "option_c": "El PIB mide la producción de los nacionales dentro o fuera del país; el PNB, la realizada dentro de las fronteras sin importar la nacionalidad",
+      "option_d": "El PIB tiene en cuenta la depreciación del capital y se denomina neto; el PNB no la tiene en cuenta y se denomina bruto",
+      "correct_option": "B"
+    },
+    {
+      "number": 44,
+      "text": "¿Por qué la guía considera fundamental mejorar la infraestructura vial vinculada a los puertos, en especial los del Pacífico?",
+      "option_a": "Porque el 98 % de la carga de comercio exterior se moviliza por modo terrestre y solo el 2 % por el modo marítimo",
+      "option_b": "Porque el tráfico portuario se concentra en el Pacífico, donde Buenaventura participa con la mayor parte de la carga",
+      "option_c": "Porque la inversión pública en puertos ha sido alta, lo que ha desplazado al capital privado y encarecido las operaciones",
+      "option_d": "Porque una de las principales limitaciones de los puertos es el acceso desde el interior del país, en particular en el Pacífico",
+      "correct_option": "D"
+    },
+    {
+      "number": 45,
+      "text": "¿Qué relación establece la guía entre el transporte ferroviario y el carbón?",
+      "option_a": "Casi toda la carga férrea es carbón, movido de las minas a los puertos para exportar y también hacia el interior del país",
+      "option_b": "El carbón se moviliza por tren hacia puertos venezolanos, mientras la carga diversa predomina en los tramos privados",
+      "option_c": "El transporte de otras mercancías por tren ha crecido desde 1994 junto con el del carbón, que se ha mantenido estable",
+      "option_d": "El modo férreo transporta cerca del 72,5 % de la carga nacional, usado casi exclusivamente para movilizar carbón",
+      "correct_option": "A"
+    },
+    {
+      "number": 46,
+      "text": "Si la geografía es, según la guía, “una ciencia de Estado”, ¿qué implicación se deriva para quienes ejercen funciones de mando y planeamiento?",
+      "option_a": "Su estudio es útil solo en su versión teórica, que debe mantenerse separada de la planificación para conservar su rigor",
+      "option_b": "Su estudio debe reservarse a los geógrafos, pues el ordenamiento territorial es una disciplina propia de la geografía",
+      "option_c": "Su estudio les concierne de manera especial, pues alude a líderes, dirigentes políticos, militares, planificadores y administradores",
+      "option_d": "Su estudio es secundario, pues la geografía es una ciencia hija de las demás ciencias de la tierra y se subordina a ellas",
+      "correct_option": "C"
+    },
+    {
+      "number": 47,
+      "text": "Un comandante planea una operación en una región determinada. ¿Qué criterio sobre el clima se desprende de la guía?",
+      "option_a": "Considerarlo un factor menor, pues solo resulta relevante para la planificación agropecuaria e industrial de cada región",
+      "option_b": "Conocerlo y aprovecharlo para obtener el mayor beneficio, pues resulta esencial en el planeamiento de operaciones militares",
+      "option_c": "Asumir que cambia drásticamente de un año a otro, pues la oscilación anual de la temperatura supera los 5 °C",
+      "option_d": "Basarse en predicciones exactas, ya que la guía afirma que es posible predecir el clima en el corto y mediano plazo",
+      "correct_option": "B"
+    },
+    {
+      "number": 48,
+      "text": "¿Qué enseña el incidente de 1987 con la fragata ARC Caldas sobre un diferendo marítimo no resuelto?",
+      "option_a": "Que la presencia naval en el golfo solo genera tensión cuando Venezuela no ha suscrito el tratado de demarcación de 1941",
+      "option_b": "Que se resuelve de manera inmediata mediante la mediación de la Corte Internacional de Justicia, conforme al Tratado de 1939",
+      "option_c": "Que la movilización de medios navales es innecesaria cuando existe una declaración presidencial conjunta, como la de Sochagota",
+      "option_d": "Que puede escalar a movilizaciones de medios navales, aéreos y terrestres y desatar una de las mayores crisis diplomáticas entre ambas naciones",
+      "correct_option": "D"
+    },
+    {
+      "number": 49,
+      "text": "¿Qué dificultad plantea, según la guía, la falta de acuerdo internacional sobre el límite superior del espacio aéreo?",
+      "option_a": "Impide que la Fuerza Aérea utilice la órbita geoestacionaria, cuya explotación prohíbe la Unión Internacional de Telecomunicaciones",
+      "option_b": "Genera el problema de establecer el espacio aéreo sobre el que las Fuerzas Armadas deben vigilar y proteger la soberanía nacional",
+      "option_c": "Obliga a Colombia a limitar su soberanía aérea a 12 millas náuticas, la misma extensión de su mar territorial",
+      "option_d": "Hace que la competencia sobre el segmento de la órbita geoestacionaria corresponda exclusivamente a la Unión Internacional de Telecomunicaciones",
+      "correct_option": "B"
+    },
+    {
+      "number": 50,
+      "text": "¿Qué postura doctrinal sobre el espacio aéreo registra el Manual de Doctrina Básica Aérea y Espacial (MADBA, cuarta edición, 2013)?",
+      "option_a": "La Fuerza Aérea debe ejercer soberanía compartida con la UIT sobre el segmento de la órbita geoestacionaria",
+      "option_b": "La Fuerza Aérea debe ejercer soberanía irrestricta solo hasta la altura aproximada de 36.000 km sobre la línea ecuatorial",
+      "option_c": "La Fuerza Aérea debe ejercer soberanía irrestricta sobre el espacio aéreo, que incluye un segmento de la órbita geoestacionaria",
+      "option_d": "La Fuerza Aérea debe abstenerse de usar la órbita geoestacionaria hasta que la comunidad internacional fije el límite superior",
+      "correct_option": "C"
+    },
+    {
+      "number": 51,
+      "text": "Entre los fundamentos de la tercera demanda de Nicaragua (26 de noviembre de 2013), ¿cuál se relaciona con el uso de la fuerza?",
+      "option_a": "El Decreto Presidencial 1946 de 2013, que retiró a Colombia del Pacto de Bogotá y de la jurisdicción de la Corte",
+      "option_b": "La movilización de medios navales, aéreos y terrestres por la presencia de la fragata ARC Caldas en el golfo de Coquivacoa",
+      "option_c": "Las declaraciones del vicepresidente Angelino Garzón, según las cuales el fallo de 2012 era vinculante para Colombia",
+      "option_d": "La constante amenaza de uso de la fuerza por parte del presidente Santos y del comandante de la Armada de la República de Colombia",
+      "correct_option": "D"
+    },
+    {
+      "number": 52,
+      "text": "¿Qué expone la guía sobre el retiro de Colombia del Pacto de Bogotá, ocurrido el 27 de noviembre de 2012?",
+      "option_a": "Entró en vigor un año después, y según el propio pacto la denuncia no afecta los procedimientos pendientes iniciados antes de la solicitud",
+      "option_b": "Entró en vigor a los dos años y, según el pacto, dejó sin efecto los procedimientos pendientes iniciados antes de la solicitud",
+      "option_c": "Entró en vigor de inmediato y dejó sin efecto los procedimientos pendientes ante la Corte Internacional de Justicia",
+      "option_d": "Ocurrió el 5 de diciembre de 2001, un día antes de la primera demanda de Nicaragua, y extinguió la competencia de la Corte",
+      "correct_option": "A"
+    },
+    {
+      "number": 53,
+      "text": "¿Qué secuencia de hechos de diciembre de 2001 explica por qué Colombia propuso excepciones preliminares ante la CIJ en 2003?",
+      "option_a": "El 5 de diciembre Colombia retiró su declaración de aceptación de la jurisdicción obligatoria y el 6 Nicaragua presentó su primera demanda",
+      "option_b": "El 5 de diciembre Colombia ratificó el Pacto de Bogotá y el 6 Nicaragua presentó su primera demanda contra el país",
+      "option_c": "El 5 de diciembre Colombia retiró su declaración de aceptación de la jurisdicción y el 6 Nicaragua presentó su segunda demanda",
+      "option_d": "El 5 de diciembre Nicaragua presentó su primera demanda y el 6 Colombia retiró su declaración de aceptación de la jurisdicción obligatoria",
+      "correct_option": "A"
+    },
+    {
+      "number": 54,
+      "text": "¿A qué atribuye la guía el aislamiento y la marginalidad de muchas regiones fronterizas?",
+      "option_a": "A que los países vecinos han desmilitarizado sus zonas de frontera, lo que facilitó el narcotráfico y el desplazamiento de las comunidades locales",
+      "option_b": "A que la Ley 191 de 1995 limita los convenios de cooperación entre los departamentos y municipios fronterizos y las entidades territoriales vecinas",
+      "option_c": "A que ocupan una proporción muy pequeña del territorio y de la población, lo que reduce su peso frente a las políticas nacionales de desarrollo",
+      "option_d": "A planes de desarrollo que favorecieron la concentración de población y actividades en la región Andina y las zonas centrales de las costas norte y pacífica",
+      "correct_option": "D"
+    },
+    {
+      "number": 55,
+      "text": "Entre las estrategias de la política de fronteras latinoamericana, ¿qué cambio de doctrina propone la guía?",
+      "option_a": "Reemplazar la doctrina de la “integración nacional” por la de la “soberanía nacional”, para blindar las zonas de frontera frente a los vecinos",
+      "option_b": "Revisar la doctrina tradicional de la “soberanía nacional” e incorporar la de la “integración nacional”, con respeto a la integridad territorial",
+      "option_c": "Adoptar el uti possidetis de facto, según el cual las fronteras son móviles y llegan hasta donde haya connacionales establecidos y trabajando",
+      "option_d": "Suprimir las zonas binacionales de frontera y las ciudades binarias, para preservar la autenticidad cultural y la integridad de cada país",
+      "correct_option": "B"
+    },
+    {
+      "number": 56,
+      "text": "¿Por qué la guía califica a la Península de La Guajira como un punto estratégico de la geografía nacional?",
+      "option_a": "Por albergar el golfo de Morrosquillo, que encierra bahías y ensenadas de gran profundidad",
+      "option_b": "Por ser el punto donde la Sierra Nevada de Santa Marta se acerca al mar a escasos 40 km",
+      "option_c": "Por su ubicación y por el control que ofrece sobre gran parte del Mar Caribe",
+      "option_d": "Por ser el único accidente costero donde Colombia posee cayos, bancos de arena y arrecifes bajos",
+      "correct_option": "C"
+    },
+    {
+      "number": 57,
+      "text": "¿Qué problema de seguridad vincula la guía con la minería del oro en el país?",
+      "option_a": "Está concentrada en los cinturones esmeraldíferos de Boyacá, donde las regalías impactan positivamente el desarrollo regional",
+      "option_b": "Es controlada en su mayoría por multinacionales, por lo que más del 50 % de esa actividad es legal y aporta al PIB",
+      "option_c": "Se limita a la minería de subsistencia, por lo que su rentabilidad hace parte del PIB y financia al Estado",
+      "option_d": "Se ha convertido en fuente de financiamiento de organizaciones al margen de la ley, y menos del 50 % de esa actividad es legal",
+      "correct_option": "D"
+    },
+    {
+      "number": 58,
+      "text": "Según la guía, ¿qué factores impiden afirmar con certeza que la Serranía de San Lucas pueda ser competitiva en el mundo?",
+      "option_a": "La baja calidad del mineral y la ubicación del depósito en zonas de alta amenaza sísmica de la cordillera Occidental",
+      "option_b": "La falta de infraestructura férrea hacia los puertos del Caribe y la competencia del yacimiento de Cerro Matoso",
+      "option_c": "La carencia de estudios geológicos suficientes y una situación de orden público que no favorece la industrialización legal",
+      "option_d": "La ausencia de depósitos auríferos relevantes y el desinterés de las multinacionales por invertir en el sur de Bolívar",
+      "correct_option": "C"
+    },
+    {
+      "number": 59,
+      "text": "Ante la volatilidad de los precios del petróleo, ¿qué orientación plantea la guía para la economía nacional?",
+      "option_a": "Suspender la exploración y producción offshore en el Caribe mientras se estabilizan los precios internacionales del crudo",
+      "option_b": "Reducir la dependencia de los commodities, diversificando hacia los sectores secundario, terciario y cuaternario de la economía",
+      "option_c": "Esperar la masificación de las energías alternativas, que según la guía será viable en el corto y mediano plazo",
+      "option_d": "Concentrar la inversión en el sector primario, que garantiza mayor valor agregado que la industria y la transformación",
+      "correct_option": "B"
+    },
+    {
+      "number": 60,
+      "text": "Ante la creciente demanda de gas natural, ¿qué exige la guía al país?",
+      "option_a": "Ampliar la red de gasoductos y explorar nuevas fuentes y yacimientos, para soportar la demanda y exportar los excedentes",
+      "option_b": "Sustituir el gas natural por biocombustibles, cuyo mercado en Colombia ya es muy explotado y de rápida rentabilidad",
+      "option_c": "Suspender las exportaciones de excedentes hasta que Meta y Vichada concentren el presente y el futuro del gas",
+      "option_d": "Reducir la red de gasoductos y concentrar la producción en la plataforma marina de La Guajira para el consumo interno",
+      "correct_option": "A"
+    },
+    {
+      "number": 61,
+      "text": "¿Qué orientación de uso y manejo propone la guía para la Amazonía colombiana?",
+      "option_a": "Declarar de propiedad pública las tierras sobre los 3.500 metros y organizar guardapáramos entre los campesinos",
+      "option_b": "Tratarla como espacio de conservación ambiental, protegiendo su bioma estratégico y trabajando con las comunidades indígenas",
+      "option_c": "Priorizar proyectos de desarrollo económico terciario, sin restricciones por la fragilidad del entorno ni consulta indígena",
+      "option_d": "Impulsar la colonización controlada y la ingeniería del llano, con integración vial mediante canales interfluviales",
+      "correct_option": "B"
+    },
+    {
+      "number": 62,
+      "text": "En los principios de uso y manejo de la Orinoquía, ¿qué reto se asocia a la industria del petróleo?",
+      "option_a": "Responder al reto de la población masiva en el piedemonte",
+      "option_b": "Ordenar la cuenca hidrográfica del río Meta en Meta y Vichada",
+      "option_c": "Recuperar la serranía de la Macarena en el piedemonte",
+      "option_d": "Reemprender el proyecto Marandúa en la altillanura",
+      "correct_option": "A"
+    },
+    {
+      "number": 63,
+      "text": "¿En qué se diferencia, según la guía, el actual marco de cooperación colombo-venezolana en el espacio Marabino de propuestas anteriores?",
+      "option_a": "Establece autoridades locales compartidas en la frontera, formalizadas en julio de 2025 mediante un memorando de entendimiento",
+      "option_b": "Plantea sustituir el concepto de soberanía nacional por una integración binacional plena entre ambos Estados",
+      "option_c": "Se centra en la cooperación institucional y el desarrollo transfronterizo, manteniendo la soberanía de cada Estado",
+      "option_d": "Declara el golfo como una bahía histórica administrada en condominio por los dos Estados ribereños",
+      "correct_option": "C"
+    },
+    {
+      "number": 64,
+      "text": "¿Qué brecha de conectividad identifica la guía en el territorio, pese a la amplia penetración de la telefonía móvil?",
+      "option_a": "Las zonas rurales y remotas, en especial Caribe y Pacífico, carecen de redes 4G, que cubren solo el 12,4 % del país",
+      "option_b": "Las zonas urbanas tienen un acceso a internet fijo inferior al promedio nacional, con solo 12,4 % de los hogares",
+      "option_c": "Las regiones Orinoquía y Amazonía superan el promedio nacional de internet fijo, con 83 % de hogares rurales conectados",
+      "option_d": "Las zonas rurales y remotas, en especial Orinoquía y Amazonía, tienen muy bajo acceso a internet fijo (solo 12,4 % de hogares rurales)",
+      "correct_option": "D"
+    },
+    {
+      "number": 65,
+      "text": "Según la guía, ¿cuál es la finalidad esencial del Estado y cómo se concibe la soberanía?",
+      "option_a": "Garantizar la prestación de los servicios públicos; la soberanía es la autonomía para gestionar los intereses locales",
+      "option_b": "Garantizar la autonomía de los departamentos y municipios; la soberanía es un poder compartido con los demás Estados",
+      "option_c": "Garantizar la seguridad, la vida y la honra de los asociados; la soberanía es un poder que no reconoce sobre sí mismo ningún otro",
+      "option_d": "Garantizar el desarrollo económico de la población; la soberanía es la facultad de modificar los límites por decisión humana",
+      "correct_option": "C"
+    },
+    {
+      "number": 66,
+      "text": "La guía, apoyada en Molano (2015), sostiene que Colombia “no es un país tropical”. ¿Cuál es el argumento que presenta?",
+      "option_a": "Está entre los 16° N y los 4° S, en la franja ecuatorial, con condiciones opuestas a las tropicales; por eso es un país intertropical ecuatorial",
+      "option_b": "Está dentro de la franja de convergencia intertropical, donde las zonas de alta presión generan cielos despejados y tiempo seco",
+      "option_c": "Está entre los 18° y 32° de latitud, en la zona de transición hacia la subtropical, con condiciones propias de latitudes medias",
+      "option_d": "Está entre los 10° y 18° de latitud, en la zona sub-ecuatorial, donde predominan las altas presiones y el cielo despejado",
+      "correct_option": "A"
+    },
+    {
+      "number": 67,
+      "text": "En el apartado 4.2, ¿cuál de las siguientes afirmaciones corresponde a una interpretación del autor citado y no a un dato verificable?",
+      "option_a": "La posición absoluta de Colombia está enmarcada entre la latitud 16°04’15” N y la latitud 4°13’30” S",
+      "option_b": "La selva es un bioma de máxima diversidad, con hasta 1.500 especies y cerca de 93.000 individuos por hectárea",
+      "option_c": "La Zona Ecuatorial comprende 10° de latitud norte y sur a partir del Ecuador, y la Sub-Ecuatorial, entre los 10° y 18°",
+      "option_d": "La palabra bosque representa la expresión ideológica de empresas multinacionales que pretenden expropiar y patentar las selvas",
+      "correct_option": "D"
+    },
+    {
+      "number": 68,
+      "text": "¿Qué valoración hace la guía de los Estados surgidos tras la disolución de la Gran Colombia y el fracaso de la Confederación Latinoamericana?",
+      "option_a": "Se fortalecieron con el Congreso Anfictiónico de Panamá de 1826, que logró crear una poderosa Confederación de Estados Latinoamericanos",
+      "option_b": "Quedaron como “republiquetas” de baja densidad de población y escasos bienes de capital, presa fácil de aspiraciones expansionistas extranjeras",
+      "option_c": "Quedaron como Estados suficientemente fuertes para negociar con Inglaterra o Estados Unidos, tal como Bolívar lo había previsto",
+      "option_d": "Se consolidaron como repúblicas de alta densidad poblacional, que lograron integrarse mediante la Confederación de los Andes",
+      "correct_option": "B"
+    },
+    {
+      "number": 69,
+      "text": "¿Cómo evalúa la guía la decisión del canciller Juan Uribe Holguín de entregar en 1952 los islotes de Los Monjes mediante una nota?",
+      "option_a": "La considera contraria a la Constitución de 1886 solo porque no fue ratificada por el presidente Roberto Urdaneta",
+      "option_b": "La considera válida porque acogió la línea media establecida por la CONVEMAR en 1958, aceptada también por Venezuela",
+      "option_c": "La considera conforme al artículo 3 de la Constitución de 1886, pues fue un tratado público aprobado por el Congreso",
+      "option_d": "La considera contraria al artículo 3 de la Constitución de 1886, pues no fue un tratado público ni fue aprobada por el Congreso",
+      "correct_option": "D"
+    },
+    {
+      "number": 70,
+      "text": "¿Qué valoración hace la guía de la hipótesis de Caraballeda frente a las alternativas presentadas hasta ese momento?",
+      "option_a": "La considera la menos estructurada de las alternativas, porque omitía normas sobre pesca y yacimientos petroleros comunes",
+      "option_b": "La considera la más estructurada, equitativa e imparcial, por equilibrar los intereses de ambas naciones",
+      "option_c": "La considera inequitativa, pues cerraba el golfo a terceros y excluía el paso inocente de naves militares",
+      "option_d": "La considera equivalente a la hipótesis Pérez – López, pues ambas proponían un condominio administrado por los dos Estados",
+      "correct_option": "B"
+    },
+    {
+      "number": 71,
+      "text": "¿En qué argumentos se apoya Nicaragua para cuestionar la soberanía colombiana sobre el archipiélago, según la guía?",
+      "option_a": "En que el Tratado de 1928 no reconoció los territorios insulares y que el Acta de Canje de 1930 fijó el meridiano 82° W como límite",
+      "option_b": "En que el archipiélago hizo parte de la Mosquitia, incorporada a Nicaragua en 1894, y que Colombia nunca ratificó el Tratado de 1928",
+      "option_c": "En que el archipiélago es parte de su plataforma continental y que el Tratado de 1928 se firmó bajo presión y ocupación militar de Estados Unidos",
+      "option_d": "En que el Reino Unido reconoció a la Mosquitia como nación independiente en 1824 y que la Real Orden de 1806 es posterior a 1810",
+      "correct_option": "C"
+    },
+    {
+      "number": 72,
+      "text": "En el argumento colombiano basado en el uti possidetis juris, ¿qué papel cumple la Real Orden de 1806?",
+      "option_a": "Por haberse expedido antes de 1810, obliga a Colombia y a Nicaragua, como Estado sucesor de la República Federal de Centroamérica",
+      "option_b": "Por haber sido dictada por el presidente de Francia, Emile Loubet, resolvió el diferendo con Costa Rica y con Nicaragua",
+      "option_c": "Por restituir la Mosquitia a la Capitanía General de Guatemala, anula el Tratado de 1825 entre Colombia y Centroamérica",
+      "option_d": "Por haberse expedido después de 1810, carece de efecto frente a los Estados sucesores de la República Federal de Centroamérica",
+      "correct_option": "A"
+    },
+    {
+      "number": 73,
+      "text": "Respecto al fallo de la CIJ de 2023, ¿cuál enunciado de la guía constituye una valoración y no un hecho jurisdiccional?",
+      "option_a": "Que la Corte reiteró la soberanía colombiana sobre San Andrés, Providencia y Santa Catalina y sobre los cayos cercanos",
+      "option_b": "Que la Corte rechazó la solicitud de Nicaragua de extender su plataforma continental más allá de las 200 millas náuticas",
+      "option_c": "Que el fallo representó una importante victoria para Colombia, pues se inclinó claramente a favor de sus intereses",
+      "option_d": "Que la Corte, con sede en La Haya, reafirmó los límites marítimos establecidos en el fallo de 2012",
+      "correct_option": "C"
+    },
+    {
+      "number": 74,
+      "text": "Frente a la postura del MADBA (soberanía irrestricta), ¿qué conclusión recoge la guía del debate sobre la órbita geoestacionaria?",
+      "option_a": "El país solo puede sostener su soberanía si la Unión Internacional de Telecomunicaciones autoriza expresamente cada explotación",
+      "option_b": "El país debe excluir la órbita del texto constitucional, pues no hace parte del territorio nacional según el artículo 101",
+      "option_c": "El país cuenta con argumentos sólidos, jurídicos y tecnológicos, y su soberanía absoluta es aceptada por la comunidad internacional",
+      "option_d": "El país carece de argumentos sólidos, jurídicos y tecnológicos, para defender una soberanía absoluta, postura rechazada por la comunidad internacional",
+      "correct_option": "D"
+    },
+    {
+      "number": 75,
+      "text": "¿Cómo advierte la guía que debe interpretarse la participación sectorial del PIB al caracterizar una economía?",
+      "option_a": "De forma determinista: toda economía con predominio del sector primario presenta una estructura productiva poco diversificada y subdesarrollada",
+      "option_b": "No de forma lineal ni determinista: es un indicador entre muchos, y un fuerte peso primario no define por sí solo el nivel de desarrollo",
+      "option_c": "De forma lineal: a mayor participación del sector terciario, mayor ingreso y bienestar, sin importar la distribución del ingreso",
+      "option_d": "Solo como un criterio válido en Norteamérica y Europa, donde el sector secundario predomina sobre el primario y el terciario",
+      "correct_option": "B"
+    },
+    {
+      "number": 76,
+      "text": "¿Qué limitación señala la guía sobre el coeficiente de GINI?",
+      "option_a": "No mide el bienestar de una sociedad ni permite por sí solo determinar cómo está concentrado el ingreso",
+      "option_b": "Un índice de 100 representa equidad perfecta, por lo que solo sirve para comparar países con ingresos muy bajos",
+      "option_c": "Solo mide el gasto de consumo y excluye la desigualdad de la riqueza, por lo que es el indicador menos utilizado",
+      "option_d": "No permite medir la desigualdad de la distribución del ingreso entre individuos u hogares de una economía",
+      "correct_option": "A"
+    },
+    {
+      "number": 77,
+      "text": "¿Cuál es una de las limitaciones del NBI como medida de pobreza, según la guía?",
+      "option_a": "Incluye solo variables de ingreso monetario, sin considerar las características físicas de la vivienda",
+      "option_b": "Considera pobres solo a los hogares que presentan tres o más necesidades básicas insatisfechas a la vez",
+      "option_c": "Mide el capital humano mediante la educación del jefe de hogar, pero ignora el acceso a los servicios públicos",
+      "option_d": "No permite saber qué tan pobres son los pobres ni el grado de desigualdad entre ellos",
+      "correct_option": "D"
+    },
+    {
+      "number": 78,
+      "text": "¿Qué interpretación hace la guía sobre las divergencias y los vacíos en la información demográfica de los pueblos indígenas?",
+      "option_a": "Que afectan solo a los pueblos andinos y de las regiones Caribe y Pacífica, donde la localización sigue sin definirse",
+      "option_b": "Que son un problema técnico del DANE, sin efectos sobre el reconocimiento étnico ni sobre los derechos territoriales",
+      "option_c": "Que benefician a quienes política, económica o militarmente se lucran de esas inconsistencias",
+      "option_d": "Que se resolvieron con el Censo de 2018, que identificó 115 pueblos y fijó un acuerdo a todo nivel sobre su número",
+      "correct_option": "C"
+    },
+    {
+      "number": 79,
+      "text": "¿Qué postura asume la guía frente a la afirmación de que Colombia era quizás el país más rico en minerales de América?",
+      "option_a": "La presenta como algo que alguna vez se afirmó y cuya certeza corresponde establecer a los geólogos",
+      "option_b": "La refuta, pues los recursos mineros del país ya se encuentran agotados por la minería de subsistencia",
+      "option_c": "La confirma como un hecho comprobado por los estudios geológicos, que justifica depender de los commodities",
+      "option_d": "La atribuye al Ministerio de Minas y Energía, que la sustenta en la inversión offshore en el Caribe",
+      "correct_option": "A"
+    },
+    {
+      "number": 80,
+      "text": "Con el ejemplo del café (Márquez, 2003), ¿qué cuestionamiento plantea la guía sobre el uso del suelo?",
+      "option_a": "Si 1’100.000 hectáreas bastaron para el café, ¿por qué 5 millones de hectáreas se destinan hoy a cultivos agrícolas?",
+      "option_b": "Si 1’100.000 hectáreas bien usadas sostuvieron la economía durante años, ¿por qué se transformaron 45 millones de hectáreas sin un uso específico?",
+      "option_c": "Si 45 millones de hectáreas sostuvieron la economía con café, ¿por qué se transformaron solo 1’100.000 hectáreas sin un uso específico?",
+      "option_d": "Si el café ocupó el 1 % del territorio nacional, ¿por qué no se amplió a los 31,6 millones de hectáreas ya transformadas?",
+      "correct_option": "B"
+    },
+    {
+      "number": 81,
+      "text": "El Estado Mayor evalúa una propuesta de ceder un islote mediante una simple nota diplomática del canciller. Con base en la guía, ¿qué conclusión es correcta?",
+      "option_a": "Sería válida si el Instituto Geográfico Agustín Codazzi consigna las salvedades pertinentes en los mapas oficiales que expide para el país",
+      "option_b": "Sería contraria al orden constitucional: los límites solo pueden modificarse por tratados aprobados por el Congreso y ratificados por el presidente",
+      "option_c": "Sería válida, pues basta una nota del canciller para fijar las líneas divisorias con los países vecinos, como ocurrió con Los Monjes en 1952",
+      "option_d": "Sería válida si fuera aprobada solo por el Congreso, sin que deba ser ratificada por el presidente de la República en ningún caso",
+      "correct_option": "B"
+    },
+    {
+      "number": 82,
+      "text": "Colombia invoca el Tratado de 1939 en el diferendo del golfo de Coquivacoa. ¿Qué prevé ese tratado y qué obstáculo enfrenta?",
+      "option_a": "Prevé acudir a la CIJ si no hay acuerdo bilateral de delimitación; el obstáculo es que Venezuela no acepta su mediación",
+      "option_b": "Prevé declarar el golfo bahía histórica en condominio; el obstáculo es la oposición de la opinión pública colombiana",
+      "option_c": "Prevé acudir a la Corona Española como mediadora; el obstáculo es que Venezuela desconoce el laudo arbitral de 1891",
+      "option_d": "Prevé una delimitación por la línea media; el obstáculo es que Venezuela firmó la CONVEMAR y Colombia no la firmó",
+      "correct_option": "A"
+    },
+    {
+      "number": 83,
+      "text": "Al preparar la argumentación colombiana de la línea media en el golfo, ¿qué elementos de la guía sustentan la tesis y señalan una asimetría con Venezuela?",
+      "option_a": "Colombia tiene costas sobre el golfo, con derecho a 12 millas náuticas; además, ambos Estados se acogieron a la línea media en 1958",
+      "option_b": "Colombia tiene costas sobre el golfo, con derecho a 24 millas náuticas y a la plataforma; además, Venezuela ratificó la CONVEMAR",
+      "option_c": "Colombia carece de costas sobre el golfo, pero la CONVEMAR le otorga 12 millas náuticas; además, Venezuela no ha firmado la CONVEMAR",
+      "option_d": "Colombia tiene costas sobre el golfo, con derecho a 12 millas náuticas y a la plataforma; además, Venezuela no ha firmado la CONVEMAR",
+      "correct_option": "D"
+    },
+    {
+      "number": 84,
+      "text": "Para fundamentar la soberanía sobre el archipiélago ante la CIJ, ¿qué conjunto de hechos enumera la guía?",
+      "option_a": "El uti possidetis juris de 1810, la Real Orden de 1806, el laudo Loubet de 1900 y el Tratado Vélez – Victoria de 1924",
+      "option_b": "El uti possidetis de facto, el Tratado de 1825 con Centroamérica, el laudo Loubet de 1900 y el Tratado Esguerra – Bárcenas de 1928",
+      "option_c": "El uti possidetis juris de 1810, el Tratado de 1825 con Centroamérica, el laudo Loubet de 1900 y el Tratado Esguerra – Bárcenas de 1928",
+      "option_d": "El uti possidetis juris de 1810, el Tratado de 1825 con Centroamérica, el laudo de la Reina María Cristina de 1891 y el Tratado Esguerra – Bárcenas",
+      "correct_option": "C"
+    },
+    {
+      "number": 85,
+      "text": "Al evaluar el alcance de un fallo de la CIJ, ¿cuál afirmación coincide con lo expuesto en la guía?",
+      "option_a": "Es apelable ante el Consejo de Seguridad de la ONU, que puede revisarlo cuando un Estado considere que la otra parte lo incumple",
+      "option_b": "Es definitivo e inapelable, admite recursos de interpretación o revisión, y su incumplimiento puede llevarse ante el Consejo de Seguridad de la ONU",
+      "option_c": "Es definitivo e inapelable, y la Corte puede conocer cualquier asunto entre Estados miembros de la ONU sin su aceptación previa",
+      "option_d": "Es definitivo y no admite recurso alguno, y su incumplimiento solo puede tramitarse mediante arbitraje del presidente de Francia",
+      "correct_option": "B"
+    },
+    {
+      "number": 86,
+      "text": "Al aplicar la Ley 191 de 1995 en un departamento fronterizo, ¿qué exige la ley y quién puede celebrar convenios con las entidades vecinas?",
+      "option_a": "Al menos una zona de integración fronteriza; gobernadores y alcaldes, previamente autorizados por el Gobierno nacional",
+      "option_b": "Al menos una zona de frontera; gobernadores y alcaldes, sin autorización de Asambleas ni Concejos, por tratarse de cooperación",
+      "option_c": "Al menos una unidad especial de desarrollo fronterizo; solo el Gobierno nacional, mediante convenios con países vecinos",
+      "option_d": "Al menos una unidad especial de desarrollo fronterizo; gobernadores y alcaldes, previamente autorizados por Asambleas y Concejos",
+      "correct_option": "D"
+    },
+    {
+      "number": 87,
+      "text": "Para evaluar la proyección marítima del país, ¿qué clasificación de islas es correcta según la guía?",
+      "option_a": "Gorgona y Malpelo son continentales del Pacífico; el archipiélago de San Andrés, Providencia y Santa Catalina es oceánico del Caribe",
+      "option_b": "Isla Fuerte y Tierra Bomba son oceánicas del Caribe; Gorgona y Gorgonilla son continentales del océano Pacífico",
+      "option_c": "Gorgona y Gorgonilla son continentales del Pacífico; el archipiélago de San Andrés, Providencia y Santa Catalina y Malpelo son oceánicas",
+      "option_d": "Las islas del Rosario y de San Bernardo son oceánicas del Caribe; Malpelo es continental del océano Pacífico",
+      "correct_option": "C"
+    },
+    {
+      "number": 88,
+      "text": "Al priorizar zonas para planear la respuesta a emergencias sísmicas, ¿qué áreas identifica la guía como de alta amenaza?",
+      "option_a": "La cordillera Occidental y todo el andén pacífico, además del borde de la cordillera Oriental frente al piedemonte llanero",
+      "option_b": "El borde de la cordillera Oriental y toda la Orinoquía, marcados en amarillo por su amenaza sísmica intermedia",
+      "option_c": "La Orinoquía y la Amazonía, que aparecen en color verde y concentran la mayor acumulación de energía potencial",
+      "option_d": "Las rocas más antiguas del oriente, donde se acumula la mayor energía por tratarse de la zona menos estable",
+      "correct_option": "A"
+    },
+    {
+      "number": 89,
+      "text": "Un proyecto prevé usar fertilizantes y construir en la zona de recarga de un acuífero. ¿Qué advierte la guía?",
+      "option_a": "Los fertilizantes contaminan las aguas infiltradas y la construcción altera la infiltración, afectando el sistema hídrico y los acuíferos",
+      "option_b": "Los fertilizantes solo afectan las aguas de escorrentía, por lo que no alteran los depósitos de agua subterránea del valle",
+      "option_c": "La zona de recarga y la de acumulación coinciden siempre, por lo que cualquier intervención afecta directamente el valle",
+      "option_d": "La construcción es inocua en la zona de recarga, porque los acuíferos se forman únicamente en la zona de acumulación",
+      "correct_option": "A"
+    },
+    {
+      "number": 90,
+      "text": "¿Qué problema logístico del carbón identifica la guía y qué implicación señala para el país?",
+      "option_a": "Una parte considerable sale por ferrocarril hacia puertos del Pacífico, lo que eleva los costos; se deben mejorar los puertos de Buenaventura y Tumaco",
+      "option_b": "Una parte considerable sale por vía fluvial hacia puertos venezolanos, lo que afecta la rentabilidad; se debe ampliar la navegabilidad del río Magdalena",
+      "option_c": "Una parte considerable sale por tierra hacia puertos venezolanos, lo que afecta la competitividad; se deben mejorar los sistemas hacia los puertos del Caribe colombiano",
+      "option_d": "Casi todo se moviliza por tren hacia Puerto Bolívar, lo que satura el corredor; se deben mejorar los sistemas hacia puertos venezolanos",
+      "correct_option": "C"
+    },
+    {
+      "number": 91,
+      "text": "Para planificar el espacio Andino, ¿qué principios de uso y manejo señala la guía?",
+      "option_a": "Densidad de población media, distritos especiales, planificación integral de las islas y un centro oceanográfico del Caribe",
+      "option_b": "Alta densidad de población, gestión participativa con comunidades, conservación de manglares y mejora de la calidad del agua",
+      "option_c": "Baja densidad de población, colonización controlada, ordenamiento de cuencas y recuperación de la serranía de la Macarena",
+      "option_d": "Alta densidad de población, planificación por cuencas, preservación de páramos y propiedad pública por encima de los 3.500 metros",
+      "correct_option": "D"
+    },
+    {
+      "number": 92,
+      "text": "¿Cuál balance de ecosistemas terrestres y deforestación presenta la guía?",
+      "option_a": "Unos 61,9 millones de ha naturales y 31,6 millones transformadas (≈33 %); en 2024 la deforestación disminuyó entre el 35 % y el 43 %",
+      "option_b": "Unos 61,9 millones de ha naturales y 31,6 millones transformadas (≈33 %); en 2024 la deforestación aumentó, aunque fue la segunda más baja en dos décadas",
+      "option_c": "Unos 61,9 millones de ha naturales y 31,6 millones transformadas (≈33 %); en 2024 la deforestación aumentó y fue la más alta en dos décadas",
+      "option_d": "Unos 31,6 millones de ha naturales y 61,9 millones transformadas (≈33 %); en 2024 la deforestación aumentó, aunque fue la segunda más baja en dos décadas",
+      "correct_option": "B"
+    },
+    {
+      "number": 93,
+      "text": "Para la movilidad en Amazonía, Orinoquía y Pacífico, ¿qué modo de transporte destaca la guía como uno de los más importantes y por qué?",
+      "option_a": "El carretero, dada la alta densidad de la red vial en esas tres regiones",
+      "option_b": "El fluvial, dadas las restricciones ambientales al desarrollo de una red vial",
+      "option_c": "El férreo, dadas las restricciones ambientales al desarrollo de una red portuaria",
+      "option_d": "El marítimo, dado que el tráfico portuario se concentra en esas tres regiones",
+      "correct_option": "B"
+    },
+    {
+      "number": 94,
+      "text": "¿Qué relación establece la guía entre el reconocimiento étnico y los derechos territoriales de los pueblos indígenas?",
+      "option_a": "Los derechos territoriales existen de forma independiente del reconocimiento étnico, que es solo un trámite estadístico del DANE",
+      "option_b": "El reconocimiento étnico depende exclusivamente de los estudios etnográficos sistemáticos que realiza la academia",
+      "option_c": "El reconocimiento étnico es un primer paso obligatorio: sin él no hay derechos territoriales, y depende de la capacidad de los pueblos de exigirlo",
+      "option_d": "El reconocimiento étnico es inversamente proporcional a la capacidad de los pueblos indígenas de exigir y movilizarse",
+      "correct_option": "C"
+    },
+    {
+      "number": 95,
+      "text": "Al dimensionar la presencia indígena, ¿qué combinación de datos del Censo 2018 (DANE) es coherente con la guía?",
+      "option_a": "770 resguardos con unos 2,89 millones de ha (≈25,3 % del territorio), para 190.561 personas (4,4 % de la población)",
+      "option_b": "115 resguardos con unos 28,9 millones de ha (≈25,3 % del territorio), para 1.905.617 personas (4,4 % de la población)",
+      "option_c": "770 resguardos con unos 28,9 millones de ha (≈4,4 % del territorio), para 1.905.617 personas (25,3 % de la población)",
+      "option_d": "770 resguardos con unos 28,9 millones de ha (≈25,3 % del territorio), para 1.905.617 personas (4,4 % de la población)",
+      "correct_option": "D"
+    },
+    {
+      "number": 96,
+      "text": "Según la guía, ¿qué regiones requieren mayor esfuerzo del Estado para mejorar el acceso y el nivel de la educación?",
+      "option_a": "Caribe, Pacífica, Orinoquía y Amazonía, pues entre 1993 y 2005 las regiones Caribe y Pacífica tendieron a mantener los mismos resultados",
+      "option_b": "Caribe, Pacífica, Orinoquía y Amazonía, pues entre 1993 y 2005 la tasa de analfabetismo aumentó 2,6 puntos en el total nacional",
+      "option_c": "Andina, Caribe y Pacífica, pues entre 1993 y 2005 la región Andina tendió a mantener los mismos resultados en la tasa de analfabetismo",
+      "option_d": "Orinoquía, Amazonía y Marabina, pues entre 1993 y 2005 la Orinoquía tendió a mantener los mismos resultados en la tasa de analfabetismo",
+      "correct_option": "A"
+    },
+    {
+      "number": 97,
+      "text": "Un inversionista evalúa dónde localizar una nueva actividad productiva. ¿Qué factores destaca la guía?",
+      "option_a": "La cercanía a los centros poblados como único factor, pues el mercado es irrelevante en las economías de tipo capitalista, donde no se produce para vender",
+      "option_b": "La tierra como factor decisivo, igual de importante para la industria que para la agricultura, la ganadería y la silvicultura, por encima de cualquier otro",
+      "option_c": "La fertilidad de los suelos como factor principal, pues los factores sociales y culturales ya no influyen en la localización de la industria",
+      "option_d": "El mercado como primera consideración, además de mano de obra, insumos, energía y agua, e infraestructura de servicios, en especial vías y transporte",
+      "correct_option": "D"
+    },
+    {
+      "number": 98,
+      "text": "Un analista usa la PEA como si fuera la tasa de desempleo. ¿Qué error comete, según la guía?",
+      "option_a": "La PEA agrupa solo a las personas ocupadas, por lo que equivale a la tasa de ocupación del mercado laboral",
+      "option_b": "La PEA agrupa ocupados y desempleados, por lo que no debe interpretarse como tasa de ocupación ni de desempleo",
+      "option_c": "La PEA mide la calidad del trabajo generado y la capacidad de la economía para generar puestos de trabajo",
+      "option_d": "La PEA mide el porcentaje de la población en edad de trabajar que participa activamente en el mercado laboral",
+      "correct_option": "B"
+    },
+    {
+      "number": 99,
+      "text": "Para coordinar proyectos de interés subregional entre municipios de un mismo departamento, ¿qué unidad de apoyo y coordinación describe la guía?",
+      "option_a": "Las regiones administrativas y de planeación, a las que se asociarían los departamentos según regiones",
+      "option_b": "Los distritos, unidades de régimen especial para el manejo de territorios que requieren atención especializada",
+      "option_c": "Las provincias, conformadas por la asociación de municipios de un mismo departamento",
+      "option_d": "Las áreas metropolitanas, conjunto formado por una metrópoli y las poblaciones que la acompañan en proximidad",
+      "correct_option": "C"
+    },
+    {
+      "number": 100,
+      "text": "Al analizar la red vial nacional, ¿qué conclusión es coherente con la guía?",
+      "option_a": "Se concentra en la zona Andina con polo en Bogotá, es casi inexistente en la Amazonía y las conexiones transversales avanzan más lento",
+      "option_b": "Es densa en la Amazonía, y moviliza el 91 % de los pasajeros y el 87 % de la mercancía, según datos de 2019",
+      "option_c": "Se concentra en el Caribe con polo en Barranquilla, y las conexiones longitudinales son las más difíciles de construir",
+      "option_d": "Es más densa en la Orinoquía y el Pacífico que en la región Andina, y las conexiones transversales avanzaron más rápido",
+      "correct_option": "A"
+    }
+  ]
+}
